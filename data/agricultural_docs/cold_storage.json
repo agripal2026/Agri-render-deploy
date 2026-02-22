@@ -1,0 +1,4148 @@
+{
+  "cold_storage": [
+    {
+      "name": "Mysuru Cold Storage Ltd",
+      "city": "Mysuru",
+      "state": "Karnataka",
+      "latitude": 12.32,
+      "longitude": 76.61,
+      "capacity": "5000 MT",
+      "storage_types": [
+        "Vegetables",
+        "Fruits",
+        "Dairy"
+      ],
+      "contact": "+91-821-2345678",
+      "products": [
+        {
+          "name": "Vegetable Storage (per month)",
+          "price": "₹350/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Fruit Storage (per month)",
+          "price": "₹400/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Dairy Storage (per month)",
+          "price": "₹500/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Loading/Unloading Charges",
+          "price": "₹50/MT",
+          "unit": "per MT"
+        },
+        {
+          "name": "Sorting & Grading Service",
+          "price": "₹75/MT",
+          "unit": "per MT"
+        }
+      ],
+      "post_harvest_chemical_treatments": [
+        {
+          "name": "Chlorothalonil 75% WP",
+          "price": "₹295/kg",
+          "unit": "per kg",
+          "use_for": "Potato Early Blight, Tomato Early Blight, Septoria Leaf Spot",
+          "dosage": "2.0-2.5 kg/ha",
+          "frequency": "Every 7-14 days"
+        },
+        {
+          "name": "Hexaconazole 5% EC",
+          "price": "₹375/litre",
+          "unit": "per litre",
+          "use_for": "Powdery Mildew, Rust Diseases, Cherry Diseases",
+          "dosage": "1.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Copper Hydroxide 77% WP",
+          "price": "₹248/kg",
+          "unit": "per kg",
+          "use_for": "Apple Black Rot, Corn Cercospora, Peach Bacterial Spot, Grape Diseases",
+          "dosage": "2.5-3.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Copper Sulfate 98% TC",
+          "price": "₹185/kg",
+          "unit": "per kg",
+          "use_for": "Peach Bacterial Spot, Pepper Bacterial Spot, Tomato Bacterial Spot",
+          "dosage": "2.5 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Copper Oxychloride 50% WP",
+          "price": "₹245/kg",
+          "unit": "per kg",
+          "use_for": "Bacterial Diseases, Fungal Diseases, Grape Diseases",
+          "dosage": "3.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Spiromesifen 22.9% SC",
+          "price": "₹1250/litre",
+          "unit": "per litre",
+          "use_for": "Spider Mites on Tomato, Whitefly",
+          "dosage": "0.5 L/ha",
+          "frequency": "Every 10-14 days"
+        },
+        {
+          "name": "Lime Sulfur (Calcium Polysulfide)",
+          "price": "₹180/litre",
+          "unit": "per litre",
+          "use_for": "Cedar Apple Rust, Raspberry Diseases, Dormant Season Spray",
+          "dosage": "5.0 L/ha",
+          "frequency": "Every 10 days / Dormant once"
+        },
+        {
+          "name": "Streptomycin Sulfate 90% SP",
+          "price": "₹1100/kg",
+          "unit": "per kg",
+          "use_for": "Tomato Bacterial Spot, Pepper Bacterial Spot, Peach Bacterial Spot",
+          "dosage": "0.2-0.3 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Cymoxanil + Mancozeb 72% WP",
+          "price": "₹340/kg",
+          "unit": "per kg",
+          "use_for": "Tomato Late Blight, Potato Late Blight, Downy Mildew",
+          "dosage": "2.5 kg/ha",
+          "frequency": "Every 5-7 days"
+        }
+      ],
+      "post_harvest_organic_treatments": [
+        {
+          "name": "Panchagavya (Liquid)",
+          "price": "₹50/litre",
+          "unit": "per litre",
+          "use_for": "General crop health booster, Disease resistance, Preventive for all crops",
+          "dosage": "30 ml/litre of water",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Jeevamrutha (Liquid)",
+          "price": "₹10/litre",
+          "unit": "per litre",
+          "use_for": "Soil health, Microbial enrichment, Disease suppression in all crops",
+          "dosage": "200 L/ha",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Vermicompost",
+          "price": "₹15/kg",
+          "unit": "per kg",
+          "use_for": "Soil health, General crop nutrition, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Compost Tea (Brewed)",
+          "price": "₹5/litre",
+          "unit": "per litre",
+          "use_for": "Corn Healthy, Potato Healthy, Strawberry Healthy - preventive spray",
+          "dosage": "100 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Horticultural Oil (Mineral Oil 97%)",
+          "price": "₹380/litre",
+          "unit": "per litre",
+          "use_for": "Cherry Healthy, Peach Healthy, Raspberry - dormant season spray",
+          "dosage": "8.0-10.0 L/ha",
+          "frequency": "Dormant season once"
+        },
+        {
+          "name": "Rhizobium Culture 1x10^8 CFU/g",
+          "price": "₹68/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation for legumes (Soybean healthy), Gram, Tur",
+          "dosage": "200g/ha (seed treatment)",
+          "frequency": "Once (seed treatment)"
+        },
+        {
+          "name": "VAM (Mycorrhiza) Granules",
+          "price": "₹97/kg",
+          "unit": "per kg",
+          "use_for": "Root development, Nutrient uptake, All fruit & vegetable crops",
+          "dosage": "5 kg/ha",
+          "frequency": "Once at planting"
+        },
+        {
+          "name": "Lime Sulfur (Organic Grade)",
+          "price": "₹180/litre",
+          "unit": "per litre",
+          "use_for": "Cedar Apple Rust, Raspberry Healthy - dormant spray, Apple diseases",
+          "dosage": "5.0 L/ha",
+          "frequency": "Dormant season / Every 10 days"
+        },
+        {
+          "name": "Seaweed Extract Liquid",
+          "price": "₹250/litre",
+          "unit": "per litre",
+          "use_for": "Plant growth promoter, Disease resistance booster, All crops",
+          "dosage": "3.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Fish Amino Acid (FAA)",
+          "price": "₹160/litre",
+          "unit": "per litre",
+          "use_for": "Crop nutrition, Growth promotion, Disease resistance",
+          "dosage": "2.0-3.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Humic Acid Granules 70%",
+          "price": "₹180/kg",
+          "unit": "per kg",
+          "use_for": "Soil conditioner, Root health, Disease suppression",
+          "dosage": "10 kg/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Bio Compost (Enriched)",
+          "price": "₹16/kg",
+          "unit": "per kg",
+          "use_for": "General soil health, Nutrient supply, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        }
+      ]
+    },
+    {
+      "name": "Karnataka Agro Cold Chain",
+      "city": "Mysuru",
+      "state": "Karnataka",
+      "latitude": 12.27,
+      "longitude": 76.67,
+      "capacity": "3000 MT",
+      "storage_types": [
+        "Fruits",
+        "Flowers"
+      ],
+      "contact": "+91-821-8765432",
+      "products": [
+        {
+          "name": "Fruit Storage (per month)",
+          "price": "₹380/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Flower Storage (per day)",
+          "price": "₹20/MT",
+          "unit": "per MT/day"
+        },
+        {
+          "name": "Reefer Transport (per km)",
+          "price": "₹25/km",
+          "unit": "per km"
+        },
+        {
+          "name": "Pre-cooling Service",
+          "price": "₹60/MT",
+          "unit": "per MT"
+        },
+        {
+          "name": "Packaging Service",
+          "price": "₹90/MT",
+          "unit": "per MT"
+        }
+      ],
+      "post_harvest_chemical_treatments": [
+        {
+          "name": "Chlorothalonil 75% WP",
+          "price": "₹295/kg",
+          "unit": "per kg",
+          "use_for": "Potato Early Blight, Tomato Early Blight, Septoria Leaf Spot",
+          "dosage": "2.0-2.5 kg/ha",
+          "frequency": "Every 7-14 days"
+        },
+        {
+          "name": "Hexaconazole 5% EC",
+          "price": "₹375/litre",
+          "unit": "per litre",
+          "use_for": "Powdery Mildew, Rust Diseases, Cherry Diseases",
+          "dosage": "1.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Copper Hydroxide 77% WP",
+          "price": "₹248/kg",
+          "unit": "per kg",
+          "use_for": "Apple Black Rot, Corn Cercospora, Peach Bacterial Spot, Grape Diseases",
+          "dosage": "2.5-3.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Copper Sulfate 98% TC",
+          "price": "₹185/kg",
+          "unit": "per kg",
+          "use_for": "Peach Bacterial Spot, Pepper Bacterial Spot, Tomato Bacterial Spot",
+          "dosage": "2.5 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Copper Oxychloride 50% WP",
+          "price": "₹245/kg",
+          "unit": "per kg",
+          "use_for": "Bacterial Diseases, Fungal Diseases, Grape Diseases",
+          "dosage": "3.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Spiromesifen 22.9% SC",
+          "price": "₹1250/litre",
+          "unit": "per litre",
+          "use_for": "Spider Mites on Tomato, Whitefly",
+          "dosage": "0.5 L/ha",
+          "frequency": "Every 10-14 days"
+        },
+        {
+          "name": "Lime Sulfur (Calcium Polysulfide)",
+          "price": "₹180/litre",
+          "unit": "per litre",
+          "use_for": "Cedar Apple Rust, Raspberry Diseases, Dormant Season Spray",
+          "dosage": "5.0 L/ha",
+          "frequency": "Every 10 days / Dormant once"
+        },
+        {
+          "name": "Streptomycin Sulfate 90% SP",
+          "price": "₹1100/kg",
+          "unit": "per kg",
+          "use_for": "Tomato Bacterial Spot, Pepper Bacterial Spot, Peach Bacterial Spot",
+          "dosage": "0.2-0.3 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Cymoxanil + Mancozeb 72% WP",
+          "price": "₹340/kg",
+          "unit": "per kg",
+          "use_for": "Tomato Late Blight, Potato Late Blight, Downy Mildew",
+          "dosage": "2.5 kg/ha",
+          "frequency": "Every 5-7 days"
+        }
+      ],
+      "post_harvest_organic_treatments": [
+        {
+          "name": "Panchagavya (Liquid)",
+          "price": "₹50/litre",
+          "unit": "per litre",
+          "use_for": "General crop health booster, Disease resistance, Preventive for all crops",
+          "dosage": "30 ml/litre of water",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Jeevamrutha (Liquid)",
+          "price": "₹10/litre",
+          "unit": "per litre",
+          "use_for": "Soil health, Microbial enrichment, Disease suppression in all crops",
+          "dosage": "200 L/ha",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Vermicompost",
+          "price": "₹15/kg",
+          "unit": "per kg",
+          "use_for": "Soil health, General crop nutrition, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Compost Tea (Brewed)",
+          "price": "₹5/litre",
+          "unit": "per litre",
+          "use_for": "Corn Healthy, Potato Healthy, Strawberry Healthy - preventive spray",
+          "dosage": "100 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Horticultural Oil (Mineral Oil 97%)",
+          "price": "₹380/litre",
+          "unit": "per litre",
+          "use_for": "Cherry Healthy, Peach Healthy, Raspberry - dormant season spray",
+          "dosage": "8.0-10.0 L/ha",
+          "frequency": "Dormant season once"
+        },
+        {
+          "name": "Rhizobium Culture 1x10^8 CFU/g",
+          "price": "₹68/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation for legumes (Soybean healthy), Gram, Tur",
+          "dosage": "200g/ha (seed treatment)",
+          "frequency": "Once (seed treatment)"
+        },
+        {
+          "name": "VAM (Mycorrhiza) Granules",
+          "price": "₹97/kg",
+          "unit": "per kg",
+          "use_for": "Root development, Nutrient uptake, All fruit & vegetable crops",
+          "dosage": "5 kg/ha",
+          "frequency": "Once at planting"
+        },
+        {
+          "name": "Lime Sulfur (Organic Grade)",
+          "price": "₹180/litre",
+          "unit": "per litre",
+          "use_for": "Cedar Apple Rust, Raspberry Healthy - dormant spray, Apple diseases",
+          "dosage": "5.0 L/ha",
+          "frequency": "Dormant season / Every 10 days"
+        },
+        {
+          "name": "Seaweed Extract Liquid",
+          "price": "₹250/litre",
+          "unit": "per litre",
+          "use_for": "Plant growth promoter, Disease resistance booster, All crops",
+          "dosage": "3.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Fish Amino Acid (FAA)",
+          "price": "₹160/litre",
+          "unit": "per litre",
+          "use_for": "Crop nutrition, Growth promotion, Disease resistance",
+          "dosage": "2.0-3.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Humic Acid Granules 70%",
+          "price": "₹180/kg",
+          "unit": "per kg",
+          "use_for": "Soil conditioner, Root health, Disease suppression",
+          "dosage": "10 kg/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Bio Compost (Enriched)",
+          "price": "₹16/kg",
+          "unit": "per kg",
+          "use_for": "General soil health, Nutrient supply, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        }
+      ]
+    },
+    {
+      "name": "Bengaluru Agri Cold Chain Hub",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "latitude": 13.0,
+      "longitude": 77.55,
+      "capacity": "10000 MT",
+      "storage_types": [
+        "Vegetables",
+        "Fruits",
+        "Flowers",
+        "Dairy",
+        "Processed Food"
+      ],
+      "contact": "+91-80-23456789",
+      "products": [
+        {
+          "name": "Vegetable Storage (per month)",
+          "price": "₹380/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Fruit Storage (per month)",
+          "price": "₹420/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Flower Storage (per day)",
+          "price": "₹22/MT",
+          "unit": "per MT/day"
+        },
+        {
+          "name": "Dairy Storage (per month)",
+          "price": "₹520/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Processed Food Storage (per month)",
+          "price": "₹460/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Reefer Transport (per km)",
+          "price": "₹28/km",
+          "unit": "per km"
+        },
+        {
+          "name": "Pre-cooling Service",
+          "price": "₹65/MT",
+          "unit": "per MT"
+        }
+      ],
+      "post_harvest_chemical_treatments": [
+        {
+          "name": "Chlorothalonil 75% WP",
+          "price": "₹295/kg",
+          "unit": "per kg",
+          "use_for": "Potato Early Blight, Tomato Early Blight, Septoria Leaf Spot",
+          "dosage": "2.0-2.5 kg/ha",
+          "frequency": "Every 7-14 days"
+        },
+        {
+          "name": "Hexaconazole 5% EC",
+          "price": "₹375/litre",
+          "unit": "per litre",
+          "use_for": "Powdery Mildew, Rust Diseases, Cherry Diseases",
+          "dosage": "1.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Copper Hydroxide 77% WP",
+          "price": "₹248/kg",
+          "unit": "per kg",
+          "use_for": "Apple Black Rot, Corn Cercospora, Peach Bacterial Spot, Grape Diseases",
+          "dosage": "2.5-3.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Copper Sulfate 98% TC",
+          "price": "₹185/kg",
+          "unit": "per kg",
+          "use_for": "Peach Bacterial Spot, Pepper Bacterial Spot, Tomato Bacterial Spot",
+          "dosage": "2.5 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Copper Oxychloride 50% WP",
+          "price": "₹245/kg",
+          "unit": "per kg",
+          "use_for": "Bacterial Diseases, Fungal Diseases, Grape Diseases",
+          "dosage": "3.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Spiromesifen 22.9% SC",
+          "price": "₹1250/litre",
+          "unit": "per litre",
+          "use_for": "Spider Mites on Tomato, Whitefly",
+          "dosage": "0.5 L/ha",
+          "frequency": "Every 10-14 days"
+        },
+        {
+          "name": "Lime Sulfur (Calcium Polysulfide)",
+          "price": "₹180/litre",
+          "unit": "per litre",
+          "use_for": "Cedar Apple Rust, Raspberry Diseases, Dormant Season Spray",
+          "dosage": "5.0 L/ha",
+          "frequency": "Every 10 days / Dormant once"
+        },
+        {
+          "name": "Streptomycin Sulfate 90% SP",
+          "price": "₹1100/kg",
+          "unit": "per kg",
+          "use_for": "Tomato Bacterial Spot, Pepper Bacterial Spot, Peach Bacterial Spot",
+          "dosage": "0.2-0.3 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Cymoxanil + Mancozeb 72% WP",
+          "price": "₹340/kg",
+          "unit": "per kg",
+          "use_for": "Tomato Late Blight, Potato Late Blight, Downy Mildew",
+          "dosage": "2.5 kg/ha",
+          "frequency": "Every 5-7 days"
+        }
+      ],
+      "post_harvest_organic_treatments": [
+        {
+          "name": "Panchagavya (Liquid)",
+          "price": "₹50/litre",
+          "unit": "per litre",
+          "use_for": "General crop health booster, Disease resistance, Preventive for all crops",
+          "dosage": "30 ml/litre of water",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Jeevamrutha (Liquid)",
+          "price": "₹10/litre",
+          "unit": "per litre",
+          "use_for": "Soil health, Microbial enrichment, Disease suppression in all crops",
+          "dosage": "200 L/ha",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Vermicompost",
+          "price": "₹15/kg",
+          "unit": "per kg",
+          "use_for": "Soil health, General crop nutrition, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Compost Tea (Brewed)",
+          "price": "₹5/litre",
+          "unit": "per litre",
+          "use_for": "Corn Healthy, Potato Healthy, Strawberry Healthy - preventive spray",
+          "dosage": "100 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Horticultural Oil (Mineral Oil 97%)",
+          "price": "₹380/litre",
+          "unit": "per litre",
+          "use_for": "Cherry Healthy, Peach Healthy, Raspberry - dormant season spray",
+          "dosage": "8.0-10.0 L/ha",
+          "frequency": "Dormant season once"
+        },
+        {
+          "name": "Rhizobium Culture 1x10^8 CFU/g",
+          "price": "₹68/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation for legumes (Soybean healthy), Gram, Tur",
+          "dosage": "200g/ha (seed treatment)",
+          "frequency": "Once (seed treatment)"
+        },
+        {
+          "name": "VAM (Mycorrhiza) Granules",
+          "price": "₹97/kg",
+          "unit": "per kg",
+          "use_for": "Root development, Nutrient uptake, All fruit & vegetable crops",
+          "dosage": "5 kg/ha",
+          "frequency": "Once at planting"
+        },
+        {
+          "name": "Lime Sulfur (Organic Grade)",
+          "price": "₹180/litre",
+          "unit": "per litre",
+          "use_for": "Cedar Apple Rust, Raspberry Healthy - dormant spray, Apple diseases",
+          "dosage": "5.0 L/ha",
+          "frequency": "Dormant season / Every 10 days"
+        },
+        {
+          "name": "Seaweed Extract Liquid",
+          "price": "₹250/litre",
+          "unit": "per litre",
+          "use_for": "Plant growth promoter, Disease resistance booster, All crops",
+          "dosage": "3.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Fish Amino Acid (FAA)",
+          "price": "₹160/litre",
+          "unit": "per litre",
+          "use_for": "Crop nutrition, Growth promotion, Disease resistance",
+          "dosage": "2.0-3.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Humic Acid Granules 70%",
+          "price": "₹180/kg",
+          "unit": "per kg",
+          "use_for": "Soil conditioner, Root health, Disease suppression",
+          "dosage": "10 kg/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Bio Compost (Enriched)",
+          "price": "₹16/kg",
+          "unit": "per kg",
+          "use_for": "General soil health, Nutrient supply, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        }
+      ]
+    },
+    {
+      "name": "Hubballi Cold Storage Complex",
+      "city": "Hubballi",
+      "state": "Karnataka",
+      "latitude": 15.355,
+      "longitude": 75.115,
+      "capacity": "4000 MT",
+      "storage_types": [
+        "Cotton",
+        "Vegetables",
+        "Fruits",
+        "Pulses"
+      ],
+      "contact": "+91-836-2234567",
+      "products": [
+        {
+          "name": "Vegetable Storage (per month)",
+          "price": "₹340/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Fruit Storage (per month)",
+          "price": "₹390/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Pulse & Grain Storage (per month)",
+          "price": "₹280/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Loading/Unloading Charges",
+          "price": "₹48/MT",
+          "unit": "per MT"
+        },
+        {
+          "name": "Reefer Transport (per km)",
+          "price": "₹23/km",
+          "unit": "per km"
+        }
+      ],
+      "post_harvest_chemical_treatments": [
+        {
+          "name": "Chlorothalonil 75% WP",
+          "price": "₹295/kg",
+          "unit": "per kg",
+          "use_for": "Potato Early Blight, Tomato Early Blight, Septoria Leaf Spot",
+          "dosage": "2.0-2.5 kg/ha",
+          "frequency": "Every 7-14 days"
+        },
+        {
+          "name": "Hexaconazole 5% EC",
+          "price": "₹375/litre",
+          "unit": "per litre",
+          "use_for": "Powdery Mildew, Rust Diseases, Cherry Diseases",
+          "dosage": "1.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Copper Hydroxide 77% WP",
+          "price": "₹248/kg",
+          "unit": "per kg",
+          "use_for": "Apple Black Rot, Corn Cercospora, Peach Bacterial Spot, Grape Diseases",
+          "dosage": "2.5-3.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Copper Sulfate 98% TC",
+          "price": "₹185/kg",
+          "unit": "per kg",
+          "use_for": "Peach Bacterial Spot, Pepper Bacterial Spot, Tomato Bacterial Spot",
+          "dosage": "2.5 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Copper Oxychloride 50% WP",
+          "price": "₹245/kg",
+          "unit": "per kg",
+          "use_for": "Bacterial Diseases, Fungal Diseases, Grape Diseases",
+          "dosage": "3.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Spiromesifen 22.9% SC",
+          "price": "₹1250/litre",
+          "unit": "per litre",
+          "use_for": "Spider Mites on Tomato, Whitefly",
+          "dosage": "0.5 L/ha",
+          "frequency": "Every 10-14 days"
+        },
+        {
+          "name": "Lime Sulfur (Calcium Polysulfide)",
+          "price": "₹180/litre",
+          "unit": "per litre",
+          "use_for": "Cedar Apple Rust, Raspberry Diseases, Dormant Season Spray",
+          "dosage": "5.0 L/ha",
+          "frequency": "Every 10 days / Dormant once"
+        },
+        {
+          "name": "Streptomycin Sulfate 90% SP",
+          "price": "₹1100/kg",
+          "unit": "per kg",
+          "use_for": "Tomato Bacterial Spot, Pepper Bacterial Spot, Peach Bacterial Spot",
+          "dosage": "0.2-0.3 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Cymoxanil + Mancozeb 72% WP",
+          "price": "₹340/kg",
+          "unit": "per kg",
+          "use_for": "Tomato Late Blight, Potato Late Blight, Downy Mildew",
+          "dosage": "2.5 kg/ha",
+          "frequency": "Every 5-7 days"
+        }
+      ],
+      "post_harvest_organic_treatments": [
+        {
+          "name": "Panchagavya (Liquid)",
+          "price": "₹50/litre",
+          "unit": "per litre",
+          "use_for": "General crop health booster, Disease resistance, Preventive for all crops",
+          "dosage": "30 ml/litre of water",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Jeevamrutha (Liquid)",
+          "price": "₹10/litre",
+          "unit": "per litre",
+          "use_for": "Soil health, Microbial enrichment, Disease suppression in all crops",
+          "dosage": "200 L/ha",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Vermicompost",
+          "price": "₹15/kg",
+          "unit": "per kg",
+          "use_for": "Soil health, General crop nutrition, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Compost Tea (Brewed)",
+          "price": "₹5/litre",
+          "unit": "per litre",
+          "use_for": "Corn Healthy, Potato Healthy, Strawberry Healthy - preventive spray",
+          "dosage": "100 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Horticultural Oil (Mineral Oil 97%)",
+          "price": "₹380/litre",
+          "unit": "per litre",
+          "use_for": "Cherry Healthy, Peach Healthy, Raspberry - dormant season spray",
+          "dosage": "8.0-10.0 L/ha",
+          "frequency": "Dormant season once"
+        },
+        {
+          "name": "Rhizobium Culture 1x10^8 CFU/g",
+          "price": "₹68/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation for legumes (Soybean healthy), Gram, Tur",
+          "dosage": "200g/ha (seed treatment)",
+          "frequency": "Once (seed treatment)"
+        },
+        {
+          "name": "VAM (Mycorrhiza) Granules",
+          "price": "₹97/kg",
+          "unit": "per kg",
+          "use_for": "Root development, Nutrient uptake, All fruit & vegetable crops",
+          "dosage": "5 kg/ha",
+          "frequency": "Once at planting"
+        },
+        {
+          "name": "Lime Sulfur (Organic Grade)",
+          "price": "₹180/litre",
+          "unit": "per litre",
+          "use_for": "Cedar Apple Rust, Raspberry Healthy - dormant spray, Apple diseases",
+          "dosage": "5.0 L/ha",
+          "frequency": "Dormant season / Every 10 days"
+        },
+        {
+          "name": "Seaweed Extract Liquid",
+          "price": "₹250/litre",
+          "unit": "per litre",
+          "use_for": "Plant growth promoter, Disease resistance booster, All crops",
+          "dosage": "3.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Fish Amino Acid (FAA)",
+          "price": "₹160/litre",
+          "unit": "per litre",
+          "use_for": "Crop nutrition, Growth promotion, Disease resistance",
+          "dosage": "2.0-3.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Humic Acid Granules 70%",
+          "price": "₹180/kg",
+          "unit": "per kg",
+          "use_for": "Soil conditioner, Root health, Disease suppression",
+          "dosage": "10 kg/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Bio Compost (Enriched)",
+          "price": "₹16/kg",
+          "unit": "per kg",
+          "use_for": "General soil health, Nutrient supply, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        }
+      ]
+    },
+    {
+      "name": "Belagavi Farmers Cold Store",
+      "city": "Belagavi",
+      "state": "Karnataka",
+      "latitude": 15.845,
+      "longitude": 74.5,
+      "capacity": "3500 MT",
+      "storage_types": [
+        "Vegetables",
+        "Fruits",
+        "Sugarcane Byproducts"
+      ],
+      "contact": "+91-831-2456789",
+      "products": [
+        {
+          "name": "Vegetable Storage (per month)",
+          "price": "₹330/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Fruit Storage (per month)",
+          "price": "₹375/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Pre-cooling Service",
+          "price": "₹58/MT",
+          "unit": "per MT"
+        },
+        {
+          "name": "Sorting & Grading",
+          "price": "₹70/MT",
+          "unit": "per MT"
+        },
+        {
+          "name": "Packaging Service",
+          "price": "₹85/MT",
+          "unit": "per MT"
+        }
+      ],
+      "post_harvest_chemical_treatments": [
+        {
+          "name": "Chlorothalonil 75% WP",
+          "price": "₹295/kg",
+          "unit": "per kg",
+          "use_for": "Potato Early Blight, Tomato Early Blight, Septoria Leaf Spot",
+          "dosage": "2.0-2.5 kg/ha",
+          "frequency": "Every 7-14 days"
+        },
+        {
+          "name": "Hexaconazole 5% EC",
+          "price": "₹375/litre",
+          "unit": "per litre",
+          "use_for": "Powdery Mildew, Rust Diseases, Cherry Diseases",
+          "dosage": "1.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Copper Hydroxide 77% WP",
+          "price": "₹248/kg",
+          "unit": "per kg",
+          "use_for": "Apple Black Rot, Corn Cercospora, Peach Bacterial Spot, Grape Diseases",
+          "dosage": "2.5-3.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Copper Sulfate 98% TC",
+          "price": "₹185/kg",
+          "unit": "per kg",
+          "use_for": "Peach Bacterial Spot, Pepper Bacterial Spot, Tomato Bacterial Spot",
+          "dosage": "2.5 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Copper Oxychloride 50% WP",
+          "price": "₹245/kg",
+          "unit": "per kg",
+          "use_for": "Bacterial Diseases, Fungal Diseases, Grape Diseases",
+          "dosage": "3.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Spiromesifen 22.9% SC",
+          "price": "₹1250/litre",
+          "unit": "per litre",
+          "use_for": "Spider Mites on Tomato, Whitefly",
+          "dosage": "0.5 L/ha",
+          "frequency": "Every 10-14 days"
+        },
+        {
+          "name": "Lime Sulfur (Calcium Polysulfide)",
+          "price": "₹180/litre",
+          "unit": "per litre",
+          "use_for": "Cedar Apple Rust, Raspberry Diseases, Dormant Season Spray",
+          "dosage": "5.0 L/ha",
+          "frequency": "Every 10 days / Dormant once"
+        },
+        {
+          "name": "Streptomycin Sulfate 90% SP",
+          "price": "₹1100/kg",
+          "unit": "per kg",
+          "use_for": "Tomato Bacterial Spot, Pepper Bacterial Spot, Peach Bacterial Spot",
+          "dosage": "0.2-0.3 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Cymoxanil + Mancozeb 72% WP",
+          "price": "₹340/kg",
+          "unit": "per kg",
+          "use_for": "Tomato Late Blight, Potato Late Blight, Downy Mildew",
+          "dosage": "2.5 kg/ha",
+          "frequency": "Every 5-7 days"
+        }
+      ],
+      "post_harvest_organic_treatments": [
+        {
+          "name": "Panchagavya (Liquid)",
+          "price": "₹50/litre",
+          "unit": "per litre",
+          "use_for": "General crop health booster, Disease resistance, Preventive for all crops",
+          "dosage": "30 ml/litre of water",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Jeevamrutha (Liquid)",
+          "price": "₹10/litre",
+          "unit": "per litre",
+          "use_for": "Soil health, Microbial enrichment, Disease suppression in all crops",
+          "dosage": "200 L/ha",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Vermicompost",
+          "price": "₹15/kg",
+          "unit": "per kg",
+          "use_for": "Soil health, General crop nutrition, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Compost Tea (Brewed)",
+          "price": "₹5/litre",
+          "unit": "per litre",
+          "use_for": "Corn Healthy, Potato Healthy, Strawberry Healthy - preventive spray",
+          "dosage": "100 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Horticultural Oil (Mineral Oil 97%)",
+          "price": "₹380/litre",
+          "unit": "per litre",
+          "use_for": "Cherry Healthy, Peach Healthy, Raspberry - dormant season spray",
+          "dosage": "8.0-10.0 L/ha",
+          "frequency": "Dormant season once"
+        },
+        {
+          "name": "Rhizobium Culture 1x10^8 CFU/g",
+          "price": "₹68/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation for legumes (Soybean healthy), Gram, Tur",
+          "dosage": "200g/ha (seed treatment)",
+          "frequency": "Once (seed treatment)"
+        },
+        {
+          "name": "VAM (Mycorrhiza) Granules",
+          "price": "₹97/kg",
+          "unit": "per kg",
+          "use_for": "Root development, Nutrient uptake, All fruit & vegetable crops",
+          "dosage": "5 kg/ha",
+          "frequency": "Once at planting"
+        },
+        {
+          "name": "Lime Sulfur (Organic Grade)",
+          "price": "₹180/litre",
+          "unit": "per litre",
+          "use_for": "Cedar Apple Rust, Raspberry Healthy - dormant spray, Apple diseases",
+          "dosage": "5.0 L/ha",
+          "frequency": "Dormant season / Every 10 days"
+        },
+        {
+          "name": "Seaweed Extract Liquid",
+          "price": "₹250/litre",
+          "unit": "per litre",
+          "use_for": "Plant growth promoter, Disease resistance booster, All crops",
+          "dosage": "3.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Fish Amino Acid (FAA)",
+          "price": "₹160/litre",
+          "unit": "per litre",
+          "use_for": "Crop nutrition, Growth promotion, Disease resistance",
+          "dosage": "2.0-3.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Humic Acid Granules 70%",
+          "price": "₹180/kg",
+          "unit": "per kg",
+          "use_for": "Soil conditioner, Root health, Disease suppression",
+          "dosage": "10 kg/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Bio Compost (Enriched)",
+          "price": "₹16/kg",
+          "unit": "per kg",
+          "use_for": "General soil health, Nutrient supply, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        }
+      ]
+    },
+    {
+      "name": "Mangaluru Port Cold Store",
+      "city": "Mangaluru",
+      "state": "Karnataka",
+      "latitude": 12.905,
+      "longitude": 74.845,
+      "capacity": "6000 MT",
+      "storage_types": [
+        "Seafood",
+        "Cashew",
+        "Fruits",
+        "Coconut Products"
+      ],
+      "contact": "+91-824-2345678",
+      "products": [
+        {
+          "name": "Seafood Storage (per month)",
+          "price": "₹600/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Cashew Storage (per month)",
+          "price": "₹450/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Fruit Storage (per month)",
+          "price": "₹410/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Coconut Oil Storage (per month)",
+          "price": "₹380/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Blast Freezing Service",
+          "price": "₹150/MT",
+          "unit": "per MT"
+        },
+        {
+          "name": "Export Packing Service",
+          "price": "₹120/MT",
+          "unit": "per MT"
+        }
+      ],
+      "post_harvest_chemical_treatments": [
+        {
+          "name": "Chlorothalonil 75% WP",
+          "price": "₹295/kg",
+          "unit": "per kg",
+          "use_for": "Potato Early Blight, Tomato Early Blight, Septoria Leaf Spot",
+          "dosage": "2.0-2.5 kg/ha",
+          "frequency": "Every 7-14 days"
+        },
+        {
+          "name": "Hexaconazole 5% EC",
+          "price": "₹375/litre",
+          "unit": "per litre",
+          "use_for": "Powdery Mildew, Rust Diseases, Cherry Diseases",
+          "dosage": "1.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Copper Hydroxide 77% WP",
+          "price": "₹248/kg",
+          "unit": "per kg",
+          "use_for": "Apple Black Rot, Corn Cercospora, Peach Bacterial Spot, Grape Diseases",
+          "dosage": "2.5-3.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Copper Sulfate 98% TC",
+          "price": "₹185/kg",
+          "unit": "per kg",
+          "use_for": "Peach Bacterial Spot, Pepper Bacterial Spot, Tomato Bacterial Spot",
+          "dosage": "2.5 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Copper Oxychloride 50% WP",
+          "price": "₹245/kg",
+          "unit": "per kg",
+          "use_for": "Bacterial Diseases, Fungal Diseases, Grape Diseases",
+          "dosage": "3.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Spiromesifen 22.9% SC",
+          "price": "₹1250/litre",
+          "unit": "per litre",
+          "use_for": "Spider Mites on Tomato, Whitefly",
+          "dosage": "0.5 L/ha",
+          "frequency": "Every 10-14 days"
+        },
+        {
+          "name": "Lime Sulfur (Calcium Polysulfide)",
+          "price": "₹180/litre",
+          "unit": "per litre",
+          "use_for": "Cedar Apple Rust, Raspberry Diseases, Dormant Season Spray",
+          "dosage": "5.0 L/ha",
+          "frequency": "Every 10 days / Dormant once"
+        },
+        {
+          "name": "Streptomycin Sulfate 90% SP",
+          "price": "₹1100/kg",
+          "unit": "per kg",
+          "use_for": "Tomato Bacterial Spot, Pepper Bacterial Spot, Peach Bacterial Spot",
+          "dosage": "0.2-0.3 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Cymoxanil + Mancozeb 72% WP",
+          "price": "₹340/kg",
+          "unit": "per kg",
+          "use_for": "Tomato Late Blight, Potato Late Blight, Downy Mildew",
+          "dosage": "2.5 kg/ha",
+          "frequency": "Every 5-7 days"
+        }
+      ],
+      "post_harvest_organic_treatments": [
+        {
+          "name": "Panchagavya (Liquid)",
+          "price": "₹50/litre",
+          "unit": "per litre",
+          "use_for": "General crop health booster, Disease resistance, Preventive for all crops",
+          "dosage": "30 ml/litre of water",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Jeevamrutha (Liquid)",
+          "price": "₹10/litre",
+          "unit": "per litre",
+          "use_for": "Soil health, Microbial enrichment, Disease suppression in all crops",
+          "dosage": "200 L/ha",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Vermicompost",
+          "price": "₹15/kg",
+          "unit": "per kg",
+          "use_for": "Soil health, General crop nutrition, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Compost Tea (Brewed)",
+          "price": "₹5/litre",
+          "unit": "per litre",
+          "use_for": "Corn Healthy, Potato Healthy, Strawberry Healthy - preventive spray",
+          "dosage": "100 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Horticultural Oil (Mineral Oil 97%)",
+          "price": "₹380/litre",
+          "unit": "per litre",
+          "use_for": "Cherry Healthy, Peach Healthy, Raspberry - dormant season spray",
+          "dosage": "8.0-10.0 L/ha",
+          "frequency": "Dormant season once"
+        },
+        {
+          "name": "Rhizobium Culture 1x10^8 CFU/g",
+          "price": "₹68/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation for legumes (Soybean healthy), Gram, Tur",
+          "dosage": "200g/ha (seed treatment)",
+          "frequency": "Once (seed treatment)"
+        },
+        {
+          "name": "VAM (Mycorrhiza) Granules",
+          "price": "₹97/kg",
+          "unit": "per kg",
+          "use_for": "Root development, Nutrient uptake, All fruit & vegetable crops",
+          "dosage": "5 kg/ha",
+          "frequency": "Once at planting"
+        },
+        {
+          "name": "Lime Sulfur (Organic Grade)",
+          "price": "₹180/litre",
+          "unit": "per litre",
+          "use_for": "Cedar Apple Rust, Raspberry Healthy - dormant spray, Apple diseases",
+          "dosage": "5.0 L/ha",
+          "frequency": "Dormant season / Every 10 days"
+        },
+        {
+          "name": "Seaweed Extract Liquid",
+          "price": "₹250/litre",
+          "unit": "per litre",
+          "use_for": "Plant growth promoter, Disease resistance booster, All crops",
+          "dosage": "3.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Fish Amino Acid (FAA)",
+          "price": "₹160/litre",
+          "unit": "per litre",
+          "use_for": "Crop nutrition, Growth promotion, Disease resistance",
+          "dosage": "2.0-3.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Humic Acid Granules 70%",
+          "price": "₹180/kg",
+          "unit": "per kg",
+          "use_for": "Soil conditioner, Root health, Disease suppression",
+          "dosage": "10 kg/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Bio Compost (Enriched)",
+          "price": "₹16/kg",
+          "unit": "per kg",
+          "use_for": "General soil health, Nutrient supply, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        }
+      ]
+    },
+    {
+      "name": "Shivamogga Arecanut Cold Store",
+      "city": "Shivamogga",
+      "state": "Karnataka",
+      "latitude": 13.92,
+      "longitude": 75.565,
+      "capacity": "2500 MT",
+      "storage_types": [
+        "Arecanut",
+        "Pepper",
+        "Fruits"
+      ],
+      "contact": "+91-818-2234567",
+      "products": [
+        {
+          "name": "Arecanut Storage (per month)",
+          "price": "₹320/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Pepper Storage (per month)",
+          "price": "₹450/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Fruit Storage (per month)",
+          "price": "₹395/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Loading/Unloading Charges",
+          "price": "₹45/MT",
+          "unit": "per MT"
+        },
+        {
+          "name": "Packaging Service",
+          "price": "₹82/MT",
+          "unit": "per MT"
+        }
+      ],
+      "post_harvest_chemical_treatments": [
+        {
+          "name": "Chlorothalonil 75% WP",
+          "price": "₹295/kg",
+          "unit": "per kg",
+          "use_for": "Potato Early Blight, Tomato Early Blight, Septoria Leaf Spot",
+          "dosage": "2.0-2.5 kg/ha",
+          "frequency": "Every 7-14 days"
+        },
+        {
+          "name": "Hexaconazole 5% EC",
+          "price": "₹375/litre",
+          "unit": "per litre",
+          "use_for": "Powdery Mildew, Rust Diseases, Cherry Diseases",
+          "dosage": "1.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Copper Hydroxide 77% WP",
+          "price": "₹248/kg",
+          "unit": "per kg",
+          "use_for": "Apple Black Rot, Corn Cercospora, Peach Bacterial Spot, Grape Diseases",
+          "dosage": "2.5-3.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Copper Sulfate 98% TC",
+          "price": "₹185/kg",
+          "unit": "per kg",
+          "use_for": "Peach Bacterial Spot, Pepper Bacterial Spot, Tomato Bacterial Spot",
+          "dosage": "2.5 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Copper Oxychloride 50% WP",
+          "price": "₹245/kg",
+          "unit": "per kg",
+          "use_for": "Bacterial Diseases, Fungal Diseases, Grape Diseases",
+          "dosage": "3.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Spiromesifen 22.9% SC",
+          "price": "₹1250/litre",
+          "unit": "per litre",
+          "use_for": "Spider Mites on Tomato, Whitefly",
+          "dosage": "0.5 L/ha",
+          "frequency": "Every 10-14 days"
+        },
+        {
+          "name": "Lime Sulfur (Calcium Polysulfide)",
+          "price": "₹180/litre",
+          "unit": "per litre",
+          "use_for": "Cedar Apple Rust, Raspberry Diseases, Dormant Season Spray",
+          "dosage": "5.0 L/ha",
+          "frequency": "Every 10 days / Dormant once"
+        },
+        {
+          "name": "Streptomycin Sulfate 90% SP",
+          "price": "₹1100/kg",
+          "unit": "per kg",
+          "use_for": "Tomato Bacterial Spot, Pepper Bacterial Spot, Peach Bacterial Spot",
+          "dosage": "0.2-0.3 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Cymoxanil + Mancozeb 72% WP",
+          "price": "₹340/kg",
+          "unit": "per kg",
+          "use_for": "Tomato Late Blight, Potato Late Blight, Downy Mildew",
+          "dosage": "2.5 kg/ha",
+          "frequency": "Every 5-7 days"
+        }
+      ],
+      "post_harvest_organic_treatments": [
+        {
+          "name": "Panchagavya (Liquid)",
+          "price": "₹50/litre",
+          "unit": "per litre",
+          "use_for": "General crop health booster, Disease resistance, Preventive for all crops",
+          "dosage": "30 ml/litre of water",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Jeevamrutha (Liquid)",
+          "price": "₹10/litre",
+          "unit": "per litre",
+          "use_for": "Soil health, Microbial enrichment, Disease suppression in all crops",
+          "dosage": "200 L/ha",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Vermicompost",
+          "price": "₹15/kg",
+          "unit": "per kg",
+          "use_for": "Soil health, General crop nutrition, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Compost Tea (Brewed)",
+          "price": "₹5/litre",
+          "unit": "per litre",
+          "use_for": "Corn Healthy, Potato Healthy, Strawberry Healthy - preventive spray",
+          "dosage": "100 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Horticultural Oil (Mineral Oil 97%)",
+          "price": "₹380/litre",
+          "unit": "per litre",
+          "use_for": "Cherry Healthy, Peach Healthy, Raspberry - dormant season spray",
+          "dosage": "8.0-10.0 L/ha",
+          "frequency": "Dormant season once"
+        },
+        {
+          "name": "Rhizobium Culture 1x10^8 CFU/g",
+          "price": "₹68/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation for legumes (Soybean healthy), Gram, Tur",
+          "dosage": "200g/ha (seed treatment)",
+          "frequency": "Once (seed treatment)"
+        },
+        {
+          "name": "VAM (Mycorrhiza) Granules",
+          "price": "₹97/kg",
+          "unit": "per kg",
+          "use_for": "Root development, Nutrient uptake, All fruit & vegetable crops",
+          "dosage": "5 kg/ha",
+          "frequency": "Once at planting"
+        },
+        {
+          "name": "Lime Sulfur (Organic Grade)",
+          "price": "₹180/litre",
+          "unit": "per litre",
+          "use_for": "Cedar Apple Rust, Raspberry Healthy - dormant spray, Apple diseases",
+          "dosage": "5.0 L/ha",
+          "frequency": "Dormant season / Every 10 days"
+        },
+        {
+          "name": "Seaweed Extract Liquid",
+          "price": "₹250/litre",
+          "unit": "per litre",
+          "use_for": "Plant growth promoter, Disease resistance booster, All crops",
+          "dosage": "3.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Fish Amino Acid (FAA)",
+          "price": "₹160/litre",
+          "unit": "per litre",
+          "use_for": "Crop nutrition, Growth promotion, Disease resistance",
+          "dosage": "2.0-3.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Humic Acid Granules 70%",
+          "price": "₹180/kg",
+          "unit": "per kg",
+          "use_for": "Soil conditioner, Root health, Disease suppression",
+          "dosage": "10 kg/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Bio Compost (Enriched)",
+          "price": "₹16/kg",
+          "unit": "per kg",
+          "use_for": "General soil health, Nutrient supply, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        }
+      ]
+    },
+    {
+      "name": "Davanagere Cotton & Agri Cold Store",
+      "city": "Davanagere",
+      "state": "Karnataka",
+      "latitude": 14.46,
+      "longitude": 75.92,
+      "capacity": "4500 MT",
+      "storage_types": [
+        "Cotton",
+        "Vegetables",
+        "Pulses",
+        "Oilseeds"
+      ],
+      "contact": "+91-819-2345678",
+      "products": [
+        {
+          "name": "Cotton Storage (per month)",
+          "price": "₹250/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Vegetable Storage (per month)",
+          "price": "₹335/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Pulse Storage (per month)",
+          "price": "₹270/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Oilseed Storage (per month)",
+          "price": "₹295/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Fumigation Service",
+          "price": "₹80/MT",
+          "unit": "per MT"
+        }
+      ],
+      "post_harvest_chemical_treatments": [
+        {
+          "name": "Chlorothalonil 75% WP",
+          "price": "₹295/kg",
+          "unit": "per kg",
+          "use_for": "Potato Early Blight, Tomato Early Blight, Septoria Leaf Spot",
+          "dosage": "2.0-2.5 kg/ha",
+          "frequency": "Every 7-14 days"
+        },
+        {
+          "name": "Hexaconazole 5% EC",
+          "price": "₹375/litre",
+          "unit": "per litre",
+          "use_for": "Powdery Mildew, Rust Diseases, Cherry Diseases",
+          "dosage": "1.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Copper Hydroxide 77% WP",
+          "price": "₹248/kg",
+          "unit": "per kg",
+          "use_for": "Apple Black Rot, Corn Cercospora, Peach Bacterial Spot, Grape Diseases",
+          "dosage": "2.5-3.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Copper Sulfate 98% TC",
+          "price": "₹185/kg",
+          "unit": "per kg",
+          "use_for": "Peach Bacterial Spot, Pepper Bacterial Spot, Tomato Bacterial Spot",
+          "dosage": "2.5 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Copper Oxychloride 50% WP",
+          "price": "₹245/kg",
+          "unit": "per kg",
+          "use_for": "Bacterial Diseases, Fungal Diseases, Grape Diseases",
+          "dosage": "3.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Spiromesifen 22.9% SC",
+          "price": "₹1250/litre",
+          "unit": "per litre",
+          "use_for": "Spider Mites on Tomato, Whitefly",
+          "dosage": "0.5 L/ha",
+          "frequency": "Every 10-14 days"
+        },
+        {
+          "name": "Lime Sulfur (Calcium Polysulfide)",
+          "price": "₹180/litre",
+          "unit": "per litre",
+          "use_for": "Cedar Apple Rust, Raspberry Diseases, Dormant Season Spray",
+          "dosage": "5.0 L/ha",
+          "frequency": "Every 10 days / Dormant once"
+        },
+        {
+          "name": "Streptomycin Sulfate 90% SP",
+          "price": "₹1100/kg",
+          "unit": "per kg",
+          "use_for": "Tomato Bacterial Spot, Pepper Bacterial Spot, Peach Bacterial Spot",
+          "dosage": "0.2-0.3 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Cymoxanil + Mancozeb 72% WP",
+          "price": "₹340/kg",
+          "unit": "per kg",
+          "use_for": "Tomato Late Blight, Potato Late Blight, Downy Mildew",
+          "dosage": "2.5 kg/ha",
+          "frequency": "Every 5-7 days"
+        }
+      ],
+      "post_harvest_organic_treatments": [
+        {
+          "name": "Panchagavya (Liquid)",
+          "price": "₹50/litre",
+          "unit": "per litre",
+          "use_for": "General crop health booster, Disease resistance, Preventive for all crops",
+          "dosage": "30 ml/litre of water",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Jeevamrutha (Liquid)",
+          "price": "₹10/litre",
+          "unit": "per litre",
+          "use_for": "Soil health, Microbial enrichment, Disease suppression in all crops",
+          "dosage": "200 L/ha",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Vermicompost",
+          "price": "₹15/kg",
+          "unit": "per kg",
+          "use_for": "Soil health, General crop nutrition, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Compost Tea (Brewed)",
+          "price": "₹5/litre",
+          "unit": "per litre",
+          "use_for": "Corn Healthy, Potato Healthy, Strawberry Healthy - preventive spray",
+          "dosage": "100 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Horticultural Oil (Mineral Oil 97%)",
+          "price": "₹380/litre",
+          "unit": "per litre",
+          "use_for": "Cherry Healthy, Peach Healthy, Raspberry - dormant season spray",
+          "dosage": "8.0-10.0 L/ha",
+          "frequency": "Dormant season once"
+        },
+        {
+          "name": "Rhizobium Culture 1x10^8 CFU/g",
+          "price": "₹68/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation for legumes (Soybean healthy), Gram, Tur",
+          "dosage": "200g/ha (seed treatment)",
+          "frequency": "Once (seed treatment)"
+        },
+        {
+          "name": "VAM (Mycorrhiza) Granules",
+          "price": "₹97/kg",
+          "unit": "per kg",
+          "use_for": "Root development, Nutrient uptake, All fruit & vegetable crops",
+          "dosage": "5 kg/ha",
+          "frequency": "Once at planting"
+        },
+        {
+          "name": "Lime Sulfur (Organic Grade)",
+          "price": "₹180/litre",
+          "unit": "per litre",
+          "use_for": "Cedar Apple Rust, Raspberry Healthy - dormant spray, Apple diseases",
+          "dosage": "5.0 L/ha",
+          "frequency": "Dormant season / Every 10 days"
+        },
+        {
+          "name": "Seaweed Extract Liquid",
+          "price": "₹250/litre",
+          "unit": "per litre",
+          "use_for": "Plant growth promoter, Disease resistance booster, All crops",
+          "dosage": "3.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Fish Amino Acid (FAA)",
+          "price": "₹160/litre",
+          "unit": "per litre",
+          "use_for": "Crop nutrition, Growth promotion, Disease resistance",
+          "dosage": "2.0-3.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Humic Acid Granules 70%",
+          "price": "₹180/kg",
+          "unit": "per kg",
+          "use_for": "Soil conditioner, Root health, Disease suppression",
+          "dosage": "10 kg/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Bio Compost (Enriched)",
+          "price": "₹16/kg",
+          "unit": "per kg",
+          "use_for": "General soil health, Nutrient supply, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        }
+      ]
+    },
+    {
+      "name": "Vijayapura Fruits Cold Store",
+      "city": "Vijayapura",
+      "state": "Karnataka",
+      "latitude": 16.828,
+      "longitude": 75.708,
+      "capacity": "3200 MT",
+      "storage_types": [
+        "Grapes",
+        "Pomegranate",
+        "Fruits",
+        "Vegetables"
+      ],
+      "contact": "+91-835-2234567",
+      "products": [
+        {
+          "name": "Grape Storage (per month)",
+          "price": "₹500/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Pomegranate Storage (per month)",
+          "price": "₹420/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Vegetable Storage (per month)",
+          "price": "₹345/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Pre-cooling Service",
+          "price": "₹62/MT",
+          "unit": "per MT"
+        },
+        {
+          "name": "Export Packing",
+          "price": "₹110/MT",
+          "unit": "per MT"
+        }
+      ],
+      "post_harvest_chemical_treatments": [
+        {
+          "name": "Chlorothalonil 75% WP",
+          "price": "₹295/kg",
+          "unit": "per kg",
+          "use_for": "Potato Early Blight, Tomato Early Blight, Septoria Leaf Spot",
+          "dosage": "2.0-2.5 kg/ha",
+          "frequency": "Every 7-14 days"
+        },
+        {
+          "name": "Hexaconazole 5% EC",
+          "price": "₹375/litre",
+          "unit": "per litre",
+          "use_for": "Powdery Mildew, Rust Diseases, Cherry Diseases",
+          "dosage": "1.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Copper Hydroxide 77% WP",
+          "price": "₹248/kg",
+          "unit": "per kg",
+          "use_for": "Apple Black Rot, Corn Cercospora, Peach Bacterial Spot, Grape Diseases",
+          "dosage": "2.5-3.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Copper Sulfate 98% TC",
+          "price": "₹185/kg",
+          "unit": "per kg",
+          "use_for": "Peach Bacterial Spot, Pepper Bacterial Spot, Tomato Bacterial Spot",
+          "dosage": "2.5 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Copper Oxychloride 50% WP",
+          "price": "₹245/kg",
+          "unit": "per kg",
+          "use_for": "Bacterial Diseases, Fungal Diseases, Grape Diseases",
+          "dosage": "3.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Spiromesifen 22.9% SC",
+          "price": "₹1250/litre",
+          "unit": "per litre",
+          "use_for": "Spider Mites on Tomato, Whitefly",
+          "dosage": "0.5 L/ha",
+          "frequency": "Every 10-14 days"
+        },
+        {
+          "name": "Lime Sulfur (Calcium Polysulfide)",
+          "price": "₹180/litre",
+          "unit": "per litre",
+          "use_for": "Cedar Apple Rust, Raspberry Diseases, Dormant Season Spray",
+          "dosage": "5.0 L/ha",
+          "frequency": "Every 10 days / Dormant once"
+        },
+        {
+          "name": "Streptomycin Sulfate 90% SP",
+          "price": "₹1100/kg",
+          "unit": "per kg",
+          "use_for": "Tomato Bacterial Spot, Pepper Bacterial Spot, Peach Bacterial Spot",
+          "dosage": "0.2-0.3 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Cymoxanil + Mancozeb 72% WP",
+          "price": "₹340/kg",
+          "unit": "per kg",
+          "use_for": "Tomato Late Blight, Potato Late Blight, Downy Mildew",
+          "dosage": "2.5 kg/ha",
+          "frequency": "Every 5-7 days"
+        }
+      ],
+      "post_harvest_organic_treatments": [
+        {
+          "name": "Panchagavya (Liquid)",
+          "price": "₹50/litre",
+          "unit": "per litre",
+          "use_for": "General crop health booster, Disease resistance, Preventive for all crops",
+          "dosage": "30 ml/litre of water",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Jeevamrutha (Liquid)",
+          "price": "₹10/litre",
+          "unit": "per litre",
+          "use_for": "Soil health, Microbial enrichment, Disease suppression in all crops",
+          "dosage": "200 L/ha",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Vermicompost",
+          "price": "₹15/kg",
+          "unit": "per kg",
+          "use_for": "Soil health, General crop nutrition, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Compost Tea (Brewed)",
+          "price": "₹5/litre",
+          "unit": "per litre",
+          "use_for": "Corn Healthy, Potato Healthy, Strawberry Healthy - preventive spray",
+          "dosage": "100 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Horticultural Oil (Mineral Oil 97%)",
+          "price": "₹380/litre",
+          "unit": "per litre",
+          "use_for": "Cherry Healthy, Peach Healthy, Raspberry - dormant season spray",
+          "dosage": "8.0-10.0 L/ha",
+          "frequency": "Dormant season once"
+        },
+        {
+          "name": "Rhizobium Culture 1x10^8 CFU/g",
+          "price": "₹68/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation for legumes (Soybean healthy), Gram, Tur",
+          "dosage": "200g/ha (seed treatment)",
+          "frequency": "Once (seed treatment)"
+        },
+        {
+          "name": "VAM (Mycorrhiza) Granules",
+          "price": "₹97/kg",
+          "unit": "per kg",
+          "use_for": "Root development, Nutrient uptake, All fruit & vegetable crops",
+          "dosage": "5 kg/ha",
+          "frequency": "Once at planting"
+        },
+        {
+          "name": "Lime Sulfur (Organic Grade)",
+          "price": "₹180/litre",
+          "unit": "per litre",
+          "use_for": "Cedar Apple Rust, Raspberry Healthy - dormant spray, Apple diseases",
+          "dosage": "5.0 L/ha",
+          "frequency": "Dormant season / Every 10 days"
+        },
+        {
+          "name": "Seaweed Extract Liquid",
+          "price": "₹250/litre",
+          "unit": "per litre",
+          "use_for": "Plant growth promoter, Disease resistance booster, All crops",
+          "dosage": "3.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Fish Amino Acid (FAA)",
+          "price": "₹160/litre",
+          "unit": "per litre",
+          "use_for": "Crop nutrition, Growth promotion, Disease resistance",
+          "dosage": "2.0-3.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Humic Acid Granules 70%",
+          "price": "₹180/kg",
+          "unit": "per kg",
+          "use_for": "Soil conditioner, Root health, Disease suppression",
+          "dosage": "10 kg/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Bio Compost (Enriched)",
+          "price": "₹16/kg",
+          "unit": "per kg",
+          "use_for": "General soil health, Nutrient supply, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        }
+      ]
+    },
+    {
+      "name": "Kalaburagi Pulse Cold Store",
+      "city": "Kalaburagi",
+      "state": "Karnataka",
+      "latitude": 17.325,
+      "longitude": 76.83,
+      "capacity": "5000 MT",
+      "storage_types": [
+        "Pulses",
+        "Cereals",
+        "Vegetables"
+      ],
+      "contact": "+91-847-2345678",
+      "products": [
+        {
+          "name": "Pulse Storage (per month)",
+          "price": "₹265/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Cereal Storage (per month)",
+          "price": "₹240/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Vegetable Storage (per month)",
+          "price": "₹330/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Loading/Unloading Charges",
+          "price": "₹45/MT",
+          "unit": "per MT"
+        },
+        {
+          "name": "Pest Control / Fumigation",
+          "price": "₹75/MT",
+          "unit": "per MT"
+        }
+      ],
+      "post_harvest_chemical_treatments": [
+        {
+          "name": "Chlorothalonil 75% WP",
+          "price": "₹295/kg",
+          "unit": "per kg",
+          "use_for": "Potato Early Blight, Tomato Early Blight, Septoria Leaf Spot",
+          "dosage": "2.0-2.5 kg/ha",
+          "frequency": "Every 7-14 days"
+        },
+        {
+          "name": "Hexaconazole 5% EC",
+          "price": "₹375/litre",
+          "unit": "per litre",
+          "use_for": "Powdery Mildew, Rust Diseases, Cherry Diseases",
+          "dosage": "1.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Copper Hydroxide 77% WP",
+          "price": "₹248/kg",
+          "unit": "per kg",
+          "use_for": "Apple Black Rot, Corn Cercospora, Peach Bacterial Spot, Grape Diseases",
+          "dosage": "2.5-3.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Copper Sulfate 98% TC",
+          "price": "₹185/kg",
+          "unit": "per kg",
+          "use_for": "Peach Bacterial Spot, Pepper Bacterial Spot, Tomato Bacterial Spot",
+          "dosage": "2.5 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Copper Oxychloride 50% WP",
+          "price": "₹245/kg",
+          "unit": "per kg",
+          "use_for": "Bacterial Diseases, Fungal Diseases, Grape Diseases",
+          "dosage": "3.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Spiromesifen 22.9% SC",
+          "price": "₹1250/litre",
+          "unit": "per litre",
+          "use_for": "Spider Mites on Tomato, Whitefly",
+          "dosage": "0.5 L/ha",
+          "frequency": "Every 10-14 days"
+        },
+        {
+          "name": "Lime Sulfur (Calcium Polysulfide)",
+          "price": "₹180/litre",
+          "unit": "per litre",
+          "use_for": "Cedar Apple Rust, Raspberry Diseases, Dormant Season Spray",
+          "dosage": "5.0 L/ha",
+          "frequency": "Every 10 days / Dormant once"
+        },
+        {
+          "name": "Streptomycin Sulfate 90% SP",
+          "price": "₹1100/kg",
+          "unit": "per kg",
+          "use_for": "Tomato Bacterial Spot, Pepper Bacterial Spot, Peach Bacterial Spot",
+          "dosage": "0.2-0.3 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Cymoxanil + Mancozeb 72% WP",
+          "price": "₹340/kg",
+          "unit": "per kg",
+          "use_for": "Tomato Late Blight, Potato Late Blight, Downy Mildew",
+          "dosage": "2.5 kg/ha",
+          "frequency": "Every 5-7 days"
+        }
+      ],
+      "post_harvest_organic_treatments": [
+        {
+          "name": "Panchagavya (Liquid)",
+          "price": "₹50/litre",
+          "unit": "per litre",
+          "use_for": "General crop health booster, Disease resistance, Preventive for all crops",
+          "dosage": "30 ml/litre of water",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Jeevamrutha (Liquid)",
+          "price": "₹10/litre",
+          "unit": "per litre",
+          "use_for": "Soil health, Microbial enrichment, Disease suppression in all crops",
+          "dosage": "200 L/ha",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Vermicompost",
+          "price": "₹15/kg",
+          "unit": "per kg",
+          "use_for": "Soil health, General crop nutrition, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Compost Tea (Brewed)",
+          "price": "₹5/litre",
+          "unit": "per litre",
+          "use_for": "Corn Healthy, Potato Healthy, Strawberry Healthy - preventive spray",
+          "dosage": "100 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Horticultural Oil (Mineral Oil 97%)",
+          "price": "₹380/litre",
+          "unit": "per litre",
+          "use_for": "Cherry Healthy, Peach Healthy, Raspberry - dormant season spray",
+          "dosage": "8.0-10.0 L/ha",
+          "frequency": "Dormant season once"
+        },
+        {
+          "name": "Rhizobium Culture 1x10^8 CFU/g",
+          "price": "₹68/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation for legumes (Soybean healthy), Gram, Tur",
+          "dosage": "200g/ha (seed treatment)",
+          "frequency": "Once (seed treatment)"
+        },
+        {
+          "name": "VAM (Mycorrhiza) Granules",
+          "price": "₹97/kg",
+          "unit": "per kg",
+          "use_for": "Root development, Nutrient uptake, All fruit & vegetable crops",
+          "dosage": "5 kg/ha",
+          "frequency": "Once at planting"
+        },
+        {
+          "name": "Lime Sulfur (Organic Grade)",
+          "price": "₹180/litre",
+          "unit": "per litre",
+          "use_for": "Cedar Apple Rust, Raspberry Healthy - dormant spray, Apple diseases",
+          "dosage": "5.0 L/ha",
+          "frequency": "Dormant season / Every 10 days"
+        },
+        {
+          "name": "Seaweed Extract Liquid",
+          "price": "₹250/litre",
+          "unit": "per litre",
+          "use_for": "Plant growth promoter, Disease resistance booster, All crops",
+          "dosage": "3.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Fish Amino Acid (FAA)",
+          "price": "₹160/litre",
+          "unit": "per litre",
+          "use_for": "Crop nutrition, Growth promotion, Disease resistance",
+          "dosage": "2.0-3.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Humic Acid Granules 70%",
+          "price": "₹180/kg",
+          "unit": "per kg",
+          "use_for": "Soil conditioner, Root health, Disease suppression",
+          "dosage": "10 kg/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Bio Compost (Enriched)",
+          "price": "₹16/kg",
+          "unit": "per kg",
+          "use_for": "General soil health, Nutrient supply, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        }
+      ]
+    },
+    {
+      "name": "Chennai Port Cold Chain Hub",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "latitude": 13.085,
+      "longitude": 80.295,
+      "capacity": "12000 MT",
+      "storage_types": [
+        "Seafood",
+        "Fruits",
+        "Vegetables",
+        "Dairy",
+        "Pharmaceuticals"
+      ],
+      "contact": "+91-44-23456789",
+      "products": [
+        {
+          "name": "Seafood Storage (per month)",
+          "price": "₹620/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Fruit Storage (per month)",
+          "price": "₹430/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Vegetable Storage (per month)",
+          "price": "₹390/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Dairy Storage (per month)",
+          "price": "₹540/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Blast Freezing",
+          "price": "₹160/MT",
+          "unit": "per MT"
+        },
+        {
+          "name": "Export Handling",
+          "price": "₹130/MT",
+          "unit": "per MT"
+        },
+        {
+          "name": "Reefer Transport (per km)",
+          "price": "₹30/km",
+          "unit": "per km"
+        }
+      ],
+      "post_harvest_chemical_treatments": [
+        {
+          "name": "Chlorothalonil 75% WP",
+          "price": "₹295/kg",
+          "unit": "per kg",
+          "use_for": "Potato Early Blight, Tomato Early Blight, Septoria Leaf Spot",
+          "dosage": "2.0-2.5 kg/ha",
+          "frequency": "Every 7-14 days"
+        },
+        {
+          "name": "Hexaconazole 5% EC",
+          "price": "₹375/litre",
+          "unit": "per litre",
+          "use_for": "Powdery Mildew, Rust Diseases, Cherry Diseases",
+          "dosage": "1.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Copper Hydroxide 77% WP",
+          "price": "₹248/kg",
+          "unit": "per kg",
+          "use_for": "Apple Black Rot, Corn Cercospora, Peach Bacterial Spot, Grape Diseases",
+          "dosage": "2.5-3.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Copper Sulfate 98% TC",
+          "price": "₹185/kg",
+          "unit": "per kg",
+          "use_for": "Peach Bacterial Spot, Pepper Bacterial Spot, Tomato Bacterial Spot",
+          "dosage": "2.5 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Copper Oxychloride 50% WP",
+          "price": "₹245/kg",
+          "unit": "per kg",
+          "use_for": "Bacterial Diseases, Fungal Diseases, Grape Diseases",
+          "dosage": "3.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Spiromesifen 22.9% SC",
+          "price": "₹1250/litre",
+          "unit": "per litre",
+          "use_for": "Spider Mites on Tomato, Whitefly",
+          "dosage": "0.5 L/ha",
+          "frequency": "Every 10-14 days"
+        },
+        {
+          "name": "Lime Sulfur (Calcium Polysulfide)",
+          "price": "₹180/litre",
+          "unit": "per litre",
+          "use_for": "Cedar Apple Rust, Raspberry Diseases, Dormant Season Spray",
+          "dosage": "5.0 L/ha",
+          "frequency": "Every 10 days / Dormant once"
+        },
+        {
+          "name": "Streptomycin Sulfate 90% SP",
+          "price": "₹1100/kg",
+          "unit": "per kg",
+          "use_for": "Tomato Bacterial Spot, Pepper Bacterial Spot, Peach Bacterial Spot",
+          "dosage": "0.2-0.3 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Cymoxanil + Mancozeb 72% WP",
+          "price": "₹340/kg",
+          "unit": "per kg",
+          "use_for": "Tomato Late Blight, Potato Late Blight, Downy Mildew",
+          "dosage": "2.5 kg/ha",
+          "frequency": "Every 5-7 days"
+        }
+      ],
+      "post_harvest_organic_treatments": [
+        {
+          "name": "Panchagavya (Liquid)",
+          "price": "₹50/litre",
+          "unit": "per litre",
+          "use_for": "General crop health booster, Disease resistance, Preventive for all crops",
+          "dosage": "30 ml/litre of water",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Jeevamrutha (Liquid)",
+          "price": "₹10/litre",
+          "unit": "per litre",
+          "use_for": "Soil health, Microbial enrichment, Disease suppression in all crops",
+          "dosage": "200 L/ha",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Vermicompost",
+          "price": "₹15/kg",
+          "unit": "per kg",
+          "use_for": "Soil health, General crop nutrition, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Compost Tea (Brewed)",
+          "price": "₹5/litre",
+          "unit": "per litre",
+          "use_for": "Corn Healthy, Potato Healthy, Strawberry Healthy - preventive spray",
+          "dosage": "100 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Horticultural Oil (Mineral Oil 97%)",
+          "price": "₹380/litre",
+          "unit": "per litre",
+          "use_for": "Cherry Healthy, Peach Healthy, Raspberry - dormant season spray",
+          "dosage": "8.0-10.0 L/ha",
+          "frequency": "Dormant season once"
+        },
+        {
+          "name": "Rhizobium Culture 1x10^8 CFU/g",
+          "price": "₹68/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation for legumes (Soybean healthy), Gram, Tur",
+          "dosage": "200g/ha (seed treatment)",
+          "frequency": "Once (seed treatment)"
+        },
+        {
+          "name": "VAM (Mycorrhiza) Granules",
+          "price": "₹97/kg",
+          "unit": "per kg",
+          "use_for": "Root development, Nutrient uptake, All fruit & vegetable crops",
+          "dosage": "5 kg/ha",
+          "frequency": "Once at planting"
+        },
+        {
+          "name": "Lime Sulfur (Organic Grade)",
+          "price": "₹180/litre",
+          "unit": "per litre",
+          "use_for": "Cedar Apple Rust, Raspberry Healthy - dormant spray, Apple diseases",
+          "dosage": "5.0 L/ha",
+          "frequency": "Dormant season / Every 10 days"
+        },
+        {
+          "name": "Seaweed Extract Liquid",
+          "price": "₹250/litre",
+          "unit": "per litre",
+          "use_for": "Plant growth promoter, Disease resistance booster, All crops",
+          "dosage": "3.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Fish Amino Acid (FAA)",
+          "price": "₹160/litre",
+          "unit": "per litre",
+          "use_for": "Crop nutrition, Growth promotion, Disease resistance",
+          "dosage": "2.0-3.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Humic Acid Granules 70%",
+          "price": "₹180/kg",
+          "unit": "per kg",
+          "use_for": "Soil conditioner, Root health, Disease suppression",
+          "dosage": "10 kg/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Bio Compost (Enriched)",
+          "price": "₹16/kg",
+          "unit": "per kg",
+          "use_for": "General soil health, Nutrient supply, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        }
+      ]
+    },
+    {
+      "name": "Hyderabad Agri Cold Chain Center",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "latitude": 17.375,
+      "longitude": 78.48,
+      "capacity": "8000 MT",
+      "storage_types": [
+        "Vegetables",
+        "Fruits",
+        "Chilli",
+        "Turmeric",
+        "Poultry"
+      ],
+      "contact": "+91-40-23456789",
+      "products": [
+        {
+          "name": "Vegetable Storage (per month)",
+          "price": "₹360/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Fruit Storage (per month)",
+          "price": "₹415/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Chilli & Spice Storage (per month)",
+          "price": "₹300/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Poultry Storage (per month)",
+          "price": "₹580/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Pre-cooling Service",
+          "price": "₹63/MT",
+          "unit": "per MT"
+        },
+        {
+          "name": "Reefer Transport (per km)",
+          "price": "₹26/km",
+          "unit": "per km"
+        }
+      ],
+      "post_harvest_chemical_treatments": [
+        {
+          "name": "Chlorothalonil 75% WP",
+          "price": "₹295/kg",
+          "unit": "per kg",
+          "use_for": "Potato Early Blight, Tomato Early Blight, Septoria Leaf Spot",
+          "dosage": "2.0-2.5 kg/ha",
+          "frequency": "Every 7-14 days"
+        },
+        {
+          "name": "Hexaconazole 5% EC",
+          "price": "₹375/litre",
+          "unit": "per litre",
+          "use_for": "Powdery Mildew, Rust Diseases, Cherry Diseases",
+          "dosage": "1.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Copper Hydroxide 77% WP",
+          "price": "₹248/kg",
+          "unit": "per kg",
+          "use_for": "Apple Black Rot, Corn Cercospora, Peach Bacterial Spot, Grape Diseases",
+          "dosage": "2.5-3.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Copper Sulfate 98% TC",
+          "price": "₹185/kg",
+          "unit": "per kg",
+          "use_for": "Peach Bacterial Spot, Pepper Bacterial Spot, Tomato Bacterial Spot",
+          "dosage": "2.5 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Copper Oxychloride 50% WP",
+          "price": "₹245/kg",
+          "unit": "per kg",
+          "use_for": "Bacterial Diseases, Fungal Diseases, Grape Diseases",
+          "dosage": "3.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Spiromesifen 22.9% SC",
+          "price": "₹1250/litre",
+          "unit": "per litre",
+          "use_for": "Spider Mites on Tomato, Whitefly",
+          "dosage": "0.5 L/ha",
+          "frequency": "Every 10-14 days"
+        },
+        {
+          "name": "Lime Sulfur (Calcium Polysulfide)",
+          "price": "₹180/litre",
+          "unit": "per litre",
+          "use_for": "Cedar Apple Rust, Raspberry Diseases, Dormant Season Spray",
+          "dosage": "5.0 L/ha",
+          "frequency": "Every 10 days / Dormant once"
+        },
+        {
+          "name": "Streptomycin Sulfate 90% SP",
+          "price": "₹1100/kg",
+          "unit": "per kg",
+          "use_for": "Tomato Bacterial Spot, Pepper Bacterial Spot, Peach Bacterial Spot",
+          "dosage": "0.2-0.3 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Cymoxanil + Mancozeb 72% WP",
+          "price": "₹340/kg",
+          "unit": "per kg",
+          "use_for": "Tomato Late Blight, Potato Late Blight, Downy Mildew",
+          "dosage": "2.5 kg/ha",
+          "frequency": "Every 5-7 days"
+        }
+      ],
+      "post_harvest_organic_treatments": [
+        {
+          "name": "Panchagavya (Liquid)",
+          "price": "₹50/litre",
+          "unit": "per litre",
+          "use_for": "General crop health booster, Disease resistance, Preventive for all crops",
+          "dosage": "30 ml/litre of water",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Jeevamrutha (Liquid)",
+          "price": "₹10/litre",
+          "unit": "per litre",
+          "use_for": "Soil health, Microbial enrichment, Disease suppression in all crops",
+          "dosage": "200 L/ha",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Vermicompost",
+          "price": "₹15/kg",
+          "unit": "per kg",
+          "use_for": "Soil health, General crop nutrition, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Compost Tea (Brewed)",
+          "price": "₹5/litre",
+          "unit": "per litre",
+          "use_for": "Corn Healthy, Potato Healthy, Strawberry Healthy - preventive spray",
+          "dosage": "100 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Horticultural Oil (Mineral Oil 97%)",
+          "price": "₹380/litre",
+          "unit": "per litre",
+          "use_for": "Cherry Healthy, Peach Healthy, Raspberry - dormant season spray",
+          "dosage": "8.0-10.0 L/ha",
+          "frequency": "Dormant season once"
+        },
+        {
+          "name": "Rhizobium Culture 1x10^8 CFU/g",
+          "price": "₹68/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation for legumes (Soybean healthy), Gram, Tur",
+          "dosage": "200g/ha (seed treatment)",
+          "frequency": "Once (seed treatment)"
+        },
+        {
+          "name": "VAM (Mycorrhiza) Granules",
+          "price": "₹97/kg",
+          "unit": "per kg",
+          "use_for": "Root development, Nutrient uptake, All fruit & vegetable crops",
+          "dosage": "5 kg/ha",
+          "frequency": "Once at planting"
+        },
+        {
+          "name": "Lime Sulfur (Organic Grade)",
+          "price": "₹180/litre",
+          "unit": "per litre",
+          "use_for": "Cedar Apple Rust, Raspberry Healthy - dormant spray, Apple diseases",
+          "dosage": "5.0 L/ha",
+          "frequency": "Dormant season / Every 10 days"
+        },
+        {
+          "name": "Seaweed Extract Liquid",
+          "price": "₹250/litre",
+          "unit": "per litre",
+          "use_for": "Plant growth promoter, Disease resistance booster, All crops",
+          "dosage": "3.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Fish Amino Acid (FAA)",
+          "price": "₹160/litre",
+          "unit": "per litre",
+          "use_for": "Crop nutrition, Growth promotion, Disease resistance",
+          "dosage": "2.0-3.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Humic Acid Granules 70%",
+          "price": "₹180/kg",
+          "unit": "per kg",
+          "use_for": "Soil conditioner, Root health, Disease suppression",
+          "dosage": "10 kg/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Bio Compost (Enriched)",
+          "price": "₹16/kg",
+          "unit": "per kg",
+          "use_for": "General soil health, Nutrient supply, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        }
+      ]
+    },
+    {
+      "name": "Pune Cold Storage Complex",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "latitude": 18.515,
+      "longitude": 73.855,
+      "capacity": "9000 MT",
+      "storage_types": [
+        "Onion",
+        "Grapes",
+        "Vegetables",
+        "Fruits",
+        "Processed Food"
+      ],
+      "contact": "+91-20-23456789",
+      "products": [
+        {
+          "name": "Onion Storage (per month)",
+          "price": "₹200/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Grape Storage (per month)",
+          "price": "₹520/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Vegetable Storage (per month)",
+          "price": "₹370/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Fruit Storage (per month)",
+          "price": "₹425/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Processed Food Storage (per month)",
+          "price": "₹470/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Pre-cooling Service",
+          "price": "₹67/MT",
+          "unit": "per MT"
+        }
+      ],
+      "post_harvest_chemical_treatments": [
+        {
+          "name": "Chlorothalonil 75% WP",
+          "price": "₹295/kg",
+          "unit": "per kg",
+          "use_for": "Potato Early Blight, Tomato Early Blight, Septoria Leaf Spot",
+          "dosage": "2.0-2.5 kg/ha",
+          "frequency": "Every 7-14 days"
+        },
+        {
+          "name": "Hexaconazole 5% EC",
+          "price": "₹375/litre",
+          "unit": "per litre",
+          "use_for": "Powdery Mildew, Rust Diseases, Cherry Diseases",
+          "dosage": "1.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Copper Hydroxide 77% WP",
+          "price": "₹248/kg",
+          "unit": "per kg",
+          "use_for": "Apple Black Rot, Corn Cercospora, Peach Bacterial Spot, Grape Diseases",
+          "dosage": "2.5-3.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Copper Sulfate 98% TC",
+          "price": "₹185/kg",
+          "unit": "per kg",
+          "use_for": "Peach Bacterial Spot, Pepper Bacterial Spot, Tomato Bacterial Spot",
+          "dosage": "2.5 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Copper Oxychloride 50% WP",
+          "price": "₹245/kg",
+          "unit": "per kg",
+          "use_for": "Bacterial Diseases, Fungal Diseases, Grape Diseases",
+          "dosage": "3.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Spiromesifen 22.9% SC",
+          "price": "₹1250/litre",
+          "unit": "per litre",
+          "use_for": "Spider Mites on Tomato, Whitefly",
+          "dosage": "0.5 L/ha",
+          "frequency": "Every 10-14 days"
+        },
+        {
+          "name": "Lime Sulfur (Calcium Polysulfide)",
+          "price": "₹180/litre",
+          "unit": "per litre",
+          "use_for": "Cedar Apple Rust, Raspberry Diseases, Dormant Season Spray",
+          "dosage": "5.0 L/ha",
+          "frequency": "Every 10 days / Dormant once"
+        },
+        {
+          "name": "Streptomycin Sulfate 90% SP",
+          "price": "₹1100/kg",
+          "unit": "per kg",
+          "use_for": "Tomato Bacterial Spot, Pepper Bacterial Spot, Peach Bacterial Spot",
+          "dosage": "0.2-0.3 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Cymoxanil + Mancozeb 72% WP",
+          "price": "₹340/kg",
+          "unit": "per kg",
+          "use_for": "Tomato Late Blight, Potato Late Blight, Downy Mildew",
+          "dosage": "2.5 kg/ha",
+          "frequency": "Every 5-7 days"
+        }
+      ],
+      "post_harvest_organic_treatments": [
+        {
+          "name": "Panchagavya (Liquid)",
+          "price": "₹50/litre",
+          "unit": "per litre",
+          "use_for": "General crop health booster, Disease resistance, Preventive for all crops",
+          "dosage": "30 ml/litre of water",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Jeevamrutha (Liquid)",
+          "price": "₹10/litre",
+          "unit": "per litre",
+          "use_for": "Soil health, Microbial enrichment, Disease suppression in all crops",
+          "dosage": "200 L/ha",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Vermicompost",
+          "price": "₹15/kg",
+          "unit": "per kg",
+          "use_for": "Soil health, General crop nutrition, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Compost Tea (Brewed)",
+          "price": "₹5/litre",
+          "unit": "per litre",
+          "use_for": "Corn Healthy, Potato Healthy, Strawberry Healthy - preventive spray",
+          "dosage": "100 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Horticultural Oil (Mineral Oil 97%)",
+          "price": "₹380/litre",
+          "unit": "per litre",
+          "use_for": "Cherry Healthy, Peach Healthy, Raspberry - dormant season spray",
+          "dosage": "8.0-10.0 L/ha",
+          "frequency": "Dormant season once"
+        },
+        {
+          "name": "Rhizobium Culture 1x10^8 CFU/g",
+          "price": "₹68/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation for legumes (Soybean healthy), Gram, Tur",
+          "dosage": "200g/ha (seed treatment)",
+          "frequency": "Once (seed treatment)"
+        },
+        {
+          "name": "VAM (Mycorrhiza) Granules",
+          "price": "₹97/kg",
+          "unit": "per kg",
+          "use_for": "Root development, Nutrient uptake, All fruit & vegetable crops",
+          "dosage": "5 kg/ha",
+          "frequency": "Once at planting"
+        },
+        {
+          "name": "Lime Sulfur (Organic Grade)",
+          "price": "₹180/litre",
+          "unit": "per litre",
+          "use_for": "Cedar Apple Rust, Raspberry Healthy - dormant spray, Apple diseases",
+          "dosage": "5.0 L/ha",
+          "frequency": "Dormant season / Every 10 days"
+        },
+        {
+          "name": "Seaweed Extract Liquid",
+          "price": "₹250/litre",
+          "unit": "per litre",
+          "use_for": "Plant growth promoter, Disease resistance booster, All crops",
+          "dosage": "3.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Fish Amino Acid (FAA)",
+          "price": "₹160/litre",
+          "unit": "per litre",
+          "use_for": "Crop nutrition, Growth promotion, Disease resistance",
+          "dosage": "2.0-3.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Humic Acid Granules 70%",
+          "price": "₹180/kg",
+          "unit": "per kg",
+          "use_for": "Soil conditioner, Root health, Disease suppression",
+          "dosage": "10 kg/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Bio Compost (Enriched)",
+          "price": "₹16/kg",
+          "unit": "per kg",
+          "use_for": "General soil health, Nutrient supply, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        }
+      ]
+    },
+    {
+      "name": "Mumbai Vashi Cold Chain Hub",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "latitude": 19.07,
+      "longitude": 72.995,
+      "capacity": "15000 MT",
+      "storage_types": [
+        "Seafood",
+        "Vegetables",
+        "Fruits",
+        "Dairy",
+        "Pharmaceuticals",
+        "Processed Food"
+      ],
+      "contact": "+91-22-23456789",
+      "products": [
+        {
+          "name": "Seafood Storage (per month)",
+          "price": "₹650/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Vegetable Storage (per month)",
+          "price": "₹400/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Fruit Storage (per month)",
+          "price": "₹445/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Dairy Storage (per month)",
+          "price": "₹560/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Blast Freezing",
+          "price": "₹170/MT",
+          "unit": "per MT"
+        },
+        {
+          "name": "Export Handling + Packing",
+          "price": "₹140/MT",
+          "unit": "per MT"
+        },
+        {
+          "name": "Reefer Transport (per km)",
+          "price": "₹32/km",
+          "unit": "per km"
+        }
+      ],
+      "post_harvest_chemical_treatments": [
+        {
+          "name": "Chlorothalonil 75% WP",
+          "price": "₹295/kg",
+          "unit": "per kg",
+          "use_for": "Potato Early Blight, Tomato Early Blight, Septoria Leaf Spot",
+          "dosage": "2.0-2.5 kg/ha",
+          "frequency": "Every 7-14 days"
+        },
+        {
+          "name": "Hexaconazole 5% EC",
+          "price": "₹375/litre",
+          "unit": "per litre",
+          "use_for": "Powdery Mildew, Rust Diseases, Cherry Diseases",
+          "dosage": "1.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Copper Hydroxide 77% WP",
+          "price": "₹248/kg",
+          "unit": "per kg",
+          "use_for": "Apple Black Rot, Corn Cercospora, Peach Bacterial Spot, Grape Diseases",
+          "dosage": "2.5-3.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Copper Sulfate 98% TC",
+          "price": "₹185/kg",
+          "unit": "per kg",
+          "use_for": "Peach Bacterial Spot, Pepper Bacterial Spot, Tomato Bacterial Spot",
+          "dosage": "2.5 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Copper Oxychloride 50% WP",
+          "price": "₹245/kg",
+          "unit": "per kg",
+          "use_for": "Bacterial Diseases, Fungal Diseases, Grape Diseases",
+          "dosage": "3.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Spiromesifen 22.9% SC",
+          "price": "₹1250/litre",
+          "unit": "per litre",
+          "use_for": "Spider Mites on Tomato, Whitefly",
+          "dosage": "0.5 L/ha",
+          "frequency": "Every 10-14 days"
+        },
+        {
+          "name": "Lime Sulfur (Calcium Polysulfide)",
+          "price": "₹180/litre",
+          "unit": "per litre",
+          "use_for": "Cedar Apple Rust, Raspberry Diseases, Dormant Season Spray",
+          "dosage": "5.0 L/ha",
+          "frequency": "Every 10 days / Dormant once"
+        },
+        {
+          "name": "Streptomycin Sulfate 90% SP",
+          "price": "₹1100/kg",
+          "unit": "per kg",
+          "use_for": "Tomato Bacterial Spot, Pepper Bacterial Spot, Peach Bacterial Spot",
+          "dosage": "0.2-0.3 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Cymoxanil + Mancozeb 72% WP",
+          "price": "₹340/kg",
+          "unit": "per kg",
+          "use_for": "Tomato Late Blight, Potato Late Blight, Downy Mildew",
+          "dosage": "2.5 kg/ha",
+          "frequency": "Every 5-7 days"
+        }
+      ],
+      "post_harvest_organic_treatments": [
+        {
+          "name": "Panchagavya (Liquid)",
+          "price": "₹50/litre",
+          "unit": "per litre",
+          "use_for": "General crop health booster, Disease resistance, Preventive for all crops",
+          "dosage": "30 ml/litre of water",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Jeevamrutha (Liquid)",
+          "price": "₹10/litre",
+          "unit": "per litre",
+          "use_for": "Soil health, Microbial enrichment, Disease suppression in all crops",
+          "dosage": "200 L/ha",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Vermicompost",
+          "price": "₹15/kg",
+          "unit": "per kg",
+          "use_for": "Soil health, General crop nutrition, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Compost Tea (Brewed)",
+          "price": "₹5/litre",
+          "unit": "per litre",
+          "use_for": "Corn Healthy, Potato Healthy, Strawberry Healthy - preventive spray",
+          "dosage": "100 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Horticultural Oil (Mineral Oil 97%)",
+          "price": "₹380/litre",
+          "unit": "per litre",
+          "use_for": "Cherry Healthy, Peach Healthy, Raspberry - dormant season spray",
+          "dosage": "8.0-10.0 L/ha",
+          "frequency": "Dormant season once"
+        },
+        {
+          "name": "Rhizobium Culture 1x10^8 CFU/g",
+          "price": "₹68/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation for legumes (Soybean healthy), Gram, Tur",
+          "dosage": "200g/ha (seed treatment)",
+          "frequency": "Once (seed treatment)"
+        },
+        {
+          "name": "VAM (Mycorrhiza) Granules",
+          "price": "₹97/kg",
+          "unit": "per kg",
+          "use_for": "Root development, Nutrient uptake, All fruit & vegetable crops",
+          "dosage": "5 kg/ha",
+          "frequency": "Once at planting"
+        },
+        {
+          "name": "Lime Sulfur (Organic Grade)",
+          "price": "₹180/litre",
+          "unit": "per litre",
+          "use_for": "Cedar Apple Rust, Raspberry Healthy - dormant spray, Apple diseases",
+          "dosage": "5.0 L/ha",
+          "frequency": "Dormant season / Every 10 days"
+        },
+        {
+          "name": "Seaweed Extract Liquid",
+          "price": "₹250/litre",
+          "unit": "per litre",
+          "use_for": "Plant growth promoter, Disease resistance booster, All crops",
+          "dosage": "3.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Fish Amino Acid (FAA)",
+          "price": "₹160/litre",
+          "unit": "per litre",
+          "use_for": "Crop nutrition, Growth promotion, Disease resistance",
+          "dosage": "2.0-3.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Humic Acid Granules 70%",
+          "price": "₹180/kg",
+          "unit": "per kg",
+          "use_for": "Soil conditioner, Root health, Disease suppression",
+          "dosage": "10 kg/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Bio Compost (Enriched)",
+          "price": "₹16/kg",
+          "unit": "per kg",
+          "use_for": "General soil health, Nutrient supply, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        }
+      ]
+    },
+    {
+      "name": "Delhi Azadpur Cold Storage Hub",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "latitude": 28.71,
+      "longitude": 77.175,
+      "capacity": "10000 MT",
+      "storage_types": [
+        "Vegetables",
+        "Fruits",
+        "Potatoes",
+        "Dairy"
+      ],
+      "contact": "+91-11-23456789",
+      "products": [
+        {
+          "name": "Potato Storage (per month)",
+          "price": "₹210/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Vegetable Storage (per month)",
+          "price": "₹385/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Fruit Storage (per month)",
+          "price": "₹440/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Dairy Storage (per month)",
+          "price": "₹545/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Loading/Unloading Charges",
+          "price": "₹55/MT",
+          "unit": "per MT"
+        },
+        {
+          "name": "Reefer Transport (per km)",
+          "price": "₹27/km",
+          "unit": "per km"
+        }
+      ],
+      "post_harvest_chemical_treatments": [
+        {
+          "name": "Chlorothalonil 75% WP",
+          "price": "₹295/kg",
+          "unit": "per kg",
+          "use_for": "Potato Early Blight, Tomato Early Blight, Septoria Leaf Spot",
+          "dosage": "2.0-2.5 kg/ha",
+          "frequency": "Every 7-14 days"
+        },
+        {
+          "name": "Hexaconazole 5% EC",
+          "price": "₹375/litre",
+          "unit": "per litre",
+          "use_for": "Powdery Mildew, Rust Diseases, Cherry Diseases",
+          "dosage": "1.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Copper Hydroxide 77% WP",
+          "price": "₹248/kg",
+          "unit": "per kg",
+          "use_for": "Apple Black Rot, Corn Cercospora, Peach Bacterial Spot, Grape Diseases",
+          "dosage": "2.5-3.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Copper Sulfate 98% TC",
+          "price": "₹185/kg",
+          "unit": "per kg",
+          "use_for": "Peach Bacterial Spot, Pepper Bacterial Spot, Tomato Bacterial Spot",
+          "dosage": "2.5 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Copper Oxychloride 50% WP",
+          "price": "₹245/kg",
+          "unit": "per kg",
+          "use_for": "Bacterial Diseases, Fungal Diseases, Grape Diseases",
+          "dosage": "3.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Spiromesifen 22.9% SC",
+          "price": "₹1250/litre",
+          "unit": "per litre",
+          "use_for": "Spider Mites on Tomato, Whitefly",
+          "dosage": "0.5 L/ha",
+          "frequency": "Every 10-14 days"
+        },
+        {
+          "name": "Lime Sulfur (Calcium Polysulfide)",
+          "price": "₹180/litre",
+          "unit": "per litre",
+          "use_for": "Cedar Apple Rust, Raspberry Diseases, Dormant Season Spray",
+          "dosage": "5.0 L/ha",
+          "frequency": "Every 10 days / Dormant once"
+        },
+        {
+          "name": "Streptomycin Sulfate 90% SP",
+          "price": "₹1100/kg",
+          "unit": "per kg",
+          "use_for": "Tomato Bacterial Spot, Pepper Bacterial Spot, Peach Bacterial Spot",
+          "dosage": "0.2-0.3 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Cymoxanil + Mancozeb 72% WP",
+          "price": "₹340/kg",
+          "unit": "per kg",
+          "use_for": "Tomato Late Blight, Potato Late Blight, Downy Mildew",
+          "dosage": "2.5 kg/ha",
+          "frequency": "Every 5-7 days"
+        }
+      ],
+      "post_harvest_organic_treatments": [
+        {
+          "name": "Panchagavya (Liquid)",
+          "price": "₹50/litre",
+          "unit": "per litre",
+          "use_for": "General crop health booster, Disease resistance, Preventive for all crops",
+          "dosage": "30 ml/litre of water",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Jeevamrutha (Liquid)",
+          "price": "₹10/litre",
+          "unit": "per litre",
+          "use_for": "Soil health, Microbial enrichment, Disease suppression in all crops",
+          "dosage": "200 L/ha",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Vermicompost",
+          "price": "₹15/kg",
+          "unit": "per kg",
+          "use_for": "Soil health, General crop nutrition, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Compost Tea (Brewed)",
+          "price": "₹5/litre",
+          "unit": "per litre",
+          "use_for": "Corn Healthy, Potato Healthy, Strawberry Healthy - preventive spray",
+          "dosage": "100 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Horticultural Oil (Mineral Oil 97%)",
+          "price": "₹380/litre",
+          "unit": "per litre",
+          "use_for": "Cherry Healthy, Peach Healthy, Raspberry - dormant season spray",
+          "dosage": "8.0-10.0 L/ha",
+          "frequency": "Dormant season once"
+        },
+        {
+          "name": "Rhizobium Culture 1x10^8 CFU/g",
+          "price": "₹68/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation for legumes (Soybean healthy), Gram, Tur",
+          "dosage": "200g/ha (seed treatment)",
+          "frequency": "Once (seed treatment)"
+        },
+        {
+          "name": "VAM (Mycorrhiza) Granules",
+          "price": "₹97/kg",
+          "unit": "per kg",
+          "use_for": "Root development, Nutrient uptake, All fruit & vegetable crops",
+          "dosage": "5 kg/ha",
+          "frequency": "Once at planting"
+        },
+        {
+          "name": "Lime Sulfur (Organic Grade)",
+          "price": "₹180/litre",
+          "unit": "per litre",
+          "use_for": "Cedar Apple Rust, Raspberry Healthy - dormant spray, Apple diseases",
+          "dosage": "5.0 L/ha",
+          "frequency": "Dormant season / Every 10 days"
+        },
+        {
+          "name": "Seaweed Extract Liquid",
+          "price": "₹250/litre",
+          "unit": "per litre",
+          "use_for": "Plant growth promoter, Disease resistance booster, All crops",
+          "dosage": "3.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Fish Amino Acid (FAA)",
+          "price": "₹160/litre",
+          "unit": "per litre",
+          "use_for": "Crop nutrition, Growth promotion, Disease resistance",
+          "dosage": "2.0-3.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Humic Acid Granules 70%",
+          "price": "₹180/kg",
+          "unit": "per kg",
+          "use_for": "Soil conditioner, Root health, Disease suppression",
+          "dosage": "10 kg/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Bio Compost (Enriched)",
+          "price": "₹16/kg",
+          "unit": "per kg",
+          "use_for": "General soil health, Nutrient supply, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        }
+      ]
+    },
+    {
+      "name": "Punjab Agri Cold Chain - Ludhiana",
+      "city": "Ludhiana",
+      "state": "Punjab",
+      "latitude": 30.9,
+      "longitude": 75.855,
+      "capacity": "7000 MT",
+      "storage_types": [
+        "Wheat",
+        "Vegetables",
+        "Fruits",
+        "Dairy",
+        "Potatoes"
+      ],
+      "contact": "+91-161-2345678",
+      "products": [
+        {
+          "name": "Wheat / Grain Storage (per month)",
+          "price": "₹200/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Potato Storage (per month)",
+          "price": "₹205/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Vegetable Storage (per month)",
+          "price": "₹355/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Fruit Storage (per month)",
+          "price": "₹410/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Dairy Storage (per month)",
+          "price": "₹530/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Reefer Transport (per km)",
+          "price": "₹22/km",
+          "unit": "per km"
+        }
+      ],
+      "post_harvest_chemical_treatments": [
+        {
+          "name": "Chlorothalonil 75% WP",
+          "price": "₹295/kg",
+          "unit": "per kg",
+          "use_for": "Potato Early Blight, Tomato Early Blight, Septoria Leaf Spot",
+          "dosage": "2.0-2.5 kg/ha",
+          "frequency": "Every 7-14 days"
+        },
+        {
+          "name": "Hexaconazole 5% EC",
+          "price": "₹375/litre",
+          "unit": "per litre",
+          "use_for": "Powdery Mildew, Rust Diseases, Cherry Diseases",
+          "dosage": "1.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Copper Hydroxide 77% WP",
+          "price": "₹248/kg",
+          "unit": "per kg",
+          "use_for": "Apple Black Rot, Corn Cercospora, Peach Bacterial Spot, Grape Diseases",
+          "dosage": "2.5-3.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Copper Sulfate 98% TC",
+          "price": "₹185/kg",
+          "unit": "per kg",
+          "use_for": "Peach Bacterial Spot, Pepper Bacterial Spot, Tomato Bacterial Spot",
+          "dosage": "2.5 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Copper Oxychloride 50% WP",
+          "price": "₹245/kg",
+          "unit": "per kg",
+          "use_for": "Bacterial Diseases, Fungal Diseases, Grape Diseases",
+          "dosage": "3.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Spiromesifen 22.9% SC",
+          "price": "₹1250/litre",
+          "unit": "per litre",
+          "use_for": "Spider Mites on Tomato, Whitefly",
+          "dosage": "0.5 L/ha",
+          "frequency": "Every 10-14 days"
+        },
+        {
+          "name": "Lime Sulfur (Calcium Polysulfide)",
+          "price": "₹180/litre",
+          "unit": "per litre",
+          "use_for": "Cedar Apple Rust, Raspberry Diseases, Dormant Season Spray",
+          "dosage": "5.0 L/ha",
+          "frequency": "Every 10 days / Dormant once"
+        },
+        {
+          "name": "Streptomycin Sulfate 90% SP",
+          "price": "₹1100/kg",
+          "unit": "per kg",
+          "use_for": "Tomato Bacterial Spot, Pepper Bacterial Spot, Peach Bacterial Spot",
+          "dosage": "0.2-0.3 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Cymoxanil + Mancozeb 72% WP",
+          "price": "₹340/kg",
+          "unit": "per kg",
+          "use_for": "Tomato Late Blight, Potato Late Blight, Downy Mildew",
+          "dosage": "2.5 kg/ha",
+          "frequency": "Every 5-7 days"
+        }
+      ],
+      "post_harvest_organic_treatments": [
+        {
+          "name": "Panchagavya (Liquid)",
+          "price": "₹50/litre",
+          "unit": "per litre",
+          "use_for": "General crop health booster, Disease resistance, Preventive for all crops",
+          "dosage": "30 ml/litre of water",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Jeevamrutha (Liquid)",
+          "price": "₹10/litre",
+          "unit": "per litre",
+          "use_for": "Soil health, Microbial enrichment, Disease suppression in all crops",
+          "dosage": "200 L/ha",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Vermicompost",
+          "price": "₹15/kg",
+          "unit": "per kg",
+          "use_for": "Soil health, General crop nutrition, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Compost Tea (Brewed)",
+          "price": "₹5/litre",
+          "unit": "per litre",
+          "use_for": "Corn Healthy, Potato Healthy, Strawberry Healthy - preventive spray",
+          "dosage": "100 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Horticultural Oil (Mineral Oil 97%)",
+          "price": "₹380/litre",
+          "unit": "per litre",
+          "use_for": "Cherry Healthy, Peach Healthy, Raspberry - dormant season spray",
+          "dosage": "8.0-10.0 L/ha",
+          "frequency": "Dormant season once"
+        },
+        {
+          "name": "Rhizobium Culture 1x10^8 CFU/g",
+          "price": "₹68/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation for legumes (Soybean healthy), Gram, Tur",
+          "dosage": "200g/ha (seed treatment)",
+          "frequency": "Once (seed treatment)"
+        },
+        {
+          "name": "VAM (Mycorrhiza) Granules",
+          "price": "₹97/kg",
+          "unit": "per kg",
+          "use_for": "Root development, Nutrient uptake, All fruit & vegetable crops",
+          "dosage": "5 kg/ha",
+          "frequency": "Once at planting"
+        },
+        {
+          "name": "Lime Sulfur (Organic Grade)",
+          "price": "₹180/litre",
+          "unit": "per litre",
+          "use_for": "Cedar Apple Rust, Raspberry Healthy - dormant spray, Apple diseases",
+          "dosage": "5.0 L/ha",
+          "frequency": "Dormant season / Every 10 days"
+        },
+        {
+          "name": "Seaweed Extract Liquid",
+          "price": "₹250/litre",
+          "unit": "per litre",
+          "use_for": "Plant growth promoter, Disease resistance booster, All crops",
+          "dosage": "3.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Fish Amino Acid (FAA)",
+          "price": "₹160/litre",
+          "unit": "per litre",
+          "use_for": "Crop nutrition, Growth promotion, Disease resistance",
+          "dosage": "2.0-3.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Humic Acid Granules 70%",
+          "price": "₹180/kg",
+          "unit": "per kg",
+          "use_for": "Soil conditioner, Root health, Disease suppression",
+          "dosage": "10 kg/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Bio Compost (Enriched)",
+          "price": "₹16/kg",
+          "unit": "per kg",
+          "use_for": "General soil health, Nutrient supply, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        }
+      ]
+    },
+    {
+      "name": "Gujarat Cold Storage Corp - Ahmedabad",
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "latitude": 23.02,
+      "longitude": 72.57,
+      "capacity": "8000 MT",
+      "storage_types": [
+        "Cotton",
+        "Groundnut",
+        "Vegetables",
+        "Fruits",
+        "Spices"
+      ],
+      "contact": "+91-79-23456789",
+      "products": [
+        {
+          "name": "Cotton / Oil Seed Storage (per month)",
+          "price": "₹230/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Vegetable Storage (per month)",
+          "price": "₹360/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Fruit Storage (per month)",
+          "price": "₹412/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Spice Storage (per month)",
+          "price": "₹310/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Pre-cooling Service",
+          "price": "₹60/MT",
+          "unit": "per MT"
+        },
+        {
+          "name": "Fumigation Service",
+          "price": "₹78/MT",
+          "unit": "per MT"
+        }
+      ],
+      "post_harvest_chemical_treatments": [
+        {
+          "name": "Chlorothalonil 75% WP",
+          "price": "₹295/kg",
+          "unit": "per kg",
+          "use_for": "Potato Early Blight, Tomato Early Blight, Septoria Leaf Spot",
+          "dosage": "2.0-2.5 kg/ha",
+          "frequency": "Every 7-14 days"
+        },
+        {
+          "name": "Hexaconazole 5% EC",
+          "price": "₹375/litre",
+          "unit": "per litre",
+          "use_for": "Powdery Mildew, Rust Diseases, Cherry Diseases",
+          "dosage": "1.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Copper Hydroxide 77% WP",
+          "price": "₹248/kg",
+          "unit": "per kg",
+          "use_for": "Apple Black Rot, Corn Cercospora, Peach Bacterial Spot, Grape Diseases",
+          "dosage": "2.5-3.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Copper Sulfate 98% TC",
+          "price": "₹185/kg",
+          "unit": "per kg",
+          "use_for": "Peach Bacterial Spot, Pepper Bacterial Spot, Tomato Bacterial Spot",
+          "dosage": "2.5 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Copper Oxychloride 50% WP",
+          "price": "₹245/kg",
+          "unit": "per kg",
+          "use_for": "Bacterial Diseases, Fungal Diseases, Grape Diseases",
+          "dosage": "3.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Spiromesifen 22.9% SC",
+          "price": "₹1250/litre",
+          "unit": "per litre",
+          "use_for": "Spider Mites on Tomato, Whitefly",
+          "dosage": "0.5 L/ha",
+          "frequency": "Every 10-14 days"
+        },
+        {
+          "name": "Lime Sulfur (Calcium Polysulfide)",
+          "price": "₹180/litre",
+          "unit": "per litre",
+          "use_for": "Cedar Apple Rust, Raspberry Diseases, Dormant Season Spray",
+          "dosage": "5.0 L/ha",
+          "frequency": "Every 10 days / Dormant once"
+        },
+        {
+          "name": "Streptomycin Sulfate 90% SP",
+          "price": "₹1100/kg",
+          "unit": "per kg",
+          "use_for": "Tomato Bacterial Spot, Pepper Bacterial Spot, Peach Bacterial Spot",
+          "dosage": "0.2-0.3 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Cymoxanil + Mancozeb 72% WP",
+          "price": "₹340/kg",
+          "unit": "per kg",
+          "use_for": "Tomato Late Blight, Potato Late Blight, Downy Mildew",
+          "dosage": "2.5 kg/ha",
+          "frequency": "Every 5-7 days"
+        }
+      ],
+      "post_harvest_organic_treatments": [
+        {
+          "name": "Panchagavya (Liquid)",
+          "price": "₹50/litre",
+          "unit": "per litre",
+          "use_for": "General crop health booster, Disease resistance, Preventive for all crops",
+          "dosage": "30 ml/litre of water",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Jeevamrutha (Liquid)",
+          "price": "₹10/litre",
+          "unit": "per litre",
+          "use_for": "Soil health, Microbial enrichment, Disease suppression in all crops",
+          "dosage": "200 L/ha",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Vermicompost",
+          "price": "₹15/kg",
+          "unit": "per kg",
+          "use_for": "Soil health, General crop nutrition, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Compost Tea (Brewed)",
+          "price": "₹5/litre",
+          "unit": "per litre",
+          "use_for": "Corn Healthy, Potato Healthy, Strawberry Healthy - preventive spray",
+          "dosage": "100 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Horticultural Oil (Mineral Oil 97%)",
+          "price": "₹380/litre",
+          "unit": "per litre",
+          "use_for": "Cherry Healthy, Peach Healthy, Raspberry - dormant season spray",
+          "dosage": "8.0-10.0 L/ha",
+          "frequency": "Dormant season once"
+        },
+        {
+          "name": "Rhizobium Culture 1x10^8 CFU/g",
+          "price": "₹68/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation for legumes (Soybean healthy), Gram, Tur",
+          "dosage": "200g/ha (seed treatment)",
+          "frequency": "Once (seed treatment)"
+        },
+        {
+          "name": "VAM (Mycorrhiza) Granules",
+          "price": "₹97/kg",
+          "unit": "per kg",
+          "use_for": "Root development, Nutrient uptake, All fruit & vegetable crops",
+          "dosage": "5 kg/ha",
+          "frequency": "Once at planting"
+        },
+        {
+          "name": "Lime Sulfur (Organic Grade)",
+          "price": "₹180/litre",
+          "unit": "per litre",
+          "use_for": "Cedar Apple Rust, Raspberry Healthy - dormant spray, Apple diseases",
+          "dosage": "5.0 L/ha",
+          "frequency": "Dormant season / Every 10 days"
+        },
+        {
+          "name": "Seaweed Extract Liquid",
+          "price": "₹250/litre",
+          "unit": "per litre",
+          "use_for": "Plant growth promoter, Disease resistance booster, All crops",
+          "dosage": "3.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Fish Amino Acid (FAA)",
+          "price": "₹160/litre",
+          "unit": "per litre",
+          "use_for": "Crop nutrition, Growth promotion, Disease resistance",
+          "dosage": "2.0-3.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Humic Acid Granules 70%",
+          "price": "₹180/kg",
+          "unit": "per kg",
+          "use_for": "Soil conditioner, Root health, Disease suppression",
+          "dosage": "10 kg/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Bio Compost (Enriched)",
+          "price": "₹16/kg",
+          "unit": "per kg",
+          "use_for": "General soil health, Nutrient supply, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        }
+      ]
+    },
+    {
+      "name": "Kolkata Port Cold Chain Hub",
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "latitude": 22.57,
+      "longitude": 88.36,
+      "capacity": "9000 MT",
+      "storage_types": [
+        "Seafood",
+        "Vegetables",
+        "Fruits",
+        "Rice",
+        "Jute"
+      ],
+      "contact": "+91-33-23456789",
+      "products": [
+        {
+          "name": "Seafood Storage (per month)",
+          "price": "₹610/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Vegetable Storage (per month)",
+          "price": "₹365/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Fruit Storage (per month)",
+          "price": "₹415/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Rice Storage (per month)",
+          "price": "₹235/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Blast Freezing",
+          "price": "₹155/MT",
+          "unit": "per MT"
+        },
+        {
+          "name": "Reefer Transport (per km)",
+          "price": "₹24/km",
+          "unit": "per km"
+        }
+      ],
+      "post_harvest_chemical_treatments": [
+        {
+          "name": "Chlorothalonil 75% WP",
+          "price": "₹295/kg",
+          "unit": "per kg",
+          "use_for": "Potato Early Blight, Tomato Early Blight, Septoria Leaf Spot",
+          "dosage": "2.0-2.5 kg/ha",
+          "frequency": "Every 7-14 days"
+        },
+        {
+          "name": "Hexaconazole 5% EC",
+          "price": "₹375/litre",
+          "unit": "per litre",
+          "use_for": "Powdery Mildew, Rust Diseases, Cherry Diseases",
+          "dosage": "1.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Copper Hydroxide 77% WP",
+          "price": "₹248/kg",
+          "unit": "per kg",
+          "use_for": "Apple Black Rot, Corn Cercospora, Peach Bacterial Spot, Grape Diseases",
+          "dosage": "2.5-3.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Copper Sulfate 98% TC",
+          "price": "₹185/kg",
+          "unit": "per kg",
+          "use_for": "Peach Bacterial Spot, Pepper Bacterial Spot, Tomato Bacterial Spot",
+          "dosage": "2.5 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Copper Oxychloride 50% WP",
+          "price": "₹245/kg",
+          "unit": "per kg",
+          "use_for": "Bacterial Diseases, Fungal Diseases, Grape Diseases",
+          "dosage": "3.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Spiromesifen 22.9% SC",
+          "price": "₹1250/litre",
+          "unit": "per litre",
+          "use_for": "Spider Mites on Tomato, Whitefly",
+          "dosage": "0.5 L/ha",
+          "frequency": "Every 10-14 days"
+        },
+        {
+          "name": "Lime Sulfur (Calcium Polysulfide)",
+          "price": "₹180/litre",
+          "unit": "per litre",
+          "use_for": "Cedar Apple Rust, Raspberry Diseases, Dormant Season Spray",
+          "dosage": "5.0 L/ha",
+          "frequency": "Every 10 days / Dormant once"
+        },
+        {
+          "name": "Streptomycin Sulfate 90% SP",
+          "price": "₹1100/kg",
+          "unit": "per kg",
+          "use_for": "Tomato Bacterial Spot, Pepper Bacterial Spot, Peach Bacterial Spot",
+          "dosage": "0.2-0.3 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Cymoxanil + Mancozeb 72% WP",
+          "price": "₹340/kg",
+          "unit": "per kg",
+          "use_for": "Tomato Late Blight, Potato Late Blight, Downy Mildew",
+          "dosage": "2.5 kg/ha",
+          "frequency": "Every 5-7 days"
+        }
+      ],
+      "post_harvest_organic_treatments": [
+        {
+          "name": "Panchagavya (Liquid)",
+          "price": "₹50/litre",
+          "unit": "per litre",
+          "use_for": "General crop health booster, Disease resistance, Preventive for all crops",
+          "dosage": "30 ml/litre of water",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Jeevamrutha (Liquid)",
+          "price": "₹10/litre",
+          "unit": "per litre",
+          "use_for": "Soil health, Microbial enrichment, Disease suppression in all crops",
+          "dosage": "200 L/ha",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Vermicompost",
+          "price": "₹15/kg",
+          "unit": "per kg",
+          "use_for": "Soil health, General crop nutrition, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Compost Tea (Brewed)",
+          "price": "₹5/litre",
+          "unit": "per litre",
+          "use_for": "Corn Healthy, Potato Healthy, Strawberry Healthy - preventive spray",
+          "dosage": "100 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Horticultural Oil (Mineral Oil 97%)",
+          "price": "₹380/litre",
+          "unit": "per litre",
+          "use_for": "Cherry Healthy, Peach Healthy, Raspberry - dormant season spray",
+          "dosage": "8.0-10.0 L/ha",
+          "frequency": "Dormant season once"
+        },
+        {
+          "name": "Rhizobium Culture 1x10^8 CFU/g",
+          "price": "₹68/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation for legumes (Soybean healthy), Gram, Tur",
+          "dosage": "200g/ha (seed treatment)",
+          "frequency": "Once (seed treatment)"
+        },
+        {
+          "name": "VAM (Mycorrhiza) Granules",
+          "price": "₹97/kg",
+          "unit": "per kg",
+          "use_for": "Root development, Nutrient uptake, All fruit & vegetable crops",
+          "dosage": "5 kg/ha",
+          "frequency": "Once at planting"
+        },
+        {
+          "name": "Lime Sulfur (Organic Grade)",
+          "price": "₹180/litre",
+          "unit": "per litre",
+          "use_for": "Cedar Apple Rust, Raspberry Healthy - dormant spray, Apple diseases",
+          "dosage": "5.0 L/ha",
+          "frequency": "Dormant season / Every 10 days"
+        },
+        {
+          "name": "Seaweed Extract Liquid",
+          "price": "₹250/litre",
+          "unit": "per litre",
+          "use_for": "Plant growth promoter, Disease resistance booster, All crops",
+          "dosage": "3.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Fish Amino Acid (FAA)",
+          "price": "₹160/litre",
+          "unit": "per litre",
+          "use_for": "Crop nutrition, Growth promotion, Disease resistance",
+          "dosage": "2.0-3.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Humic Acid Granules 70%",
+          "price": "₹180/kg",
+          "unit": "per kg",
+          "use_for": "Soil conditioner, Root health, Disease suppression",
+          "dosage": "10 kg/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Bio Compost (Enriched)",
+          "price": "₹16/kg",
+          "unit": "per kg",
+          "use_for": "General soil health, Nutrient supply, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        }
+      ]
+    },
+    {
+      "name": "Kochi Seafood Cold Chain Hub",
+      "city": "Kochi",
+      "state": "Kerala",
+      "latitude": 9.93,
+      "longitude": 76.265,
+      "capacity": "7500 MT",
+      "storage_types": [
+        "Seafood",
+        "Coconut Products",
+        "Spices",
+        "Fruits"
+      ],
+      "contact": "+91-484-2345678",
+      "products": [
+        {
+          "name": "Seafood Storage (per month)",
+          "price": "₹640/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Coconut Oil / Products Storage (per month)",
+          "price": "₹370/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Spice Storage (per month)",
+          "price": "₹320/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Fruit Storage (per month)",
+          "price": "₹420/MT",
+          "unit": "per MT/month"
+        },
+        {
+          "name": "Blast Freezing",
+          "price": "₹148/MT",
+          "unit": "per MT"
+        },
+        {
+          "name": "Export Packing Service",
+          "price": "₹118/MT",
+          "unit": "per MT"
+        },
+        {
+          "name": "Reefer Transport (per km)",
+          "price": "₹29/km",
+          "unit": "per km"
+        }
+      ],
+      "post_harvest_chemical_treatments": [
+        {
+          "name": "Chlorothalonil 75% WP",
+          "price": "₹295/kg",
+          "unit": "per kg",
+          "use_for": "Potato Early Blight, Tomato Early Blight, Septoria Leaf Spot",
+          "dosage": "2.0-2.5 kg/ha",
+          "frequency": "Every 7-14 days"
+        },
+        {
+          "name": "Hexaconazole 5% EC",
+          "price": "₹375/litre",
+          "unit": "per litre",
+          "use_for": "Powdery Mildew, Rust Diseases, Cherry Diseases",
+          "dosage": "1.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Copper Hydroxide 77% WP",
+          "price": "₹248/kg",
+          "unit": "per kg",
+          "use_for": "Apple Black Rot, Corn Cercospora, Peach Bacterial Spot, Grape Diseases",
+          "dosage": "2.5-3.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Copper Sulfate 98% TC",
+          "price": "₹185/kg",
+          "unit": "per kg",
+          "use_for": "Peach Bacterial Spot, Pepper Bacterial Spot, Tomato Bacterial Spot",
+          "dosage": "2.5 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Copper Oxychloride 50% WP",
+          "price": "₹245/kg",
+          "unit": "per kg",
+          "use_for": "Bacterial Diseases, Fungal Diseases, Grape Diseases",
+          "dosage": "3.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Spiromesifen 22.9% SC",
+          "price": "₹1250/litre",
+          "unit": "per litre",
+          "use_for": "Spider Mites on Tomato, Whitefly",
+          "dosage": "0.5 L/ha",
+          "frequency": "Every 10-14 days"
+        },
+        {
+          "name": "Lime Sulfur (Calcium Polysulfide)",
+          "price": "₹180/litre",
+          "unit": "per litre",
+          "use_for": "Cedar Apple Rust, Raspberry Diseases, Dormant Season Spray",
+          "dosage": "5.0 L/ha",
+          "frequency": "Every 10 days / Dormant once"
+        },
+        {
+          "name": "Streptomycin Sulfate 90% SP",
+          "price": "₹1100/kg",
+          "unit": "per kg",
+          "use_for": "Tomato Bacterial Spot, Pepper Bacterial Spot, Peach Bacterial Spot",
+          "dosage": "0.2-0.3 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Cymoxanil + Mancozeb 72% WP",
+          "price": "₹340/kg",
+          "unit": "per kg",
+          "use_for": "Tomato Late Blight, Potato Late Blight, Downy Mildew",
+          "dosage": "2.5 kg/ha",
+          "frequency": "Every 5-7 days"
+        }
+      ],
+      "post_harvest_organic_treatments": [
+        {
+          "name": "Panchagavya (Liquid)",
+          "price": "₹50/litre",
+          "unit": "per litre",
+          "use_for": "General crop health booster, Disease resistance, Preventive for all crops",
+          "dosage": "30 ml/litre of water",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Jeevamrutha (Liquid)",
+          "price": "₹10/litre",
+          "unit": "per litre",
+          "use_for": "Soil health, Microbial enrichment, Disease suppression in all crops",
+          "dosage": "200 L/ha",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Vermicompost",
+          "price": "₹15/kg",
+          "unit": "per kg",
+          "use_for": "Soil health, General crop nutrition, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Compost Tea (Brewed)",
+          "price": "₹5/litre",
+          "unit": "per litre",
+          "use_for": "Corn Healthy, Potato Healthy, Strawberry Healthy - preventive spray",
+          "dosage": "100 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Horticultural Oil (Mineral Oil 97%)",
+          "price": "₹380/litre",
+          "unit": "per litre",
+          "use_for": "Cherry Healthy, Peach Healthy, Raspberry - dormant season spray",
+          "dosage": "8.0-10.0 L/ha",
+          "frequency": "Dormant season once"
+        },
+        {
+          "name": "Rhizobium Culture 1x10^8 CFU/g",
+          "price": "₹68/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation for legumes (Soybean healthy), Gram, Tur",
+          "dosage": "200g/ha (seed treatment)",
+          "frequency": "Once (seed treatment)"
+        },
+        {
+          "name": "VAM (Mycorrhiza) Granules",
+          "price": "₹97/kg",
+          "unit": "per kg",
+          "use_for": "Root development, Nutrient uptake, All fruit & vegetable crops",
+          "dosage": "5 kg/ha",
+          "frequency": "Once at planting"
+        },
+        {
+          "name": "Lime Sulfur (Organic Grade)",
+          "price": "₹180/litre",
+          "unit": "per litre",
+          "use_for": "Cedar Apple Rust, Raspberry Healthy - dormant spray, Apple diseases",
+          "dosage": "5.0 L/ha",
+          "frequency": "Dormant season / Every 10 days"
+        },
+        {
+          "name": "Seaweed Extract Liquid",
+          "price": "₹250/litre",
+          "unit": "per litre",
+          "use_for": "Plant growth promoter, Disease resistance booster, All crops",
+          "dosage": "3.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Fish Amino Acid (FAA)",
+          "price": "₹160/litre",
+          "unit": "per litre",
+          "use_for": "Crop nutrition, Growth promotion, Disease resistance",
+          "dosage": "2.0-3.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Humic Acid Granules 70%",
+          "price": "₹180/kg",
+          "unit": "per kg",
+          "use_for": "Soil conditioner, Root health, Disease suppression",
+          "dosage": "10 kg/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Bio Compost (Enriched)",
+          "price": "₹16/kg",
+          "unit": "per kg",
+          "use_for": "General soil health, Nutrient supply, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5348 @@
+{
+  "shops": [
+    {
+      "name": "Green Grow Organic Store",
+      "city": "Mysuru",
+      "state": "Karnataka",
+      "latitude": 12.29,
+      "longitude": 76.63,
+      "type": "organic",
+      "services": [
+        "Organic Fertilizers",
+        "Bio Pesticides"
+      ],
+      "products": [
+        {
+          "name": "Neem Cake",
+          "price": "₹25/kg",
+          "unit": "per kg",
+          "use_for": "Soil pest control, Nematodes, General soil health",
+          "dosage": "200-250 kg/ha",
+          "frequency": "Once per season (soil application)"
+        },
+        {
+          "name": "Neem Oil (Cold Pressed)",
+          "price": "₹220/litre",
+          "unit": "per litre",
+          "use_for": "Apple Scab, Cherry Healthy (preventive), Spider Mites, Strawberry, Tomato diseases",
+          "dosage": "3.0-5.0 L/ha",
+          "frequency": "Every 7-14 days"
+        },
+        {
+          "name": "Neem Seed Kernel Extract (NSKE 5%)",
+          "price": "₹145/litre",
+          "unit": "per litre",
+          "use_for": "Whitefly (TYLCV prevention), Aphids, Spider Mites",
+          "dosage": "5.0 L/ha",
+          "frequency": "Every 7 days"
+        },
+        {
+          "name": "Sulfur 80% WG (Wettable Sulfur)",
+          "price": "₹60/kg",
+          "unit": "per kg",
+          "use_for": "Apple Scab, Corn Common Rust, Squash Powdery Mildew, Cherry Powdery Mildew",
+          "dosage": "4.0-5.0 kg/ha",
+          "frequency": "Every 7 days"
+        },
+        {
+          "name": "Sulfur Dust 90%",
+          "price": "₹45/kg",
+          "unit": "per kg",
+          "use_for": "Corn Common Rust, Powdery Mildew (dust application)",
+          "dosage": "5.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Copper Octanoate (Organic Copper)",
+          "price": "₹580/litre",
+          "unit": "per litre",
+          "use_for": "Pepper Bacterial Spot, Strawberry Leaf Scorch, Tomato Bacterial Spot",
+          "dosage": "2.0-2.5 L/ha",
+          "frequency": "Every 5-10 days"
+        },
+        {
+          "name": "Potassium Bicarbonate 85%",
+          "price": "₹340/kg",
+          "unit": "per kg",
+          "use_for": "Cherry Powdery Mildew, Squash Powdery Mildew, Grape Leaf Blight, Tomato Late Blight (organic)",
+          "dosage": "3.0-5.0 kg/ha",
+          "frequency": "Every 7 days"
+        },
+        {
+          "name": "Trichoderma Viride (1x10^8 CFU/g)",
+          "price": "₹110/kg",
+          "unit": "per kg",
+          "use_for": "Grape Esca, Potato Early Blight, Soil-borne Fungal diseases, Tomato Early Blight",
+          "dosage": "2.0-2.5 kg/ha",
+          "frequency": "Every 7-10 days / soil application"
+        },
+        {
+          "name": "Trichoderma Harzianum (1x10^8 CFU/g)",
+          "price": "₹118/kg",
+          "unit": "per kg",
+          "use_for": "Grape Esca wound protection, Tomato Early Blight, Root rot diseases",
+          "dosage": "2.0 kg/ha",
+          "frequency": "After pruning / soil drench"
+        },
+        {
+          "name": "Bacillus subtilis (1x10^9 CFU/g)",
+          "price": "₹195/kg",
+          "unit": "per kg",
+          "use_for": "Corn Northern Leaf Blight, Potato Early Blight, Peach Bacterial Spot, Blueberry",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        }
+      ]
+    },
+    {
+      "name": "Sahaja Samrudha Organic Hub",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "type": "organic",
+      "services": [
+        "Organic Seeds",
+        "Organic Fertilizers",
+        "Bio Pesticides",
+        "Soil Testing"
+      ],
+      "products": [
+        {
+          "name": "Neem Cake",
+          "price": "₹25/kg",
+          "unit": "per kg",
+          "use_for": "Soil pest control, Nematodes, General soil health",
+          "dosage": "200-250 kg/ha",
+          "frequency": "Once per season (soil application)"
+        },
+        {
+          "name": "Neem Oil (Cold Pressed)",
+          "price": "₹220/litre",
+          "unit": "per litre",
+          "use_for": "Apple Scab, Cherry Healthy (preventive), Spider Mites, Strawberry, Tomato diseases",
+          "dosage": "3.0-5.0 L/ha",
+          "frequency": "Every 7-14 days"
+        },
+        {
+          "name": "Neem Seed Kernel Extract (NSKE 5%)",
+          "price": "₹145/litre",
+          "unit": "per litre",
+          "use_for": "Whitefly (TYLCV prevention), Aphids, Spider Mites",
+          "dosage": "5.0 L/ha",
+          "frequency": "Every 7 days"
+        },
+        {
+          "name": "Sulfur Dust 90%",
+          "price": "₹45/kg",
+          "unit": "per kg",
+          "use_for": "Corn Common Rust, Powdery Mildew (dust application)",
+          "dosage": "5.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Copper Octanoate (Organic Copper)",
+          "price": "₹580/litre",
+          "unit": "per litre",
+          "use_for": "Pepper Bacterial Spot, Strawberry Leaf Scorch, Tomato Bacterial Spot",
+          "dosage": "2.0-2.5 L/ha",
+          "frequency": "Every 5-10 days"
+        },
+        {
+          "name": "Trichoderma Viride (1x10^8 CFU/g)",
+          "price": "₹110/kg",
+          "unit": "per kg",
+          "use_for": "Grape Esca, Potato Early Blight, Soil-borne Fungal diseases, Tomato Early Blight",
+          "dosage": "2.0-2.5 kg/ha",
+          "frequency": "Every 7-10 days / soil application"
+        },
+        {
+          "name": "Bacillus subtilis (1x10^9 CFU/g)",
+          "price": "₹195/kg",
+          "unit": "per kg",
+          "use_for": "Corn Northern Leaf Blight, Potato Early Blight, Peach Bacterial Spot, Blueberry",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Bacillus amyloliquefaciens (1x10^9 CFU/g)",
+          "price": "₹210/kg",
+          "unit": "per kg",
+          "use_for": "Pepper Bell Healthy (preventive), Strawberry Leaf Scorch, Tomato Septoria Leaf Spot",
+          "dosage": "1.0-2.0 kg/ha",
+          "frequency": "Every 10 days"
+        },
+        {
+          "name": "Pseudomonas Fluorescens (1x10^8 CFU/g)",
+          "price": "₹88/kg",
+          "unit": "per kg",
+          "use_for": "Soil-borne diseases, Root protection, Tomato diseases (biocontrol)",
+          "dosage": "2.5 kg/ha",
+          "frequency": "Every 10 days"
+        },
+        {
+          "name": "Beauveria Bassiana 1.15% WP",
+          "price": "₹130/kg",
+          "unit": "per kg",
+          "use_for": "Whitefly (TYLCV prevention), Spider Mites, Aphids, Thrips",
+          "dosage": "2.0-2.5 kg/ha",
+          "frequency": "Every 7 days"
+        },
+        {
+          "name": "Panchagavya (Liquid)",
+          "price": "₹50/litre",
+          "unit": "per litre",
+          "use_for": "General crop health booster, Disease resistance, Preventive for all crops",
+          "dosage": "30 ml/litre of water",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Jeevamrutha (Liquid)",
+          "price": "₹10/litre",
+          "unit": "per litre",
+          "use_for": "Soil health, Microbial enrichment, Disease suppression in all crops",
+          "dosage": "200 L/ha",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Vermicompost",
+          "price": "₹15/kg",
+          "unit": "per kg",
+          "use_for": "Soil health, General crop nutrition, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Insecticidal Soap (Potassium Salt)",
+          "price": "₹290/litre",
+          "unit": "per litre",
+          "use_for": "Spider Mites, Aphids, Whitefly, Soft-bodied insects",
+          "dosage": "5.0 L/ha",
+          "frequency": "Every 5-7 days"
+        },
+        {
+          "name": "Rhizobium Culture 1x10^8 CFU/g",
+          "price": "₹68/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation for legumes (Soybean healthy), Gram, Tur",
+          "dosage": "200g/ha (seed treatment)",
+          "frequency": "Once (seed treatment)"
+        },
+        {
+          "name": "VAM (Mycorrhiza) Granules",
+          "price": "₹97/kg",
+          "unit": "per kg",
+          "use_for": "Root development, Nutrient uptake, All fruit & vegetable crops",
+          "dosage": "5 kg/ha",
+          "frequency": "Once at planting"
+        },
+        {
+          "name": "Lime Sulfur (Organic Grade)",
+          "price": "₹180/litre",
+          "unit": "per litre",
+          "use_for": "Cedar Apple Rust, Raspberry Healthy - dormant spray, Apple diseases",
+          "dosage": "5.0 L/ha",
+          "frequency": "Dormant season / Every 10 days"
+        },
+        {
+          "name": "Seaweed Extract Liquid",
+          "price": "₹250/litre",
+          "unit": "per litre",
+          "use_for": "Plant growth promoter, Disease resistance booster, All crops",
+          "dosage": "3.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Fish Amino Acid (FAA)",
+          "price": "₹160/litre",
+          "unit": "per litre",
+          "use_for": "Crop nutrition, Growth promotion, Disease resistance",
+          "dosage": "2.0-3.0 L/ha",
+          "frequency": "Every 14 days"
+        }
+      ]
+    },
+    {
+      "name": "Prakruthi Organics",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "latitude": 12.9352,
+      "longitude": 77.6245,
+      "type": "organic",
+      "services": [
+        "Organic Fertilizers",
+        "Bio Pesticides",
+        "Organic Seeds"
+      ],
+      "products": [
+        {
+          "name": "Neem Oil (Cold Pressed)",
+          "price": "₹220/litre",
+          "unit": "per litre",
+          "use_for": "Apple Scab, Cherry Healthy (preventive), Spider Mites, Strawberry, Tomato diseases",
+          "dosage": "3.0-5.0 L/ha",
+          "frequency": "Every 7-14 days"
+        },
+        {
+          "name": "Neem Seed Kernel Extract (NSKE 5%)",
+          "price": "₹145/litre",
+          "unit": "per litre",
+          "use_for": "Whitefly (TYLCV prevention), Aphids, Spider Mites",
+          "dosage": "5.0 L/ha",
+          "frequency": "Every 7 days"
+        },
+        {
+          "name": "Copper Octanoate (Organic Copper)",
+          "price": "₹580/litre",
+          "unit": "per litre",
+          "use_for": "Pepper Bacterial Spot, Strawberry Leaf Scorch, Tomato Bacterial Spot",
+          "dosage": "2.0-2.5 L/ha",
+          "frequency": "Every 5-10 days"
+        },
+        {
+          "name": "Potassium Bicarbonate 85%",
+          "price": "₹340/kg",
+          "unit": "per kg",
+          "use_for": "Cherry Powdery Mildew, Squash Powdery Mildew, Grape Leaf Blight, Tomato Late Blight (organic)",
+          "dosage": "3.0-5.0 kg/ha",
+          "frequency": "Every 7 days"
+        },
+        {
+          "name": "Trichoderma Viride (1x10^8 CFU/g)",
+          "price": "₹110/kg",
+          "unit": "per kg",
+          "use_for": "Grape Esca, Potato Early Blight, Soil-borne Fungal diseases, Tomato Early Blight",
+          "dosage": "2.0-2.5 kg/ha",
+          "frequency": "Every 7-10 days / soil application"
+        },
+        {
+          "name": "Trichoderma Harzianum (1x10^8 CFU/g)",
+          "price": "₹118/kg",
+          "unit": "per kg",
+          "use_for": "Grape Esca wound protection, Tomato Early Blight, Root rot diseases",
+          "dosage": "2.0 kg/ha",
+          "frequency": "After pruning / soil drench"
+        },
+        {
+          "name": "Metarhizium anisopliae 1.5% WP",
+          "price": "₹140/kg",
+          "unit": "per kg",
+          "use_for": "Soil insects, Whitefly, Root pests",
+          "dosage": "2.5 kg/ha",
+          "frequency": "Every 10-14 days"
+        },
+        {
+          "name": "Predatory Mites (Phytoseiulus persimilis)",
+          "price": "₹850/pack (50ml)",
+          "unit": "per pack",
+          "use_for": "Tomato Spider Mites - Two Spotted Spider Mite biological control",
+          "dosage": "50-100 mites/m²",
+          "frequency": "Release once, repeat if needed"
+        },
+        {
+          "name": "Kaolin Clay 95%",
+          "price": "₹120/kg",
+          "unit": "per kg",
+          "use_for": "Citrus Greening (psyllid repellent), Insect pest deterrent",
+          "dosage": "5.0 kg/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Vermicompost",
+          "price": "₹15/kg",
+          "unit": "per kg",
+          "use_for": "Soil health, General crop nutrition, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Compost Tea (Brewed)",
+          "price": "₹5/litre",
+          "unit": "per litre",
+          "use_for": "Corn Healthy, Potato Healthy, Strawberry Healthy - preventive spray",
+          "dosage": "100 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Horticultural Oil (Mineral Oil 97%)",
+          "price": "₹380/litre",
+          "unit": "per litre",
+          "use_for": "Cherry Healthy, Peach Healthy, Raspberry - dormant season spray",
+          "dosage": "8.0-10.0 L/ha",
+          "frequency": "Dormant season once"
+        },
+        {
+          "name": "Phosphobacteria (PSB) 1x10^8 CFU/g",
+          "price": "₹72/kg",
+          "unit": "per kg",
+          "use_for": "Phosphorus solubilization, Soil health, All crops",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Soil application once"
+        },
+        {
+          "name": "Azospirillum 1x10^8 CFU/g",
+          "price": "₹72/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation, Soil health, Blueberry, Soybean, All crops",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Soil application once"
+        },
+        {
+          "name": "Rhizobium Culture 1x10^8 CFU/g",
+          "price": "₹68/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation for legumes (Soybean healthy), Gram, Tur",
+          "dosage": "200g/ha (seed treatment)",
+          "frequency": "Once (seed treatment)"
+        },
+        {
+          "name": "VAM (Mycorrhiza) Granules",
+          "price": "₹97/kg",
+          "unit": "per kg",
+          "use_for": "Root development, Nutrient uptake, All fruit & vegetable crops",
+          "dosage": "5 kg/ha",
+          "frequency": "Once at planting"
+        },
+        {
+          "name": "Humic Acid Granules 70%",
+          "price": "₹180/kg",
+          "unit": "per kg",
+          "use_for": "Soil conditioner, Root health, Disease suppression",
+          "dosage": "10 kg/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Bio Compost (Enriched)",
+          "price": "₹16/kg",
+          "unit": "per kg",
+          "use_for": "General soil health, Nutrient supply, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        }
+      ]
+    },
+    {
+      "name": "Dharitri Organic Farm Store",
+      "city": "Hubballi",
+      "state": "Karnataka",
+      "latitude": 15.3647,
+      "longitude": 75.124,
+      "type": "organic",
+      "services": [
+        "Organic Fertilizers",
+        "Bio Pesticides",
+        "Organic Seeds"
+      ],
+      "products": [
+        {
+          "name": "Neem Cake",
+          "price": "₹25/kg",
+          "unit": "per kg",
+          "use_for": "Soil pest control, Nematodes, General soil health",
+          "dosage": "200-250 kg/ha",
+          "frequency": "Once per season (soil application)"
+        },
+        {
+          "name": "Neem Oil (Cold Pressed)",
+          "price": "₹220/litre",
+          "unit": "per litre",
+          "use_for": "Apple Scab, Cherry Healthy (preventive), Spider Mites, Strawberry, Tomato diseases",
+          "dosage": "3.0-5.0 L/ha",
+          "frequency": "Every 7-14 days"
+        },
+        {
+          "name": "Sulfur 80% WG (Wettable Sulfur)",
+          "price": "₹60/kg",
+          "unit": "per kg",
+          "use_for": "Apple Scab, Corn Common Rust, Squash Powdery Mildew, Cherry Powdery Mildew",
+          "dosage": "4.0-5.0 kg/ha",
+          "frequency": "Every 7 days"
+        },
+        {
+          "name": "Sulfur Dust 90%",
+          "price": "₹45/kg",
+          "unit": "per kg",
+          "use_for": "Corn Common Rust, Powdery Mildew (dust application)",
+          "dosage": "5.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Copper Octanoate (Organic Copper)",
+          "price": "₹580/litre",
+          "unit": "per litre",
+          "use_for": "Pepper Bacterial Spot, Strawberry Leaf Scorch, Tomato Bacterial Spot",
+          "dosage": "2.0-2.5 L/ha",
+          "frequency": "Every 5-10 days"
+        },
+        {
+          "name": "Trichoderma Viride (1x10^8 CFU/g)",
+          "price": "₹110/kg",
+          "unit": "per kg",
+          "use_for": "Grape Esca, Potato Early Blight, Soil-borne Fungal diseases, Tomato Early Blight",
+          "dosage": "2.0-2.5 kg/ha",
+          "frequency": "Every 7-10 days / soil application"
+        },
+        {
+          "name": "Bacillus subtilis (1x10^9 CFU/g)",
+          "price": "₹195/kg",
+          "unit": "per kg",
+          "use_for": "Corn Northern Leaf Blight, Potato Early Blight, Peach Bacterial Spot, Blueberry",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Bacillus amyloliquefaciens (1x10^9 CFU/g)",
+          "price": "₹210/kg",
+          "unit": "per kg",
+          "use_for": "Pepper Bell Healthy (preventive), Strawberry Leaf Scorch, Tomato Septoria Leaf Spot",
+          "dosage": "1.0-2.0 kg/ha",
+          "frequency": "Every 10 days"
+        },
+        {
+          "name": "Panchagavya (Liquid)",
+          "price": "₹50/litre",
+          "unit": "per litre",
+          "use_for": "General crop health booster, Disease resistance, Preventive for all crops",
+          "dosage": "30 ml/litre of water",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Jeevamrutha (Liquid)",
+          "price": "₹10/litre",
+          "unit": "per litre",
+          "use_for": "Soil health, Microbial enrichment, Disease suppression in all crops",
+          "dosage": "200 L/ha",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Vermicompost",
+          "price": "₹15/kg",
+          "unit": "per kg",
+          "use_for": "Soil health, General crop nutrition, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Phosphobacteria (PSB) 1x10^8 CFU/g",
+          "price": "₹72/kg",
+          "unit": "per kg",
+          "use_for": "Phosphorus solubilization, Soil health, All crops",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Soil application once"
+        },
+        {
+          "name": "Azospirillum 1x10^8 CFU/g",
+          "price": "₹72/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation, Soil health, Blueberry, Soybean, All crops",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Soil application once"
+        },
+        {
+          "name": "Rhizobium Culture 1x10^8 CFU/g",
+          "price": "₹68/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation for legumes (Soybean healthy), Gram, Tur",
+          "dosage": "200g/ha (seed treatment)",
+          "frequency": "Once (seed treatment)"
+        },
+        {
+          "name": "Lime Sulfur (Organic Grade)",
+          "price": "₹180/litre",
+          "unit": "per litre",
+          "use_for": "Cedar Apple Rust, Raspberry Healthy - dormant spray, Apple diseases",
+          "dosage": "5.0 L/ha",
+          "frequency": "Dormant season / Every 10 days"
+        },
+        {
+          "name": "Seaweed Extract Liquid",
+          "price": "₹250/litre",
+          "unit": "per litre",
+          "use_for": "Plant growth promoter, Disease resistance booster, All crops",
+          "dosage": "3.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Fish Amino Acid (FAA)",
+          "price": "₹160/litre",
+          "unit": "per litre",
+          "use_for": "Crop nutrition, Growth promotion, Disease resistance",
+          "dosage": "2.0-3.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Humic Acid Granules 70%",
+          "price": "₹180/kg",
+          "unit": "per kg",
+          "use_for": "Soil conditioner, Root health, Disease suppression",
+          "dosage": "10 kg/ha",
+          "frequency": "Once per season"
+        }
+      ]
+    },
+    {
+      "name": "Sujala Organic Agri Store",
+      "city": "Belagavi",
+      "state": "Karnataka",
+      "latitude": 15.8497,
+      "longitude": 74.4977,
+      "type": "organic",
+      "services": [
+        "Organic Fertilizers",
+        "Soil Testing",
+        "Bio Pesticides"
+      ],
+      "products": [
+        {
+          "name": "Neem Cake",
+          "price": "₹25/kg",
+          "unit": "per kg",
+          "use_for": "Soil pest control, Nematodes, General soil health",
+          "dosage": "200-250 kg/ha",
+          "frequency": "Once per season (soil application)"
+        },
+        {
+          "name": "Neem Oil (Cold Pressed)",
+          "price": "₹220/litre",
+          "unit": "per litre",
+          "use_for": "Apple Scab, Cherry Healthy (preventive), Spider Mites, Strawberry, Tomato diseases",
+          "dosage": "3.0-5.0 L/ha",
+          "frequency": "Every 7-14 days"
+        },
+        {
+          "name": "Neem Seed Kernel Extract (NSKE 5%)",
+          "price": "₹145/litre",
+          "unit": "per litre",
+          "use_for": "Whitefly (TYLCV prevention), Aphids, Spider Mites",
+          "dosage": "5.0 L/ha",
+          "frequency": "Every 7 days"
+        },
+        {
+          "name": "Sulfur 80% WG (Wettable Sulfur)",
+          "price": "₹60/kg",
+          "unit": "per kg",
+          "use_for": "Apple Scab, Corn Common Rust, Squash Powdery Mildew, Cherry Powdery Mildew",
+          "dosage": "4.0-5.0 kg/ha",
+          "frequency": "Every 7 days"
+        },
+        {
+          "name": "Sulfur Dust 90%",
+          "price": "₹45/kg",
+          "unit": "per kg",
+          "use_for": "Corn Common Rust, Powdery Mildew (dust application)",
+          "dosage": "5.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Potassium Bicarbonate 85%",
+          "price": "₹340/kg",
+          "unit": "per kg",
+          "use_for": "Cherry Powdery Mildew, Squash Powdery Mildew, Grape Leaf Blight, Tomato Late Blight (organic)",
+          "dosage": "3.0-5.0 kg/ha",
+          "frequency": "Every 7 days"
+        },
+        {
+          "name": "Trichoderma Viride (1x10^8 CFU/g)",
+          "price": "₹110/kg",
+          "unit": "per kg",
+          "use_for": "Grape Esca, Potato Early Blight, Soil-borne Fungal diseases, Tomato Early Blight",
+          "dosage": "2.0-2.5 kg/ha",
+          "frequency": "Every 7-10 days / soil application"
+        },
+        {
+          "name": "Bacillus subtilis (1x10^9 CFU/g)",
+          "price": "₹195/kg",
+          "unit": "per kg",
+          "use_for": "Corn Northern Leaf Blight, Potato Early Blight, Peach Bacterial Spot, Blueberry",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Bacillus amyloliquefaciens (1x10^9 CFU/g)",
+          "price": "₹210/kg",
+          "unit": "per kg",
+          "use_for": "Pepper Bell Healthy (preventive), Strawberry Leaf Scorch, Tomato Septoria Leaf Spot",
+          "dosage": "1.0-2.0 kg/ha",
+          "frequency": "Every 10 days"
+        },
+        {
+          "name": "Pseudomonas Fluorescens (1x10^8 CFU/g)",
+          "price": "₹88/kg",
+          "unit": "per kg",
+          "use_for": "Soil-borne diseases, Root protection, Tomato diseases (biocontrol)",
+          "dosage": "2.5 kg/ha",
+          "frequency": "Every 10 days"
+        },
+        {
+          "name": "Panchagavya (Liquid)",
+          "price": "₹50/litre",
+          "unit": "per litre",
+          "use_for": "General crop health booster, Disease resistance, Preventive for all crops",
+          "dosage": "30 ml/litre of water",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Jeevamrutha (Liquid)",
+          "price": "₹10/litre",
+          "unit": "per litre",
+          "use_for": "Soil health, Microbial enrichment, Disease suppression in all crops",
+          "dosage": "200 L/ha",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Phosphobacteria (PSB) 1x10^8 CFU/g",
+          "price": "₹72/kg",
+          "unit": "per kg",
+          "use_for": "Phosphorus solubilization, Soil health, All crops",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Soil application once"
+        },
+        {
+          "name": "Azospirillum 1x10^8 CFU/g",
+          "price": "₹72/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation, Soil health, Blueberry, Soybean, All crops",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Soil application once"
+        },
+        {
+          "name": "Rhizobium Culture 1x10^8 CFU/g",
+          "price": "₹68/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation for legumes (Soybean healthy), Gram, Tur",
+          "dosage": "200g/ha (seed treatment)",
+          "frequency": "Once (seed treatment)"
+        },
+        {
+          "name": "VAM (Mycorrhiza) Granules",
+          "price": "₹97/kg",
+          "unit": "per kg",
+          "use_for": "Root development, Nutrient uptake, All fruit & vegetable crops",
+          "dosage": "5 kg/ha",
+          "frequency": "Once at planting"
+        },
+        {
+          "name": "Seaweed Extract Liquid",
+          "price": "₹250/litre",
+          "unit": "per litre",
+          "use_for": "Plant growth promoter, Disease resistance booster, All crops",
+          "dosage": "3.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Humic Acid Granules 70%",
+          "price": "₹180/kg",
+          "unit": "per kg",
+          "use_for": "Soil conditioner, Root health, Disease suppression",
+          "dosage": "10 kg/ha",
+          "frequency": "Once per season"
+        }
+      ]
+    },
+    {
+      "name": "Namma Bhoomi Organic Center",
+      "city": "Mangaluru",
+      "state": "Karnataka",
+      "latitude": 12.9141,
+      "longitude": 74.856,
+      "type": "organic",
+      "services": [
+        "Organic Fertilizers",
+        "Bio Pesticides",
+        "Coconut Based Products"
+      ],
+      "products": [
+        {
+          "name": "Neem Oil (Cold Pressed)",
+          "price": "₹220/litre",
+          "unit": "per litre",
+          "use_for": "Apple Scab, Cherry Healthy (preventive), Spider Mites, Strawberry, Tomato diseases",
+          "dosage": "3.0-5.0 L/ha",
+          "frequency": "Every 7-14 days"
+        },
+        {
+          "name": "Sulfur 80% WG (Wettable Sulfur)",
+          "price": "₹60/kg",
+          "unit": "per kg",
+          "use_for": "Apple Scab, Corn Common Rust, Squash Powdery Mildew, Cherry Powdery Mildew",
+          "dosage": "4.0-5.0 kg/ha",
+          "frequency": "Every 7 days"
+        },
+        {
+          "name": "Copper Octanoate (Organic Copper)",
+          "price": "₹580/litre",
+          "unit": "per litre",
+          "use_for": "Pepper Bacterial Spot, Strawberry Leaf Scorch, Tomato Bacterial Spot",
+          "dosage": "2.0-2.5 L/ha",
+          "frequency": "Every 5-10 days"
+        },
+        {
+          "name": "Potassium Bicarbonate 85%",
+          "price": "₹340/kg",
+          "unit": "per kg",
+          "use_for": "Cherry Powdery Mildew, Squash Powdery Mildew, Grape Leaf Blight, Tomato Late Blight (organic)",
+          "dosage": "3.0-5.0 kg/ha",
+          "frequency": "Every 7 days"
+        },
+        {
+          "name": "Trichoderma Viride (1x10^8 CFU/g)",
+          "price": "₹110/kg",
+          "unit": "per kg",
+          "use_for": "Grape Esca, Potato Early Blight, Soil-borne Fungal diseases, Tomato Early Blight",
+          "dosage": "2.0-2.5 kg/ha",
+          "frequency": "Every 7-10 days / soil application"
+        },
+        {
+          "name": "Trichoderma Harzianum (1x10^8 CFU/g)",
+          "price": "₹118/kg",
+          "unit": "per kg",
+          "use_for": "Grape Esca wound protection, Tomato Early Blight, Root rot diseases",
+          "dosage": "2.0 kg/ha",
+          "frequency": "After pruning / soil drench"
+        },
+        {
+          "name": "Bacillus subtilis (1x10^9 CFU/g)",
+          "price": "₹195/kg",
+          "unit": "per kg",
+          "use_for": "Corn Northern Leaf Blight, Potato Early Blight, Peach Bacterial Spot, Blueberry",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Bacillus amyloliquefaciens (1x10^9 CFU/g)",
+          "price": "₹210/kg",
+          "unit": "per kg",
+          "use_for": "Pepper Bell Healthy (preventive), Strawberry Leaf Scorch, Tomato Septoria Leaf Spot",
+          "dosage": "1.0-2.0 kg/ha",
+          "frequency": "Every 10 days"
+        },
+        {
+          "name": "Beauveria Bassiana 1.15% WP",
+          "price": "₹130/kg",
+          "unit": "per kg",
+          "use_for": "Whitefly (TYLCV prevention), Spider Mites, Aphids, Thrips",
+          "dosage": "2.0-2.5 kg/ha",
+          "frequency": "Every 7 days"
+        },
+        {
+          "name": "Kaolin Clay 95%",
+          "price": "₹120/kg",
+          "unit": "per kg",
+          "use_for": "Citrus Greening (psyllid repellent), Insect pest deterrent",
+          "dosage": "5.0 kg/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Panchagavya (Liquid)",
+          "price": "₹50/litre",
+          "unit": "per litre",
+          "use_for": "General crop health booster, Disease resistance, Preventive for all crops",
+          "dosage": "30 ml/litre of water",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Vermicompost",
+          "price": "₹15/kg",
+          "unit": "per kg",
+          "use_for": "Soil health, General crop nutrition, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Horticultural Oil (Mineral Oil 97%)",
+          "price": "₹380/litre",
+          "unit": "per litre",
+          "use_for": "Cherry Healthy, Peach Healthy, Raspberry - dormant season spray",
+          "dosage": "8.0-10.0 L/ha",
+          "frequency": "Dormant season once"
+        },
+        {
+          "name": "Phosphobacteria (PSB) 1x10^8 CFU/g",
+          "price": "₹72/kg",
+          "unit": "per kg",
+          "use_for": "Phosphorus solubilization, Soil health, All crops",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Soil application once"
+        },
+        {
+          "name": "Azospirillum 1x10^8 CFU/g",
+          "price": "₹72/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation, Soil health, Blueberry, Soybean, All crops",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Soil application once"
+        },
+        {
+          "name": "Rhizobium Culture 1x10^8 CFU/g",
+          "price": "₹68/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation for legumes (Soybean healthy), Gram, Tur",
+          "dosage": "200g/ha (seed treatment)",
+          "frequency": "Once (seed treatment)"
+        },
+        {
+          "name": "VAM (Mycorrhiza) Granules",
+          "price": "₹97/kg",
+          "unit": "per kg",
+          "use_for": "Root development, Nutrient uptake, All fruit & vegetable crops",
+          "dosage": "5 kg/ha",
+          "frequency": "Once at planting"
+        },
+        {
+          "name": "Lime Sulfur (Organic Grade)",
+          "price": "₹180/litre",
+          "unit": "per litre",
+          "use_for": "Cedar Apple Rust, Raspberry Healthy - dormant spray, Apple diseases",
+          "dosage": "5.0 L/ha",
+          "frequency": "Dormant season / Every 10 days"
+        },
+        {
+          "name": "Fish Amino Acid (FAA)",
+          "price": "₹160/litre",
+          "unit": "per litre",
+          "use_for": "Crop nutrition, Growth promotion, Disease resistance",
+          "dosage": "2.0-3.0 L/ha",
+          "frequency": "Every 14 days"
+        }
+      ]
+    },
+    {
+      "name": "Kalpavriksha Organic Store",
+      "city": "Shivamogga",
+      "state": "Karnataka",
+      "latitude": 13.9299,
+      "longitude": 75.5681,
+      "type": "organic",
+      "services": [
+        "Organic Fertilizers",
+        "Bio Pesticides",
+        "Organic Seeds"
+      ],
+      "products": [
+        {
+          "name": "Neem Cake",
+          "price": "₹25/kg",
+          "unit": "per kg",
+          "use_for": "Soil pest control, Nematodes, General soil health",
+          "dosage": "200-250 kg/ha",
+          "frequency": "Once per season (soil application)"
+        },
+        {
+          "name": "Neem Oil (Cold Pressed)",
+          "price": "₹220/litre",
+          "unit": "per litre",
+          "use_for": "Apple Scab, Cherry Healthy (preventive), Spider Mites, Strawberry, Tomato diseases",
+          "dosage": "3.0-5.0 L/ha",
+          "frequency": "Every 7-14 days"
+        },
+        {
+          "name": "Neem Seed Kernel Extract (NSKE 5%)",
+          "price": "₹145/litre",
+          "unit": "per litre",
+          "use_for": "Whitefly (TYLCV prevention), Aphids, Spider Mites",
+          "dosage": "5.0 L/ha",
+          "frequency": "Every 7 days"
+        },
+        {
+          "name": "Sulfur 80% WG (Wettable Sulfur)",
+          "price": "₹60/kg",
+          "unit": "per kg",
+          "use_for": "Apple Scab, Corn Common Rust, Squash Powdery Mildew, Cherry Powdery Mildew",
+          "dosage": "4.0-5.0 kg/ha",
+          "frequency": "Every 7 days"
+        },
+        {
+          "name": "Sulfur Dust 90%",
+          "price": "₹45/kg",
+          "unit": "per kg",
+          "use_for": "Corn Common Rust, Powdery Mildew (dust application)",
+          "dosage": "5.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Copper Octanoate (Organic Copper)",
+          "price": "₹580/litre",
+          "unit": "per litre",
+          "use_for": "Pepper Bacterial Spot, Strawberry Leaf Scorch, Tomato Bacterial Spot",
+          "dosage": "2.0-2.5 L/ha",
+          "frequency": "Every 5-10 days"
+        },
+        {
+          "name": "Trichoderma Viride (1x10^8 CFU/g)",
+          "price": "₹110/kg",
+          "unit": "per kg",
+          "use_for": "Grape Esca, Potato Early Blight, Soil-borne Fungal diseases, Tomato Early Blight",
+          "dosage": "2.0-2.5 kg/ha",
+          "frequency": "Every 7-10 days / soil application"
+        },
+        {
+          "name": "Bacillus subtilis (1x10^9 CFU/g)",
+          "price": "₹195/kg",
+          "unit": "per kg",
+          "use_for": "Corn Northern Leaf Blight, Potato Early Blight, Peach Bacterial Spot, Blueberry",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Bacillus amyloliquefaciens (1x10^9 CFU/g)",
+          "price": "₹210/kg",
+          "unit": "per kg",
+          "use_for": "Pepper Bell Healthy (preventive), Strawberry Leaf Scorch, Tomato Septoria Leaf Spot",
+          "dosage": "1.0-2.0 kg/ha",
+          "frequency": "Every 10 days"
+        },
+        {
+          "name": "Pseudomonas Fluorescens (1x10^8 CFU/g)",
+          "price": "₹88/kg",
+          "unit": "per kg",
+          "use_for": "Soil-borne diseases, Root protection, Tomato diseases (biocontrol)",
+          "dosage": "2.5 kg/ha",
+          "frequency": "Every 10 days"
+        },
+        {
+          "name": "Panchagavya (Liquid)",
+          "price": "₹50/litre",
+          "unit": "per litre",
+          "use_for": "General crop health booster, Disease resistance, Preventive for all crops",
+          "dosage": "30 ml/litre of water",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Jeevamrutha (Liquid)",
+          "price": "₹10/litre",
+          "unit": "per litre",
+          "use_for": "Soil health, Microbial enrichment, Disease suppression in all crops",
+          "dosage": "200 L/ha",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Vermicompost",
+          "price": "₹15/kg",
+          "unit": "per kg",
+          "use_for": "Soil health, General crop nutrition, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Phosphobacteria (PSB) 1x10^8 CFU/g",
+          "price": "₹72/kg",
+          "unit": "per kg",
+          "use_for": "Phosphorus solubilization, Soil health, All crops",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Soil application once"
+        },
+        {
+          "name": "Azospirillum 1x10^8 CFU/g",
+          "price": "₹72/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation, Soil health, Blueberry, Soybean, All crops",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Soil application once"
+        },
+        {
+          "name": "Rhizobium Culture 1x10^8 CFU/g",
+          "price": "₹68/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation for legumes (Soybean healthy), Gram, Tur",
+          "dosage": "200g/ha (seed treatment)",
+          "frequency": "Once (seed treatment)"
+        },
+        {
+          "name": "Lime Sulfur (Organic Grade)",
+          "price": "₹180/litre",
+          "unit": "per litre",
+          "use_for": "Cedar Apple Rust, Raspberry Healthy - dormant spray, Apple diseases",
+          "dosage": "5.0 L/ha",
+          "frequency": "Dormant season / Every 10 days"
+        },
+        {
+          "name": "Seaweed Extract Liquid",
+          "price": "₹250/litre",
+          "unit": "per litre",
+          "use_for": "Plant growth promoter, Disease resistance booster, All crops",
+          "dosage": "3.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Humic Acid Granules 70%",
+          "price": "₹180/kg",
+          "unit": "per kg",
+          "use_for": "Soil conditioner, Root health, Disease suppression",
+          "dosage": "10 kg/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Bio Compost (Enriched)",
+          "price": "₹16/kg",
+          "unit": "per kg",
+          "use_for": "General soil health, Nutrient supply, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        }
+      ]
+    },
+    {
+      "name": "Bhudevi Organic Agri Shop",
+      "city": "Davanagere",
+      "state": "Karnataka",
+      "latitude": 14.4644,
+      "longitude": 75.9218,
+      "type": "organic",
+      "services": [
+        "Organic Fertilizers",
+        "Bio Pesticides"
+      ],
+      "products": [
+        {
+          "name": "Neem Cake",
+          "price": "₹25/kg",
+          "unit": "per kg",
+          "use_for": "Soil pest control, Nematodes, General soil health",
+          "dosage": "200-250 kg/ha",
+          "frequency": "Once per season (soil application)"
+        },
+        {
+          "name": "Neem Oil (Cold Pressed)",
+          "price": "₹220/litre",
+          "unit": "per litre",
+          "use_for": "Apple Scab, Cherry Healthy (preventive), Spider Mites, Strawberry, Tomato diseases",
+          "dosage": "3.0-5.0 L/ha",
+          "frequency": "Every 7-14 days"
+        },
+        {
+          "name": "Neem Seed Kernel Extract (NSKE 5%)",
+          "price": "₹145/litre",
+          "unit": "per litre",
+          "use_for": "Whitefly (TYLCV prevention), Aphids, Spider Mites",
+          "dosage": "5.0 L/ha",
+          "frequency": "Every 7 days"
+        },
+        {
+          "name": "Sulfur Dust 90%",
+          "price": "₹45/kg",
+          "unit": "per kg",
+          "use_for": "Corn Common Rust, Powdery Mildew (dust application)",
+          "dosage": "5.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Copper Octanoate (Organic Copper)",
+          "price": "₹580/litre",
+          "unit": "per litre",
+          "use_for": "Pepper Bacterial Spot, Strawberry Leaf Scorch, Tomato Bacterial Spot",
+          "dosage": "2.0-2.5 L/ha",
+          "frequency": "Every 5-10 days"
+        },
+        {
+          "name": "Trichoderma Viride (1x10^8 CFU/g)",
+          "price": "₹110/kg",
+          "unit": "per kg",
+          "use_for": "Grape Esca, Potato Early Blight, Soil-borne Fungal diseases, Tomato Early Blight",
+          "dosage": "2.0-2.5 kg/ha",
+          "frequency": "Every 7-10 days / soil application"
+        },
+        {
+          "name": "Bacillus subtilis (1x10^9 CFU/g)",
+          "price": "₹195/kg",
+          "unit": "per kg",
+          "use_for": "Corn Northern Leaf Blight, Potato Early Blight, Peach Bacterial Spot, Blueberry",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Bacillus amyloliquefaciens (1x10^9 CFU/g)",
+          "price": "₹210/kg",
+          "unit": "per kg",
+          "use_for": "Pepper Bell Healthy (preventive), Strawberry Leaf Scorch, Tomato Septoria Leaf Spot",
+          "dosage": "1.0-2.0 kg/ha",
+          "frequency": "Every 10 days"
+        },
+        {
+          "name": "Pseudomonas Fluorescens (1x10^8 CFU/g)",
+          "price": "₹88/kg",
+          "unit": "per kg",
+          "use_for": "Soil-borne diseases, Root protection, Tomato diseases (biocontrol)",
+          "dosage": "2.5 kg/ha",
+          "frequency": "Every 10 days"
+        },
+        {
+          "name": "Panchagavya (Liquid)",
+          "price": "₹50/litre",
+          "unit": "per litre",
+          "use_for": "General crop health booster, Disease resistance, Preventive for all crops",
+          "dosage": "30 ml/litre of water",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Jeevamrutha (Liquid)",
+          "price": "₹10/litre",
+          "unit": "per litre",
+          "use_for": "Soil health, Microbial enrichment, Disease suppression in all crops",
+          "dosage": "200 L/ha",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Vermicompost",
+          "price": "₹15/kg",
+          "unit": "per kg",
+          "use_for": "Soil health, General crop nutrition, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Phosphobacteria (PSB) 1x10^8 CFU/g",
+          "price": "₹72/kg",
+          "unit": "per kg",
+          "use_for": "Phosphorus solubilization, Soil health, All crops",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Soil application once"
+        },
+        {
+          "name": "Azospirillum 1x10^8 CFU/g",
+          "price": "₹72/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation, Soil health, Blueberry, Soybean, All crops",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Soil application once"
+        },
+        {
+          "name": "Rhizobium Culture 1x10^8 CFU/g",
+          "price": "₹68/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation for legumes (Soybean healthy), Gram, Tur",
+          "dosage": "200g/ha (seed treatment)",
+          "frequency": "Once (seed treatment)"
+        },
+        {
+          "name": "Lime Sulfur (Organic Grade)",
+          "price": "₹180/litre",
+          "unit": "per litre",
+          "use_for": "Cedar Apple Rust, Raspberry Healthy - dormant spray, Apple diseases",
+          "dosage": "5.0 L/ha",
+          "frequency": "Dormant season / Every 10 days"
+        },
+        {
+          "name": "Seaweed Extract Liquid",
+          "price": "₹250/litre",
+          "unit": "per litre",
+          "use_for": "Plant growth promoter, Disease resistance booster, All crops",
+          "dosage": "3.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Fish Amino Acid (FAA)",
+          "price": "₹160/litre",
+          "unit": "per litre",
+          "use_for": "Crop nutrition, Growth promotion, Disease resistance",
+          "dosage": "2.0-3.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Humic Acid Granules 70%",
+          "price": "₹180/kg",
+          "unit": "per kg",
+          "use_for": "Soil conditioner, Root health, Disease suppression",
+          "dosage": "10 kg/ha",
+          "frequency": "Once per season"
+        }
+      ]
+    },
+    {
+      "name": "Raitha Mitra Organic Center",
+      "city": "Kalaburagi",
+      "state": "Karnataka",
+      "latitude": 17.3297,
+      "longitude": 76.8343,
+      "type": "organic",
+      "services": [
+        "Organic Fertilizers",
+        "Bio Pesticides",
+        "Organic Seeds"
+      ],
+      "products": [
+        {
+          "name": "Neem Cake",
+          "price": "₹25/kg",
+          "unit": "per kg",
+          "use_for": "Soil pest control, Nematodes, General soil health",
+          "dosage": "200-250 kg/ha",
+          "frequency": "Once per season (soil application)"
+        },
+        {
+          "name": "Neem Oil (Cold Pressed)",
+          "price": "₹220/litre",
+          "unit": "per litre",
+          "use_for": "Apple Scab, Cherry Healthy (preventive), Spider Mites, Strawberry, Tomato diseases",
+          "dosage": "3.0-5.0 L/ha",
+          "frequency": "Every 7-14 days"
+        },
+        {
+          "name": "Neem Seed Kernel Extract (NSKE 5%)",
+          "price": "₹145/litre",
+          "unit": "per litre",
+          "use_for": "Whitefly (TYLCV prevention), Aphids, Spider Mites",
+          "dosage": "5.0 L/ha",
+          "frequency": "Every 7 days"
+        },
+        {
+          "name": "Sulfur 80% WG (Wettable Sulfur)",
+          "price": "₹60/kg",
+          "unit": "per kg",
+          "use_for": "Apple Scab, Corn Common Rust, Squash Powdery Mildew, Cherry Powdery Mildew",
+          "dosage": "4.0-5.0 kg/ha",
+          "frequency": "Every 7 days"
+        },
+        {
+          "name": "Sulfur Dust 90%",
+          "price": "₹45/kg",
+          "unit": "per kg",
+          "use_for": "Corn Common Rust, Powdery Mildew (dust application)",
+          "dosage": "5.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Copper Octanoate (Organic Copper)",
+          "price": "₹580/litre",
+          "unit": "per litre",
+          "use_for": "Pepper Bacterial Spot, Strawberry Leaf Scorch, Tomato Bacterial Spot",
+          "dosage": "2.0-2.5 L/ha",
+          "frequency": "Every 5-10 days"
+        },
+        {
+          "name": "Trichoderma Viride (1x10^8 CFU/g)",
+          "price": "₹110/kg",
+          "unit": "per kg",
+          "use_for": "Grape Esca, Potato Early Blight, Soil-borne Fungal diseases, Tomato Early Blight",
+          "dosage": "2.0-2.5 kg/ha",
+          "frequency": "Every 7-10 days / soil application"
+        },
+        {
+          "name": "Bacillus subtilis (1x10^9 CFU/g)",
+          "price": "₹195/kg",
+          "unit": "per kg",
+          "use_for": "Corn Northern Leaf Blight, Potato Early Blight, Peach Bacterial Spot, Blueberry",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Bacillus amyloliquefaciens (1x10^9 CFU/g)",
+          "price": "₹210/kg",
+          "unit": "per kg",
+          "use_for": "Pepper Bell Healthy (preventive), Strawberry Leaf Scorch, Tomato Septoria Leaf Spot",
+          "dosage": "1.0-2.0 kg/ha",
+          "frequency": "Every 10 days"
+        },
+        {
+          "name": "Pseudomonas Fluorescens (1x10^8 CFU/g)",
+          "price": "₹88/kg",
+          "unit": "per kg",
+          "use_for": "Soil-borne diseases, Root protection, Tomato diseases (biocontrol)",
+          "dosage": "2.5 kg/ha",
+          "frequency": "Every 10 days"
+        },
+        {
+          "name": "Panchagavya (Liquid)",
+          "price": "₹50/litre",
+          "unit": "per litre",
+          "use_for": "General crop health booster, Disease resistance, Preventive for all crops",
+          "dosage": "30 ml/litre of water",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Jeevamrutha (Liquid)",
+          "price": "₹10/litre",
+          "unit": "per litre",
+          "use_for": "Soil health, Microbial enrichment, Disease suppression in all crops",
+          "dosage": "200 L/ha",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Vermicompost",
+          "price": "₹15/kg",
+          "unit": "per kg",
+          "use_for": "Soil health, General crop nutrition, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Phosphobacteria (PSB) 1x10^8 CFU/g",
+          "price": "₹72/kg",
+          "unit": "per kg",
+          "use_for": "Phosphorus solubilization, Soil health, All crops",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Soil application once"
+        },
+        {
+          "name": "Azospirillum 1x10^8 CFU/g",
+          "price": "₹72/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation, Soil health, Blueberry, Soybean, All crops",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Soil application once"
+        },
+        {
+          "name": "Rhizobium Culture 1x10^8 CFU/g",
+          "price": "₹68/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation for legumes (Soybean healthy), Gram, Tur",
+          "dosage": "200g/ha (seed treatment)",
+          "frequency": "Once (seed treatment)"
+        },
+        {
+          "name": "VAM (Mycorrhiza) Granules",
+          "price": "₹97/kg",
+          "unit": "per kg",
+          "use_for": "Root development, Nutrient uptake, All fruit & vegetable crops",
+          "dosage": "5 kg/ha",
+          "frequency": "Once at planting"
+        },
+        {
+          "name": "Lime Sulfur (Organic Grade)",
+          "price": "₹180/litre",
+          "unit": "per litre",
+          "use_for": "Cedar Apple Rust, Raspberry Healthy - dormant spray, Apple diseases",
+          "dosage": "5.0 L/ha",
+          "frequency": "Dormant season / Every 10 days"
+        },
+        {
+          "name": "Seaweed Extract Liquid",
+          "price": "₹250/litre",
+          "unit": "per litre",
+          "use_for": "Plant growth promoter, Disease resistance booster, All crops",
+          "dosage": "3.0 L/ha",
+          "frequency": "Every 14 days"
+        }
+      ]
+    },
+    {
+      "name": "Vasudha Organics",
+      "city": "Tumakuru",
+      "state": "Karnataka",
+      "latitude": 13.3409,
+      "longitude": 77.101,
+      "type": "organic",
+      "services": [
+        "Organic Fertilizers",
+        "Bio Pesticides"
+      ],
+      "products": [
+        {
+          "name": "Neem Cake",
+          "price": "₹25/kg",
+          "unit": "per kg",
+          "use_for": "Soil pest control, Nematodes, General soil health",
+          "dosage": "200-250 kg/ha",
+          "frequency": "Once per season (soil application)"
+        },
+        {
+          "name": "Neem Oil (Cold Pressed)",
+          "price": "₹220/litre",
+          "unit": "per litre",
+          "use_for": "Apple Scab, Cherry Healthy (preventive), Spider Mites, Strawberry, Tomato diseases",
+          "dosage": "3.0-5.0 L/ha",
+          "frequency": "Every 7-14 days"
+        },
+        {
+          "name": "Neem Seed Kernel Extract (NSKE 5%)",
+          "price": "₹145/litre",
+          "unit": "per litre",
+          "use_for": "Whitefly (TYLCV prevention), Aphids, Spider Mites",
+          "dosage": "5.0 L/ha",
+          "frequency": "Every 7 days"
+        },
+        {
+          "name": "Sulfur Dust 90%",
+          "price": "₹45/kg",
+          "unit": "per kg",
+          "use_for": "Corn Common Rust, Powdery Mildew (dust application)",
+          "dosage": "5.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Copper Octanoate (Organic Copper)",
+          "price": "₹580/litre",
+          "unit": "per litre",
+          "use_for": "Pepper Bacterial Spot, Strawberry Leaf Scorch, Tomato Bacterial Spot",
+          "dosage": "2.0-2.5 L/ha",
+          "frequency": "Every 5-10 days"
+        },
+        {
+          "name": "Potassium Bicarbonate 85%",
+          "price": "₹340/kg",
+          "unit": "per kg",
+          "use_for": "Cherry Powdery Mildew, Squash Powdery Mildew, Grape Leaf Blight, Tomato Late Blight (organic)",
+          "dosage": "3.0-5.0 kg/ha",
+          "frequency": "Every 7 days"
+        },
+        {
+          "name": "Trichoderma Viride (1x10^8 CFU/g)",
+          "price": "₹110/kg",
+          "unit": "per kg",
+          "use_for": "Grape Esca, Potato Early Blight, Soil-borne Fungal diseases, Tomato Early Blight",
+          "dosage": "2.0-2.5 kg/ha",
+          "frequency": "Every 7-10 days / soil application"
+        },
+        {
+          "name": "Bacillus subtilis (1x10^9 CFU/g)",
+          "price": "₹195/kg",
+          "unit": "per kg",
+          "use_for": "Corn Northern Leaf Blight, Potato Early Blight, Peach Bacterial Spot, Blueberry",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Bacillus amyloliquefaciens (1x10^9 CFU/g)",
+          "price": "₹210/kg",
+          "unit": "per kg",
+          "use_for": "Pepper Bell Healthy (preventive), Strawberry Leaf Scorch, Tomato Septoria Leaf Spot",
+          "dosage": "1.0-2.0 kg/ha",
+          "frequency": "Every 10 days"
+        },
+        {
+          "name": "Pseudomonas Fluorescens (1x10^8 CFU/g)",
+          "price": "₹88/kg",
+          "unit": "per kg",
+          "use_for": "Soil-borne diseases, Root protection, Tomato diseases (biocontrol)",
+          "dosage": "2.5 kg/ha",
+          "frequency": "Every 10 days"
+        },
+        {
+          "name": "Metarhizium anisopliae 1.5% WP",
+          "price": "₹140/kg",
+          "unit": "per kg",
+          "use_for": "Soil insects, Whitefly, Root pests",
+          "dosage": "2.5 kg/ha",
+          "frequency": "Every 10-14 days"
+        },
+        {
+          "name": "Panchagavya (Liquid)",
+          "price": "₹50/litre",
+          "unit": "per litre",
+          "use_for": "General crop health booster, Disease resistance, Preventive for all crops",
+          "dosage": "30 ml/litre of water",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Jeevamrutha (Liquid)",
+          "price": "₹10/litre",
+          "unit": "per litre",
+          "use_for": "Soil health, Microbial enrichment, Disease suppression in all crops",
+          "dosage": "200 L/ha",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Vermicompost",
+          "price": "₹15/kg",
+          "unit": "per kg",
+          "use_for": "Soil health, General crop nutrition, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Phosphobacteria (PSB) 1x10^8 CFU/g",
+          "price": "₹72/kg",
+          "unit": "per kg",
+          "use_for": "Phosphorus solubilization, Soil health, All crops",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Soil application once"
+        },
+        {
+          "name": "Azospirillum 1x10^8 CFU/g",
+          "price": "₹72/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation, Soil health, Blueberry, Soybean, All crops",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Soil application once"
+        },
+        {
+          "name": "Rhizobium Culture 1x10^8 CFU/g",
+          "price": "₹68/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation for legumes (Soybean healthy), Gram, Tur",
+          "dosage": "200g/ha (seed treatment)",
+          "frequency": "Once (seed treatment)"
+        },
+        {
+          "name": "VAM (Mycorrhiza) Granules",
+          "price": "₹97/kg",
+          "unit": "per kg",
+          "use_for": "Root development, Nutrient uptake, All fruit & vegetable crops",
+          "dosage": "5 kg/ha",
+          "frequency": "Once at planting"
+        },
+        {
+          "name": "Lime Sulfur (Organic Grade)",
+          "price": "₹180/litre",
+          "unit": "per litre",
+          "use_for": "Cedar Apple Rust, Raspberry Healthy - dormant spray, Apple diseases",
+          "dosage": "5.0 L/ha",
+          "frequency": "Dormant season / Every 10 days"
+        },
+        {
+          "name": "Seaweed Extract Liquid",
+          "price": "₹250/litre",
+          "unit": "per litre",
+          "use_for": "Plant growth promoter, Disease resistance booster, All crops",
+          "dosage": "3.0 L/ha",
+          "frequency": "Every 14 days"
+        }
+      ]
+    },
+    {
+      "name": "Kshetra Organics",
+      "city": "Hassan",
+      "state": "Karnataka",
+      "latitude": 13.0072,
+      "longitude": 76.0962,
+      "type": "organic",
+      "services": [
+        "Organic Fertilizers",
+        "Bio Pesticides",
+        "Organic Seeds"
+      ],
+      "products": [
+        {
+          "name": "Neem Cake",
+          "price": "₹25/kg",
+          "unit": "per kg",
+          "use_for": "Soil pest control, Nematodes, General soil health",
+          "dosage": "200-250 kg/ha",
+          "frequency": "Once per season (soil application)"
+        },
+        {
+          "name": "Neem Oil (Cold Pressed)",
+          "price": "₹220/litre",
+          "unit": "per litre",
+          "use_for": "Apple Scab, Cherry Healthy (preventive), Spider Mites, Strawberry, Tomato diseases",
+          "dosage": "3.0-5.0 L/ha",
+          "frequency": "Every 7-14 days"
+        },
+        {
+          "name": "Neem Seed Kernel Extract (NSKE 5%)",
+          "price": "₹145/litre",
+          "unit": "per litre",
+          "use_for": "Whitefly (TYLCV prevention), Aphids, Spider Mites",
+          "dosage": "5.0 L/ha",
+          "frequency": "Every 7 days"
+        },
+        {
+          "name": "Sulfur 80% WG (Wettable Sulfur)",
+          "price": "₹60/kg",
+          "unit": "per kg",
+          "use_for": "Apple Scab, Corn Common Rust, Squash Powdery Mildew, Cherry Powdery Mildew",
+          "dosage": "4.0-5.0 kg/ha",
+          "frequency": "Every 7 days"
+        },
+        {
+          "name": "Sulfur Dust 90%",
+          "price": "₹45/kg",
+          "unit": "per kg",
+          "use_for": "Corn Common Rust, Powdery Mildew (dust application)",
+          "dosage": "5.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Copper Octanoate (Organic Copper)",
+          "price": "₹580/litre",
+          "unit": "per litre",
+          "use_for": "Pepper Bacterial Spot, Strawberry Leaf Scorch, Tomato Bacterial Spot",
+          "dosage": "2.0-2.5 L/ha",
+          "frequency": "Every 5-10 days"
+        },
+        {
+          "name": "Trichoderma Viride (1x10^8 CFU/g)",
+          "price": "₹110/kg",
+          "unit": "per kg",
+          "use_for": "Grape Esca, Potato Early Blight, Soil-borne Fungal diseases, Tomato Early Blight",
+          "dosage": "2.0-2.5 kg/ha",
+          "frequency": "Every 7-10 days / soil application"
+        },
+        {
+          "name": "Bacillus subtilis (1x10^9 CFU/g)",
+          "price": "₹195/kg",
+          "unit": "per kg",
+          "use_for": "Corn Northern Leaf Blight, Potato Early Blight, Peach Bacterial Spot, Blueberry",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Bacillus amyloliquefaciens (1x10^9 CFU/g)",
+          "price": "₹210/kg",
+          "unit": "per kg",
+          "use_for": "Pepper Bell Healthy (preventive), Strawberry Leaf Scorch, Tomato Septoria Leaf Spot",
+          "dosage": "1.0-2.0 kg/ha",
+          "frequency": "Every 10 days"
+        },
+        {
+          "name": "Pseudomonas Fluorescens (1x10^8 CFU/g)",
+          "price": "₹88/kg",
+          "unit": "per kg",
+          "use_for": "Soil-borne diseases, Root protection, Tomato diseases (biocontrol)",
+          "dosage": "2.5 kg/ha",
+          "frequency": "Every 10 days"
+        },
+        {
+          "name": "Panchagavya (Liquid)",
+          "price": "₹50/litre",
+          "unit": "per litre",
+          "use_for": "General crop health booster, Disease resistance, Preventive for all crops",
+          "dosage": "30 ml/litre of water",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Jeevamrutha (Liquid)",
+          "price": "₹10/litre",
+          "unit": "per litre",
+          "use_for": "Soil health, Microbial enrichment, Disease suppression in all crops",
+          "dosage": "200 L/ha",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Vermicompost",
+          "price": "₹15/kg",
+          "unit": "per kg",
+          "use_for": "Soil health, General crop nutrition, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Phosphobacteria (PSB) 1x10^8 CFU/g",
+          "price": "₹72/kg",
+          "unit": "per kg",
+          "use_for": "Phosphorus solubilization, Soil health, All crops",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Soil application once"
+        },
+        {
+          "name": "Azospirillum 1x10^8 CFU/g",
+          "price": "₹72/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation, Soil health, Blueberry, Soybean, All crops",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Soil application once"
+        },
+        {
+          "name": "Rhizobium Culture 1x10^8 CFU/g",
+          "price": "₹68/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation for legumes (Soybean healthy), Gram, Tur",
+          "dosage": "200g/ha (seed treatment)",
+          "frequency": "Once (seed treatment)"
+        },
+        {
+          "name": "VAM (Mycorrhiza) Granules",
+          "price": "₹97/kg",
+          "unit": "per kg",
+          "use_for": "Root development, Nutrient uptake, All fruit & vegetable crops",
+          "dosage": "5 kg/ha",
+          "frequency": "Once at planting"
+        },
+        {
+          "name": "Seaweed Extract Liquid",
+          "price": "₹250/litre",
+          "unit": "per litre",
+          "use_for": "Plant growth promoter, Disease resistance booster, All crops",
+          "dosage": "3.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Fish Amino Acid (FAA)",
+          "price": "₹160/litre",
+          "unit": "per litre",
+          "use_for": "Crop nutrition, Growth promotion, Disease resistance",
+          "dosage": "2.0-3.0 L/ha",
+          "frequency": "Every 14 days"
+        }
+      ]
+    },
+    {
+      "name": "Annadata Organic Agri Shop",
+      "city": "Bidar",
+      "state": "Karnataka",
+      "latitude": 17.9104,
+      "longitude": 77.5199,
+      "type": "organic",
+      "services": [
+        "Organic Fertilizers",
+        "Bio Pesticides"
+      ],
+      "products": [
+        {
+          "name": "Neem Cake",
+          "price": "₹25/kg",
+          "unit": "per kg",
+          "use_for": "Soil pest control, Nematodes, General soil health",
+          "dosage": "200-250 kg/ha",
+          "frequency": "Once per season (soil application)"
+        },
+        {
+          "name": "Neem Oil (Cold Pressed)",
+          "price": "₹220/litre",
+          "unit": "per litre",
+          "use_for": "Apple Scab, Cherry Healthy (preventive), Spider Mites, Strawberry, Tomato diseases",
+          "dosage": "3.0-5.0 L/ha",
+          "frequency": "Every 7-14 days"
+        },
+        {
+          "name": "Neem Seed Kernel Extract (NSKE 5%)",
+          "price": "₹145/litre",
+          "unit": "per litre",
+          "use_for": "Whitefly (TYLCV prevention), Aphids, Spider Mites",
+          "dosage": "5.0 L/ha",
+          "frequency": "Every 7 days"
+        },
+        {
+          "name": "Sulfur 80% WG (Wettable Sulfur)",
+          "price": "₹60/kg",
+          "unit": "per kg",
+          "use_for": "Apple Scab, Corn Common Rust, Squash Powdery Mildew, Cherry Powdery Mildew",
+          "dosage": "4.0-5.0 kg/ha",
+          "frequency": "Every 7 days"
+        },
+        {
+          "name": "Sulfur Dust 90%",
+          "price": "₹45/kg",
+          "unit": "per kg",
+          "use_for": "Corn Common Rust, Powdery Mildew (dust application)",
+          "dosage": "5.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Copper Octanoate (Organic Copper)",
+          "price": "₹580/litre",
+          "unit": "per litre",
+          "use_for": "Pepper Bacterial Spot, Strawberry Leaf Scorch, Tomato Bacterial Spot",
+          "dosage": "2.0-2.5 L/ha",
+          "frequency": "Every 5-10 days"
+        },
+        {
+          "name": "Trichoderma Viride (1x10^8 CFU/g)",
+          "price": "₹110/kg",
+          "unit": "per kg",
+          "use_for": "Grape Esca, Potato Early Blight, Soil-borne Fungal diseases, Tomato Early Blight",
+          "dosage": "2.0-2.5 kg/ha",
+          "frequency": "Every 7-10 days / soil application"
+        },
+        {
+          "name": "Bacillus subtilis (1x10^9 CFU/g)",
+          "price": "₹195/kg",
+          "unit": "per kg",
+          "use_for": "Corn Northern Leaf Blight, Potato Early Blight, Peach Bacterial Spot, Blueberry",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Bacillus amyloliquefaciens (1x10^9 CFU/g)",
+          "price": "₹210/kg",
+          "unit": "per kg",
+          "use_for": "Pepper Bell Healthy (preventive), Strawberry Leaf Scorch, Tomato Septoria Leaf Spot",
+          "dosage": "1.0-2.0 kg/ha",
+          "frequency": "Every 10 days"
+        },
+        {
+          "name": "Pseudomonas Fluorescens (1x10^8 CFU/g)",
+          "price": "₹88/kg",
+          "unit": "per kg",
+          "use_for": "Soil-borne diseases, Root protection, Tomato diseases (biocontrol)",
+          "dosage": "2.5 kg/ha",
+          "frequency": "Every 10 days"
+        },
+        {
+          "name": "Panchagavya (Liquid)",
+          "price": "₹50/litre",
+          "unit": "per litre",
+          "use_for": "General crop health booster, Disease resistance, Preventive for all crops",
+          "dosage": "30 ml/litre of water",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Jeevamrutha (Liquid)",
+          "price": "₹10/litre",
+          "unit": "per litre",
+          "use_for": "Soil health, Microbial enrichment, Disease suppression in all crops",
+          "dosage": "200 L/ha",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Vermicompost",
+          "price": "₹15/kg",
+          "unit": "per kg",
+          "use_for": "Soil health, General crop nutrition, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Phosphobacteria (PSB) 1x10^8 CFU/g",
+          "price": "₹72/kg",
+          "unit": "per kg",
+          "use_for": "Phosphorus solubilization, Soil health, All crops",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Soil application once"
+        },
+        {
+          "name": "Azospirillum 1x10^8 CFU/g",
+          "price": "₹72/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation, Soil health, Blueberry, Soybean, All crops",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Soil application once"
+        },
+        {
+          "name": "Rhizobium Culture 1x10^8 CFU/g",
+          "price": "₹68/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation for legumes (Soybean healthy), Gram, Tur",
+          "dosage": "200g/ha (seed treatment)",
+          "frequency": "Once (seed treatment)"
+        },
+        {
+          "name": "VAM (Mycorrhiza) Granules",
+          "price": "₹97/kg",
+          "unit": "per kg",
+          "use_for": "Root development, Nutrient uptake, All fruit & vegetable crops",
+          "dosage": "5 kg/ha",
+          "frequency": "Once at planting"
+        },
+        {
+          "name": "Lime Sulfur (Organic Grade)",
+          "price": "₹180/litre",
+          "unit": "per litre",
+          "use_for": "Cedar Apple Rust, Raspberry Healthy - dormant spray, Apple diseases",
+          "dosage": "5.0 L/ha",
+          "frequency": "Dormant season / Every 10 days"
+        },
+        {
+          "name": "Seaweed Extract Liquid",
+          "price": "₹250/litre",
+          "unit": "per litre",
+          "use_for": "Plant growth promoter, Disease resistance booster, All crops",
+          "dosage": "3.0 L/ha",
+          "frequency": "Every 14 days"
+        }
+      ]
+    },
+    {
+      "name": "Terra Firma Organics",
+      "city": "Vijayapura",
+      "state": "Karnataka",
+      "latitude": 16.8302,
+      "longitude": 75.71,
+      "type": "organic",
+      "services": [
+        "Organic Fertilizers",
+        "Bio Pesticides",
+        "Organic Seeds"
+      ],
+      "products": [
+        {
+          "name": "Neem Cake",
+          "price": "₹25/kg",
+          "unit": "per kg",
+          "use_for": "Soil pest control, Nematodes, General soil health",
+          "dosage": "200-250 kg/ha",
+          "frequency": "Once per season (soil application)"
+        },
+        {
+          "name": "Neem Oil (Cold Pressed)",
+          "price": "₹220/litre",
+          "unit": "per litre",
+          "use_for": "Apple Scab, Cherry Healthy (preventive), Spider Mites, Strawberry, Tomato diseases",
+          "dosage": "3.0-5.0 L/ha",
+          "frequency": "Every 7-14 days"
+        },
+        {
+          "name": "Neem Seed Kernel Extract (NSKE 5%)",
+          "price": "₹145/litre",
+          "unit": "per litre",
+          "use_for": "Whitefly (TYLCV prevention), Aphids, Spider Mites",
+          "dosage": "5.0 L/ha",
+          "frequency": "Every 7 days"
+        },
+        {
+          "name": "Sulfur 80% WG (Wettable Sulfur)",
+          "price": "₹60/kg",
+          "unit": "per kg",
+          "use_for": "Apple Scab, Corn Common Rust, Squash Powdery Mildew, Cherry Powdery Mildew",
+          "dosage": "4.0-5.0 kg/ha",
+          "frequency": "Every 7 days"
+        },
+        {
+          "name": "Sulfur Dust 90%",
+          "price": "₹45/kg",
+          "unit": "per kg",
+          "use_for": "Corn Common Rust, Powdery Mildew (dust application)",
+          "dosage": "5.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Copper Octanoate (Organic Copper)",
+          "price": "₹580/litre",
+          "unit": "per litre",
+          "use_for": "Pepper Bacterial Spot, Strawberry Leaf Scorch, Tomato Bacterial Spot",
+          "dosage": "2.0-2.5 L/ha",
+          "frequency": "Every 5-10 days"
+        },
+        {
+          "name": "Potassium Bicarbonate 85%",
+          "price": "₹340/kg",
+          "unit": "per kg",
+          "use_for": "Cherry Powdery Mildew, Squash Powdery Mildew, Grape Leaf Blight, Tomato Late Blight (organic)",
+          "dosage": "3.0-5.0 kg/ha",
+          "frequency": "Every 7 days"
+        },
+        {
+          "name": "Trichoderma Viride (1x10^8 CFU/g)",
+          "price": "₹110/kg",
+          "unit": "per kg",
+          "use_for": "Grape Esca, Potato Early Blight, Soil-borne Fungal diseases, Tomato Early Blight",
+          "dosage": "2.0-2.5 kg/ha",
+          "frequency": "Every 7-10 days / soil application"
+        },
+        {
+          "name": "Bacillus subtilis (1x10^9 CFU/g)",
+          "price": "₹195/kg",
+          "unit": "per kg",
+          "use_for": "Corn Northern Leaf Blight, Potato Early Blight, Peach Bacterial Spot, Blueberry",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Bacillus amyloliquefaciens (1x10^9 CFU/g)",
+          "price": "₹210/kg",
+          "unit": "per kg",
+          "use_for": "Pepper Bell Healthy (preventive), Strawberry Leaf Scorch, Tomato Septoria Leaf Spot",
+          "dosage": "1.0-2.0 kg/ha",
+          "frequency": "Every 10 days"
+        },
+        {
+          "name": "Pseudomonas Fluorescens (1x10^8 CFU/g)",
+          "price": "₹88/kg",
+          "unit": "per kg",
+          "use_for": "Soil-borne diseases, Root protection, Tomato diseases (biocontrol)",
+          "dosage": "2.5 kg/ha",
+          "frequency": "Every 10 days"
+        },
+        {
+          "name": "Panchagavya (Liquid)",
+          "price": "₹50/litre",
+          "unit": "per litre",
+          "use_for": "General crop health booster, Disease resistance, Preventive for all crops",
+          "dosage": "30 ml/litre of water",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Jeevamrutha (Liquid)",
+          "price": "₹10/litre",
+          "unit": "per litre",
+          "use_for": "Soil health, Microbial enrichment, Disease suppression in all crops",
+          "dosage": "200 L/ha",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Vermicompost",
+          "price": "₹15/kg",
+          "unit": "per kg",
+          "use_for": "Soil health, General crop nutrition, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Phosphobacteria (PSB) 1x10^8 CFU/g",
+          "price": "₹72/kg",
+          "unit": "per kg",
+          "use_for": "Phosphorus solubilization, Soil health, All crops",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Soil application once"
+        },
+        {
+          "name": "Azospirillum 1x10^8 CFU/g",
+          "price": "₹72/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation, Soil health, Blueberry, Soybean, All crops",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Soil application once"
+        },
+        {
+          "name": "Rhizobium Culture 1x10^8 CFU/g",
+          "price": "₹68/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation for legumes (Soybean healthy), Gram, Tur",
+          "dosage": "200g/ha (seed treatment)",
+          "frequency": "Once (seed treatment)"
+        },
+        {
+          "name": "VAM (Mycorrhiza) Granules",
+          "price": "₹97/kg",
+          "unit": "per kg",
+          "use_for": "Root development, Nutrient uptake, All fruit & vegetable crops",
+          "dosage": "5 kg/ha",
+          "frequency": "Once at planting"
+        },
+        {
+          "name": "Lime Sulfur (Organic Grade)",
+          "price": "₹180/litre",
+          "unit": "per litre",
+          "use_for": "Cedar Apple Rust, Raspberry Healthy - dormant spray, Apple diseases",
+          "dosage": "5.0 L/ha",
+          "frequency": "Dormant season / Every 10 days"
+        },
+        {
+          "name": "Fish Amino Acid (FAA)",
+          "price": "₹160/litre",
+          "unit": "per litre",
+          "use_for": "Crop nutrition, Growth promotion, Disease resistance",
+          "dosage": "2.0-3.0 L/ha",
+          "frequency": "Every 14 days"
+        }
+      ]
+    },
+    {
+      "name": "Bhoomi Mitra Organics",
+      "city": "Udupi",
+      "state": "Karnataka",
+      "latitude": 13.3409,
+      "longitude": 74.7421,
+      "type": "organic",
+      "services": [
+        "Organic Fertilizers",
+        "Bio Pesticides",
+        "Coconut Based Products"
+      ],
+      "products": [
+        {
+          "name": "Neem Oil (Cold Pressed)",
+          "price": "₹220/litre",
+          "unit": "per litre",
+          "use_for": "Apple Scab, Cherry Healthy (preventive), Spider Mites, Strawberry, Tomato diseases",
+          "dosage": "3.0-5.0 L/ha",
+          "frequency": "Every 7-14 days"
+        },
+        {
+          "name": "Sulfur 80% WG (Wettable Sulfur)",
+          "price": "₹60/kg",
+          "unit": "per kg",
+          "use_for": "Apple Scab, Corn Common Rust, Squash Powdery Mildew, Cherry Powdery Mildew",
+          "dosage": "4.0-5.0 kg/ha",
+          "frequency": "Every 7 days"
+        },
+        {
+          "name": "Copper Octanoate (Organic Copper)",
+          "price": "₹580/litre",
+          "unit": "per litre",
+          "use_for": "Pepper Bacterial Spot, Strawberry Leaf Scorch, Tomato Bacterial Spot",
+          "dosage": "2.0-2.5 L/ha",
+          "frequency": "Every 5-10 days"
+        },
+        {
+          "name": "Potassium Bicarbonate 85%",
+          "price": "₹340/kg",
+          "unit": "per kg",
+          "use_for": "Cherry Powdery Mildew, Squash Powdery Mildew, Grape Leaf Blight, Tomato Late Blight (organic)",
+          "dosage": "3.0-5.0 kg/ha",
+          "frequency": "Every 7 days"
+        },
+        {
+          "name": "Trichoderma Viride (1x10^8 CFU/g)",
+          "price": "₹110/kg",
+          "unit": "per kg",
+          "use_for": "Grape Esca, Potato Early Blight, Soil-borne Fungal diseases, Tomato Early Blight",
+          "dosage": "2.0-2.5 kg/ha",
+          "frequency": "Every 7-10 days / soil application"
+        },
+        {
+          "name": "Trichoderma Harzianum (1x10^8 CFU/g)",
+          "price": "₹118/kg",
+          "unit": "per kg",
+          "use_for": "Grape Esca wound protection, Tomato Early Blight, Root rot diseases",
+          "dosage": "2.0 kg/ha",
+          "frequency": "After pruning / soil drench"
+        },
+        {
+          "name": "Bacillus subtilis (1x10^9 CFU/g)",
+          "price": "₹195/kg",
+          "unit": "per kg",
+          "use_for": "Corn Northern Leaf Blight, Potato Early Blight, Peach Bacterial Spot, Blueberry",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Beauveria Bassiana 1.15% WP",
+          "price": "₹130/kg",
+          "unit": "per kg",
+          "use_for": "Whitefly (TYLCV prevention), Spider Mites, Aphids, Thrips",
+          "dosage": "2.0-2.5 kg/ha",
+          "frequency": "Every 7 days"
+        },
+        {
+          "name": "Kaolin Clay 95%",
+          "price": "₹120/kg",
+          "unit": "per kg",
+          "use_for": "Citrus Greening (psyllid repellent), Insect pest deterrent",
+          "dosage": "5.0 kg/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Panchagavya (Liquid)",
+          "price": "₹50/litre",
+          "unit": "per litre",
+          "use_for": "General crop health booster, Disease resistance, Preventive for all crops",
+          "dosage": "30 ml/litre of water",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Vermicompost",
+          "price": "₹15/kg",
+          "unit": "per kg",
+          "use_for": "Soil health, General crop nutrition, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Horticultural Oil (Mineral Oil 97%)",
+          "price": "₹380/litre",
+          "unit": "per litre",
+          "use_for": "Cherry Healthy, Peach Healthy, Raspberry - dormant season spray",
+          "dosage": "8.0-10.0 L/ha",
+          "frequency": "Dormant season once"
+        },
+        {
+          "name": "Phosphobacteria (PSB) 1x10^8 CFU/g",
+          "price": "₹72/kg",
+          "unit": "per kg",
+          "use_for": "Phosphorus solubilization, Soil health, All crops",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Soil application once"
+        },
+        {
+          "name": "Azospirillum 1x10^8 CFU/g",
+          "price": "₹72/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation, Soil health, Blueberry, Soybean, All crops",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Soil application once"
+        },
+        {
+          "name": "Rhizobium Culture 1x10^8 CFU/g",
+          "price": "₹68/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation for legumes (Soybean healthy), Gram, Tur",
+          "dosage": "200g/ha (seed treatment)",
+          "frequency": "Once (seed treatment)"
+        },
+        {
+          "name": "VAM (Mycorrhiza) Granules",
+          "price": "₹97/kg",
+          "unit": "per kg",
+          "use_for": "Root development, Nutrient uptake, All fruit & vegetable crops",
+          "dosage": "5 kg/ha",
+          "frequency": "Once at planting"
+        },
+        {
+          "name": "Lime Sulfur (Organic Grade)",
+          "price": "₹180/litre",
+          "unit": "per litre",
+          "use_for": "Cedar Apple Rust, Raspberry Healthy - dormant spray, Apple diseases",
+          "dosage": "5.0 L/ha",
+          "frequency": "Dormant season / Every 10 days"
+        },
+        {
+          "name": "Fish Amino Acid (FAA)",
+          "price": "₹160/litre",
+          "unit": "per litre",
+          "use_for": "Crop nutrition, Growth promotion, Disease resistance",
+          "dosage": "2.0-3.0 L/ha",
+          "frequency": "Every 14 days"
+        }
+      ]
+    },
+    {
+      "name": "Sahyadri Organic Farm Center",
+      "city": "Chikkamagaluru",
+      "state": "Karnataka",
+      "latitude": 13.3161,
+      "longitude": 75.772,
+      "type": "organic",
+      "services": [
+        "Organic Fertilizers",
+        "Bio Pesticides",
+        "Organic Coffee Inputs"
+      ],
+      "products": [
+        {
+          "name": "Neem Cake",
+          "price": "₹25/kg",
+          "unit": "per kg",
+          "use_for": "Soil pest control, Nematodes, General soil health",
+          "dosage": "200-250 kg/ha",
+          "frequency": "Once per season (soil application)"
+        },
+        {
+          "name": "Neem Oil (Cold Pressed)",
+          "price": "₹220/litre",
+          "unit": "per litre",
+          "use_for": "Apple Scab, Cherry Healthy (preventive), Spider Mites, Strawberry, Tomato diseases",
+          "dosage": "3.0-5.0 L/ha",
+          "frequency": "Every 7-14 days"
+        },
+        {
+          "name": "Neem Seed Kernel Extract (NSKE 5%)",
+          "price": "₹145/litre",
+          "unit": "per litre",
+          "use_for": "Whitefly (TYLCV prevention), Aphids, Spider Mites",
+          "dosage": "5.0 L/ha",
+          "frequency": "Every 7 days"
+        },
+        {
+          "name": "Sulfur Dust 90%",
+          "price": "₹45/kg",
+          "unit": "per kg",
+          "use_for": "Corn Common Rust, Powdery Mildew (dust application)",
+          "dosage": "5.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Copper Octanoate (Organic Copper)",
+          "price": "₹580/litre",
+          "unit": "per litre",
+          "use_for": "Pepper Bacterial Spot, Strawberry Leaf Scorch, Tomato Bacterial Spot",
+          "dosage": "2.0-2.5 L/ha",
+          "frequency": "Every 5-10 days"
+        },
+        {
+          "name": "Trichoderma Viride (1x10^8 CFU/g)",
+          "price": "₹110/kg",
+          "unit": "per kg",
+          "use_for": "Grape Esca, Potato Early Blight, Soil-borne Fungal diseases, Tomato Early Blight",
+          "dosage": "2.0-2.5 kg/ha",
+          "frequency": "Every 7-10 days / soil application"
+        },
+        {
+          "name": "Bacillus subtilis (1x10^9 CFU/g)",
+          "price": "₹195/kg",
+          "unit": "per kg",
+          "use_for": "Corn Northern Leaf Blight, Potato Early Blight, Peach Bacterial Spot, Blueberry",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Bacillus amyloliquefaciens (1x10^9 CFU/g)",
+          "price": "₹210/kg",
+          "unit": "per kg",
+          "use_for": "Pepper Bell Healthy (preventive), Strawberry Leaf Scorch, Tomato Septoria Leaf Spot",
+          "dosage": "1.0-2.0 kg/ha",
+          "frequency": "Every 10 days"
+        },
+        {
+          "name": "Pseudomonas Fluorescens (1x10^8 CFU/g)",
+          "price": "₹88/kg",
+          "unit": "per kg",
+          "use_for": "Soil-borne diseases, Root protection, Tomato diseases (biocontrol)",
+          "dosage": "2.5 kg/ha",
+          "frequency": "Every 10 days"
+        },
+        {
+          "name": "Panchagavya (Liquid)",
+          "price": "₹50/litre",
+          "unit": "per litre",
+          "use_for": "General crop health booster, Disease resistance, Preventive for all crops",
+          "dosage": "30 ml/litre of water",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Jeevamrutha (Liquid)",
+          "price": "₹10/litre",
+          "unit": "per litre",
+          "use_for": "Soil health, Microbial enrichment, Disease suppression in all crops",
+          "dosage": "200 L/ha",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Vermicompost",
+          "price": "₹15/kg",
+          "unit": "per kg",
+          "use_for": "Soil health, General crop nutrition, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Phosphobacteria (PSB) 1x10^8 CFU/g",
+          "price": "₹72/kg",
+          "unit": "per kg",
+          "use_for": "Phosphorus solubilization, Soil health, All crops",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Soil application once"
+        },
+        {
+          "name": "Azospirillum 1x10^8 CFU/g",
+          "price": "₹72/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation, Soil health, Blueberry, Soybean, All crops",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Soil application once"
+        },
+        {
+          "name": "Rhizobium Culture 1x10^8 CFU/g",
+          "price": "₹68/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation for legumes (Soybean healthy), Gram, Tur",
+          "dosage": "200g/ha (seed treatment)",
+          "frequency": "Once (seed treatment)"
+        },
+        {
+          "name": "VAM (Mycorrhiza) Granules",
+          "price": "₹97/kg",
+          "unit": "per kg",
+          "use_for": "Root development, Nutrient uptake, All fruit & vegetable crops",
+          "dosage": "5 kg/ha",
+          "frequency": "Once at planting"
+        },
+        {
+          "name": "Lime Sulfur (Organic Grade)",
+          "price": "₹180/litre",
+          "unit": "per litre",
+          "use_for": "Cedar Apple Rust, Raspberry Healthy - dormant spray, Apple diseases",
+          "dosage": "5.0 L/ha",
+          "frequency": "Dormant season / Every 10 days"
+        },
+        {
+          "name": "Seaweed Extract Liquid",
+          "price": "₹250/litre",
+          "unit": "per litre",
+          "use_for": "Plant growth promoter, Disease resistance booster, All crops",
+          "dosage": "3.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Fish Amino Acid (FAA)",
+          "price": "₹160/litre",
+          "unit": "per litre",
+          "use_for": "Crop nutrition, Growth promotion, Disease resistance",
+          "dosage": "2.0-3.0 L/ha",
+          "frequency": "Every 14 days"
+        }
+      ]
+    },
+    {
+      "name": "Raitha Bandhu Organic Shop",
+      "city": "Ballari",
+      "state": "Karnataka",
+      "latitude": 15.1394,
+      "longitude": 76.9214,
+      "type": "organic",
+      "services": [
+        "Organic Fertilizers",
+        "Bio Pesticides"
+      ],
+      "products": [
+        {
+          "name": "Neem Cake",
+          "price": "₹25/kg",
+          "unit": "per kg",
+          "use_for": "Soil pest control, Nematodes, General soil health",
+          "dosage": "200-250 kg/ha",
+          "frequency": "Once per season (soil application)"
+        },
+        {
+          "name": "Neem Oil (Cold Pressed)",
+          "price": "₹220/litre",
+          "unit": "per litre",
+          "use_for": "Apple Scab, Cherry Healthy (preventive), Spider Mites, Strawberry, Tomato diseases",
+          "dosage": "3.0-5.0 L/ha",
+          "frequency": "Every 7-14 days"
+        },
+        {
+          "name": "Neem Seed Kernel Extract (NSKE 5%)",
+          "price": "₹145/litre",
+          "unit": "per litre",
+          "use_for": "Whitefly (TYLCV prevention), Aphids, Spider Mites",
+          "dosage": "5.0 L/ha",
+          "frequency": "Every 7 days"
+        },
+        {
+          "name": "Sulfur 80% WG (Wettable Sulfur)",
+          "price": "₹60/kg",
+          "unit": "per kg",
+          "use_for": "Apple Scab, Corn Common Rust, Squash Powdery Mildew, Cherry Powdery Mildew",
+          "dosage": "4.0-5.0 kg/ha",
+          "frequency": "Every 7 days"
+        },
+        {
+          "name": "Sulfur Dust 90%",
+          "price": "₹45/kg",
+          "unit": "per kg",
+          "use_for": "Corn Common Rust, Powdery Mildew (dust application)",
+          "dosage": "5.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Trichoderma Viride (1x10^8 CFU/g)",
+          "price": "₹110/kg",
+          "unit": "per kg",
+          "use_for": "Grape Esca, Potato Early Blight, Soil-borne Fungal diseases, Tomato Early Blight",
+          "dosage": "2.0-2.5 kg/ha",
+          "frequency": "Every 7-10 days / soil application"
+        },
+        {
+          "name": "Bacillus subtilis (1x10^9 CFU/g)",
+          "price": "₹195/kg",
+          "unit": "per kg",
+          "use_for": "Corn Northern Leaf Blight, Potato Early Blight, Peach Bacterial Spot, Blueberry",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Bacillus amyloliquefaciens (1x10^9 CFU/g)",
+          "price": "₹210/kg",
+          "unit": "per kg",
+          "use_for": "Pepper Bell Healthy (preventive), Strawberry Leaf Scorch, Tomato Septoria Leaf Spot",
+          "dosage": "1.0-2.0 kg/ha",
+          "frequency": "Every 10 days"
+        },
+        {
+          "name": "Pseudomonas Fluorescens (1x10^8 CFU/g)",
+          "price": "₹88/kg",
+          "unit": "per kg",
+          "use_for": "Soil-borne diseases, Root protection, Tomato diseases (biocontrol)",
+          "dosage": "2.5 kg/ha",
+          "frequency": "Every 10 days"
+        },
+        {
+          "name": "Panchagavya (Liquid)",
+          "price": "₹50/litre",
+          "unit": "per litre",
+          "use_for": "General crop health booster, Disease resistance, Preventive for all crops",
+          "dosage": "30 ml/litre of water",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Jeevamrutha (Liquid)",
+          "price": "₹10/litre",
+          "unit": "per litre",
+          "use_for": "Soil health, Microbial enrichment, Disease suppression in all crops",
+          "dosage": "200 L/ha",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Vermicompost",
+          "price": "₹15/kg",
+          "unit": "per kg",
+          "use_for": "Soil health, General crop nutrition, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Phosphobacteria (PSB) 1x10^8 CFU/g",
+          "price": "₹72/kg",
+          "unit": "per kg",
+          "use_for": "Phosphorus solubilization, Soil health, All crops",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Soil application once"
+        },
+        {
+          "name": "Azospirillum 1x10^8 CFU/g",
+          "price": "₹72/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation, Soil health, Blueberry, Soybean, All crops",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Soil application once"
+        },
+        {
+          "name": "Rhizobium Culture 1x10^8 CFU/g",
+          "price": "₹68/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation for legumes (Soybean healthy), Gram, Tur",
+          "dosage": "200g/ha (seed treatment)",
+          "frequency": "Once (seed treatment)"
+        },
+        {
+          "name": "Lime Sulfur (Organic Grade)",
+          "price": "₹180/litre",
+          "unit": "per litre",
+          "use_for": "Cedar Apple Rust, Raspberry Healthy - dormant spray, Apple diseases",
+          "dosage": "5.0 L/ha",
+          "frequency": "Dormant season / Every 10 days"
+        },
+        {
+          "name": "Seaweed Extract Liquid",
+          "price": "₹250/litre",
+          "unit": "per litre",
+          "use_for": "Plant growth promoter, Disease resistance booster, All crops",
+          "dosage": "3.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Humic Acid Granules 70%",
+          "price": "₹180/kg",
+          "unit": "per kg",
+          "use_for": "Soil conditioner, Root health, Disease suppression",
+          "dosage": "10 kg/ha",
+          "frequency": "Once per season"
+        }
+      ]
+    },
+    {
+      "name": "Navaneetha Organics",
+      "city": "Chitradurga",
+      "state": "Karnataka",
+      "latitude": 14.2251,
+      "longitude": 76.398,
+      "type": "organic",
+      "services": [
+        "Organic Fertilizers",
+        "Bio Pesticides",
+        "Organic Seeds"
+      ],
+      "products": [
+        {
+          "name": "Neem Cake",
+          "price": "₹25/kg",
+          "unit": "per kg",
+          "use_for": "Soil pest control, Nematodes, General soil health",
+          "dosage": "200-250 kg/ha",
+          "frequency": "Once per season (soil application)"
+        },
+        {
+          "name": "Neem Oil (Cold Pressed)",
+          "price": "₹220/litre",
+          "unit": "per litre",
+          "use_for": "Apple Scab, Cherry Healthy (preventive), Spider Mites, Strawberry, Tomato diseases",
+          "dosage": "3.0-5.0 L/ha",
+          "frequency": "Every 7-14 days"
+        },
+        {
+          "name": "Neem Seed Kernel Extract (NSKE 5%)",
+          "price": "₹145/litre",
+          "unit": "per litre",
+          "use_for": "Whitefly (TYLCV prevention), Aphids, Spider Mites",
+          "dosage": "5.0 L/ha",
+          "frequency": "Every 7 days"
+        },
+        {
+          "name": "Sulfur 80% WG (Wettable Sulfur)",
+          "price": "₹60/kg",
+          "unit": "per kg",
+          "use_for": "Apple Scab, Corn Common Rust, Squash Powdery Mildew, Cherry Powdery Mildew",
+          "dosage": "4.0-5.0 kg/ha",
+          "frequency": "Every 7 days"
+        },
+        {
+          "name": "Sulfur Dust 90%",
+          "price": "₹45/kg",
+          "unit": "per kg",
+          "use_for": "Corn Common Rust, Powdery Mildew (dust application)",
+          "dosage": "5.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Copper Octanoate (Organic Copper)",
+          "price": "₹580/litre",
+          "unit": "per litre",
+          "use_for": "Pepper Bacterial Spot, Strawberry Leaf Scorch, Tomato Bacterial Spot",
+          "dosage": "2.0-2.5 L/ha",
+          "frequency": "Every 5-10 days"
+        },
+        {
+          "name": "Trichoderma Viride (1x10^8 CFU/g)",
+          "price": "₹110/kg",
+          "unit": "per kg",
+          "use_for": "Grape Esca, Potato Early Blight, Soil-borne Fungal diseases, Tomato Early Blight",
+          "dosage": "2.0-2.5 kg/ha",
+          "frequency": "Every 7-10 days / soil application"
+        },
+        {
+          "name": "Bacillus subtilis (1x10^9 CFU/g)",
+          "price": "₹195/kg",
+          "unit": "per kg",
+          "use_for": "Corn Northern Leaf Blight, Potato Early Blight, Peach Bacterial Spot, Blueberry",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Bacillus amyloliquefaciens (1x10^9 CFU/g)",
+          "price": "₹210/kg",
+          "unit": "per kg",
+          "use_for": "Pepper Bell Healthy (preventive), Strawberry Leaf Scorch, Tomato Septoria Leaf Spot",
+          "dosage": "1.0-2.0 kg/ha",
+          "frequency": "Every 10 days"
+        },
+        {
+          "name": "Pseudomonas Fluorescens (1x10^8 CFU/g)",
+          "price": "₹88/kg",
+          "unit": "per kg",
+          "use_for": "Soil-borne diseases, Root protection, Tomato diseases (biocontrol)",
+          "dosage": "2.5 kg/ha",
+          "frequency": "Every 10 days"
+        },
+        {
+          "name": "Panchagavya (Liquid)",
+          "price": "₹50/litre",
+          "unit": "per litre",
+          "use_for": "General crop health booster, Disease resistance, Preventive for all crops",
+          "dosage": "30 ml/litre of water",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Jeevamrutha (Liquid)",
+          "price": "₹10/litre",
+          "unit": "per litre",
+          "use_for": "Soil health, Microbial enrichment, Disease suppression in all crops",
+          "dosage": "200 L/ha",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Phosphobacteria (PSB) 1x10^8 CFU/g",
+          "price": "₹72/kg",
+          "unit": "per kg",
+          "use_for": "Phosphorus solubilization, Soil health, All crops",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Soil application once"
+        },
+        {
+          "name": "Azospirillum 1x10^8 CFU/g",
+          "price": "₹72/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation, Soil health, Blueberry, Soybean, All crops",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Soil application once"
+        },
+        {
+          "name": "Rhizobium Culture 1x10^8 CFU/g",
+          "price": "₹68/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation for legumes (Soybean healthy), Gram, Tur",
+          "dosage": "200g/ha (seed treatment)",
+          "frequency": "Once (seed treatment)"
+        },
+        {
+          "name": "VAM (Mycorrhiza) Granules",
+          "price": "₹97/kg",
+          "unit": "per kg",
+          "use_for": "Root development, Nutrient uptake, All fruit & vegetable crops",
+          "dosage": "5 kg/ha",
+          "frequency": "Once at planting"
+        },
+        {
+          "name": "Lime Sulfur (Organic Grade)",
+          "price": "₹180/litre",
+          "unit": "per litre",
+          "use_for": "Cedar Apple Rust, Raspberry Healthy - dormant spray, Apple diseases",
+          "dosage": "5.0 L/ha",
+          "frequency": "Dormant season / Every 10 days"
+        },
+        {
+          "name": "Seaweed Extract Liquid",
+          "price": "₹250/litre",
+          "unit": "per litre",
+          "use_for": "Plant growth promoter, Disease resistance booster, All crops",
+          "dosage": "3.0 L/ha",
+          "frequency": "Every 14 days"
+        }
+      ]
+    },
+    {
+      "name": "Krishi Unnati Organic Hub",
+      "city": "Raichur",
+      "state": "Karnataka",
+      "latitude": 16.212,
+      "longitude": 77.3566,
+      "type": "organic",
+      "services": [
+        "Organic Fertilizers",
+        "Bio Pesticides"
+      ],
+      "products": [
+        {
+          "name": "Neem Cake",
+          "price": "₹25/kg",
+          "unit": "per kg",
+          "use_for": "Soil pest control, Nematodes, General soil health",
+          "dosage": "200-250 kg/ha",
+          "frequency": "Once per season (soil application)"
+        },
+        {
+          "name": "Neem Oil (Cold Pressed)",
+          "price": "₹220/litre",
+          "unit": "per litre",
+          "use_for": "Apple Scab, Cherry Healthy (preventive), Spider Mites, Strawberry, Tomato diseases",
+          "dosage": "3.0-5.0 L/ha",
+          "frequency": "Every 7-14 days"
+        },
+        {
+          "name": "Neem Seed Kernel Extract (NSKE 5%)",
+          "price": "₹145/litre",
+          "unit": "per litre",
+          "use_for": "Whitefly (TYLCV prevention), Aphids, Spider Mites",
+          "dosage": "5.0 L/ha",
+          "frequency": "Every 7 days"
+        },
+        {
+          "name": "Sulfur 80% WG (Wettable Sulfur)",
+          "price": "₹60/kg",
+          "unit": "per kg",
+          "use_for": "Apple Scab, Corn Common Rust, Squash Powdery Mildew, Cherry Powdery Mildew",
+          "dosage": "4.0-5.0 kg/ha",
+          "frequency": "Every 7 days"
+        },
+        {
+          "name": "Sulfur Dust 90%",
+          "price": "₹45/kg",
+          "unit": "per kg",
+          "use_for": "Corn Common Rust, Powdery Mildew (dust application)",
+          "dosage": "5.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Copper Octanoate (Organic Copper)",
+          "price": "₹580/litre",
+          "unit": "per litre",
+          "use_for": "Pepper Bacterial Spot, Strawberry Leaf Scorch, Tomato Bacterial Spot",
+          "dosage": "2.0-2.5 L/ha",
+          "frequency": "Every 5-10 days"
+        },
+        {
+          "name": "Trichoderma Viride (1x10^8 CFU/g)",
+          "price": "₹110/kg",
+          "unit": "per kg",
+          "use_for": "Grape Esca, Potato Early Blight, Soil-borne Fungal diseases, Tomato Early Blight",
+          "dosage": "2.0-2.5 kg/ha",
+          "frequency": "Every 7-10 days / soil application"
+        },
+        {
+          "name": "Bacillus subtilis (1x10^9 CFU/g)",
+          "price": "₹195/kg",
+          "unit": "per kg",
+          "use_for": "Corn Northern Leaf Blight, Potato Early Blight, Peach Bacterial Spot, Blueberry",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Bacillus amyloliquefaciens (1x10^9 CFU/g)",
+          "price": "₹210/kg",
+          "unit": "per kg",
+          "use_for": "Pepper Bell Healthy (preventive), Strawberry Leaf Scorch, Tomato Septoria Leaf Spot",
+          "dosage": "1.0-2.0 kg/ha",
+          "frequency": "Every 10 days"
+        },
+        {
+          "name": "Panchagavya (Liquid)",
+          "price": "₹50/litre",
+          "unit": "per litre",
+          "use_for": "General crop health booster, Disease resistance, Preventive for all crops",
+          "dosage": "30 ml/litre of water",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Jeevamrutha (Liquid)",
+          "price": "₹10/litre",
+          "unit": "per litre",
+          "use_for": "Soil health, Microbial enrichment, Disease suppression in all crops",
+          "dosage": "200 L/ha",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Vermicompost",
+          "price": "₹15/kg",
+          "unit": "per kg",
+          "use_for": "Soil health, General crop nutrition, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Phosphobacteria (PSB) 1x10^8 CFU/g",
+          "price": "₹72/kg",
+          "unit": "per kg",
+          "use_for": "Phosphorus solubilization, Soil health, All crops",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Soil application once"
+        },
+        {
+          "name": "Azospirillum 1x10^8 CFU/g",
+          "price": "₹72/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation, Soil health, Blueberry, Soybean, All crops",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Soil application once"
+        },
+        {
+          "name": "Rhizobium Culture 1x10^8 CFU/g",
+          "price": "₹68/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation for legumes (Soybean healthy), Gram, Tur",
+          "dosage": "200g/ha (seed treatment)",
+          "frequency": "Once (seed treatment)"
+        },
+        {
+          "name": "VAM (Mycorrhiza) Granules",
+          "price": "₹97/kg",
+          "unit": "per kg",
+          "use_for": "Root development, Nutrient uptake, All fruit & vegetable crops",
+          "dosage": "5 kg/ha",
+          "frequency": "Once at planting"
+        },
+        {
+          "name": "Lime Sulfur (Organic Grade)",
+          "price": "₹180/litre",
+          "unit": "per litre",
+          "use_for": "Cedar Apple Rust, Raspberry Healthy - dormant spray, Apple diseases",
+          "dosage": "5.0 L/ha",
+          "frequency": "Dormant season / Every 10 days"
+        },
+        {
+          "name": "Seaweed Extract Liquid",
+          "price": "₹250/litre",
+          "unit": "per litre",
+          "use_for": "Plant growth promoter, Disease resistance booster, All crops",
+          "dosage": "3.0 L/ha",
+          "frequency": "Every 14 days"
+        }
+      ]
+    },
+    {
+      "name": "Jaivik Kheti Organic Store",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "latitude": 13.0827,
+      "longitude": 80.2707,
+      "type": "organic",
+      "services": [
+        "Organic Fertilizers",
+        "Bio Pesticides",
+        "Organic Seeds"
+      ],
+      "products": [
+        {
+          "name": "Neem Cake",
+          "price": "₹25/kg",
+          "unit": "per kg",
+          "use_for": "Soil pest control, Nematodes, General soil health",
+          "dosage": "200-250 kg/ha",
+          "frequency": "Once per season (soil application)"
+        },
+        {
+          "name": "Neem Oil (Cold Pressed)",
+          "price": "₹220/litre",
+          "unit": "per litre",
+          "use_for": "Apple Scab, Cherry Healthy (preventive), Spider Mites, Strawberry, Tomato diseases",
+          "dosage": "3.0-5.0 L/ha",
+          "frequency": "Every 7-14 days"
+        },
+        {
+          "name": "Neem Seed Kernel Extract (NSKE 5%)",
+          "price": "₹145/litre",
+          "unit": "per litre",
+          "use_for": "Whitefly (TYLCV prevention), Aphids, Spider Mites",
+          "dosage": "5.0 L/ha",
+          "frequency": "Every 7 days"
+        },
+        {
+          "name": "Sulfur Dust 90%",
+          "price": "₹45/kg",
+          "unit": "per kg",
+          "use_for": "Corn Common Rust, Powdery Mildew (dust application)",
+          "dosage": "5.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Copper Octanoate (Organic Copper)",
+          "price": "₹580/litre",
+          "unit": "per litre",
+          "use_for": "Pepper Bacterial Spot, Strawberry Leaf Scorch, Tomato Bacterial Spot",
+          "dosage": "2.0-2.5 L/ha",
+          "frequency": "Every 5-10 days"
+        },
+        {
+          "name": "Trichoderma Viride (1x10^8 CFU/g)",
+          "price": "₹110/kg",
+          "unit": "per kg",
+          "use_for": "Grape Esca, Potato Early Blight, Soil-borne Fungal diseases, Tomato Early Blight",
+          "dosage": "2.0-2.5 kg/ha",
+          "frequency": "Every 7-10 days / soil application"
+        },
+        {
+          "name": "Bacillus subtilis (1x10^9 CFU/g)",
+          "price": "₹195/kg",
+          "unit": "per kg",
+          "use_for": "Corn Northern Leaf Blight, Potato Early Blight, Peach Bacterial Spot, Blueberry",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Bacillus amyloliquefaciens (1x10^9 CFU/g)",
+          "price": "₹210/kg",
+          "unit": "per kg",
+          "use_for": "Pepper Bell Healthy (preventive), Strawberry Leaf Scorch, Tomato Septoria Leaf Spot",
+          "dosage": "1.0-2.0 kg/ha",
+          "frequency": "Every 10 days"
+        },
+        {
+          "name": "Pseudomonas Fluorescens (1x10^8 CFU/g)",
+          "price": "₹88/kg",
+          "unit": "per kg",
+          "use_for": "Soil-borne diseases, Root protection, Tomato diseases (biocontrol)",
+          "dosage": "2.5 kg/ha",
+          "frequency": "Every 10 days"
+        },
+        {
+          "name": "Panchagavya (Liquid)",
+          "price": "₹50/litre",
+          "unit": "per litre",
+          "use_for": "General crop health booster, Disease resistance, Preventive for all crops",
+          "dosage": "30 ml/litre of water",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Jeevamrutha (Liquid)",
+          "price": "₹10/litre",
+          "unit": "per litre",
+          "use_for": "Soil health, Microbial enrichment, Disease suppression in all crops",
+          "dosage": "200 L/ha",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Vermicompost",
+          "price": "₹15/kg",
+          "unit": "per kg",
+          "use_for": "Soil health, General crop nutrition, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Phosphobacteria (PSB) 1x10^8 CFU/g",
+          "price": "₹72/kg",
+          "unit": "per kg",
+          "use_for": "Phosphorus solubilization, Soil health, All crops",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Soil application once"
+        },
+        {
+          "name": "Azospirillum 1x10^8 CFU/g",
+          "price": "₹72/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation, Soil health, Blueberry, Soybean, All crops",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Soil application once"
+        },
+        {
+          "name": "Rhizobium Culture 1x10^8 CFU/g",
+          "price": "₹68/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation for legumes (Soybean healthy), Gram, Tur",
+          "dosage": "200g/ha (seed treatment)",
+          "frequency": "Once (seed treatment)"
+        },
+        {
+          "name": "VAM (Mycorrhiza) Granules",
+          "price": "₹97/kg",
+          "unit": "per kg",
+          "use_for": "Root development, Nutrient uptake, All fruit & vegetable crops",
+          "dosage": "5 kg/ha",
+          "frequency": "Once at planting"
+        },
+        {
+          "name": "Lime Sulfur (Organic Grade)",
+          "price": "₹180/litre",
+          "unit": "per litre",
+          "use_for": "Cedar Apple Rust, Raspberry Healthy - dormant spray, Apple diseases",
+          "dosage": "5.0 L/ha",
+          "frequency": "Dormant season / Every 10 days"
+        },
+        {
+          "name": "Seaweed Extract Liquid",
+          "price": "₹250/litre",
+          "unit": "per litre",
+          "use_for": "Plant growth promoter, Disease resistance booster, All crops",
+          "dosage": "3.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Fish Amino Acid (FAA)",
+          "price": "₹160/litre",
+          "unit": "per litre",
+          "use_for": "Crop nutrition, Growth promotion, Disease resistance",
+          "dosage": "2.0-3.0 L/ha",
+          "frequency": "Every 14 days"
+        }
+      ]
+    },
+    {
+      "name": "Coimbatore Organic Agri Hub",
+      "city": "Coimbatore",
+      "state": "Tamil Nadu",
+      "latitude": 11.0168,
+      "longitude": 76.9558,
+      "type": "organic",
+      "services": [
+        "Organic Fertilizers",
+        "Bio Pesticides"
+      ],
+      "products": [
+        {
+          "name": "Neem Cake",
+          "price": "₹25/kg",
+          "unit": "per kg",
+          "use_for": "Soil pest control, Nematodes, General soil health",
+          "dosage": "200-250 kg/ha",
+          "frequency": "Once per season (soil application)"
+        },
+        {
+          "name": "Neem Oil (Cold Pressed)",
+          "price": "₹220/litre",
+          "unit": "per litre",
+          "use_for": "Apple Scab, Cherry Healthy (preventive), Spider Mites, Strawberry, Tomato diseases",
+          "dosage": "3.0-5.0 L/ha",
+          "frequency": "Every 7-14 days"
+        },
+        {
+          "name": "Neem Seed Kernel Extract (NSKE 5%)",
+          "price": "₹145/litre",
+          "unit": "per litre",
+          "use_for": "Whitefly (TYLCV prevention), Aphids, Spider Mites",
+          "dosage": "5.0 L/ha",
+          "frequency": "Every 7 days"
+        },
+        {
+          "name": "Sulfur Dust 90%",
+          "price": "₹45/kg",
+          "unit": "per kg",
+          "use_for": "Corn Common Rust, Powdery Mildew (dust application)",
+          "dosage": "5.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Copper Octanoate (Organic Copper)",
+          "price": "₹580/litre",
+          "unit": "per litre",
+          "use_for": "Pepper Bacterial Spot, Strawberry Leaf Scorch, Tomato Bacterial Spot",
+          "dosage": "2.0-2.5 L/ha",
+          "frequency": "Every 5-10 days"
+        },
+        {
+          "name": "Trichoderma Viride (1x10^8 CFU/g)",
+          "price": "₹110/kg",
+          "unit": "per kg",
+          "use_for": "Grape Esca, Potato Early Blight, Soil-borne Fungal diseases, Tomato Early Blight",
+          "dosage": "2.0-2.5 kg/ha",
+          "frequency": "Every 7-10 days / soil application"
+        },
+        {
+          "name": "Bacillus subtilis (1x10^9 CFU/g)",
+          "price": "₹195/kg",
+          "unit": "per kg",
+          "use_for": "Corn Northern Leaf Blight, Potato Early Blight, Peach Bacterial Spot, Blueberry",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Bacillus amyloliquefaciens (1x10^9 CFU/g)",
+          "price": "₹210/kg",
+          "unit": "per kg",
+          "use_for": "Pepper Bell Healthy (preventive), Strawberry Leaf Scorch, Tomato Septoria Leaf Spot",
+          "dosage": "1.0-2.0 kg/ha",
+          "frequency": "Every 10 days"
+        },
+        {
+          "name": "Pseudomonas Fluorescens (1x10^8 CFU/g)",
+          "price": "₹88/kg",
+          "unit": "per kg",
+          "use_for": "Soil-borne diseases, Root protection, Tomato diseases (biocontrol)",
+          "dosage": "2.5 kg/ha",
+          "frequency": "Every 10 days"
+        },
+        {
+          "name": "Metarhizium anisopliae 1.5% WP",
+          "price": "₹140/kg",
+          "unit": "per kg",
+          "use_for": "Soil insects, Whitefly, Root pests",
+          "dosage": "2.5 kg/ha",
+          "frequency": "Every 10-14 days"
+        },
+        {
+          "name": "Panchagavya (Liquid)",
+          "price": "₹50/litre",
+          "unit": "per litre",
+          "use_for": "General crop health booster, Disease resistance, Preventive for all crops",
+          "dosage": "30 ml/litre of water",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Jeevamrutha (Liquid)",
+          "price": "₹10/litre",
+          "unit": "per litre",
+          "use_for": "Soil health, Microbial enrichment, Disease suppression in all crops",
+          "dosage": "200 L/ha",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Vermicompost",
+          "price": "₹15/kg",
+          "unit": "per kg",
+          "use_for": "Soil health, General crop nutrition, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Phosphobacteria (PSB) 1x10^8 CFU/g",
+          "price": "₹72/kg",
+          "unit": "per kg",
+          "use_for": "Phosphorus solubilization, Soil health, All crops",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Soil application once"
+        },
+        {
+          "name": "Azospirillum 1x10^8 CFU/g",
+          "price": "₹72/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation, Soil health, Blueberry, Soybean, All crops",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Soil application once"
+        },
+        {
+          "name": "Rhizobium Culture 1x10^8 CFU/g",
+          "price": "₹68/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation for legumes (Soybean healthy), Gram, Tur",
+          "dosage": "200g/ha (seed treatment)",
+          "frequency": "Once (seed treatment)"
+        },
+        {
+          "name": "VAM (Mycorrhiza) Granules",
+          "price": "₹97/kg",
+          "unit": "per kg",
+          "use_for": "Root development, Nutrient uptake, All fruit & vegetable crops",
+          "dosage": "5 kg/ha",
+          "frequency": "Once at planting"
+        },
+        {
+          "name": "Lime Sulfur (Organic Grade)",
+          "price": "₹180/litre",
+          "unit": "per litre",
+          "use_for": "Cedar Apple Rust, Raspberry Healthy - dormant spray, Apple diseases",
+          "dosage": "5.0 L/ha",
+          "frequency": "Dormant season / Every 10 days"
+        },
+        {
+          "name": "Seaweed Extract Liquid",
+          "price": "₹250/litre",
+          "unit": "per litre",
+          "use_for": "Plant growth promoter, Disease resistance booster, All crops",
+          "dosage": "3.0 L/ha",
+          "frequency": "Every 14 days"
+        }
+      ]
+    },
+    {
+      "name": "Green Valley Organics",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "latitude": 17.385,
+      "longitude": 78.4867,
+      "type": "organic",
+      "services": [
+        "Organic Fertilizers",
+        "Bio Pesticides",
+        "Soil Testing"
+      ],
+      "products": [
+        {
+          "name": "Neem Cake",
+          "price": "₹25/kg",
+          "unit": "per kg",
+          "use_for": "Soil pest control, Nematodes, General soil health",
+          "dosage": "200-250 kg/ha",
+          "frequency": "Once per season (soil application)"
+        },
+        {
+          "name": "Neem Oil (Cold Pressed)",
+          "price": "₹220/litre",
+          "unit": "per litre",
+          "use_for": "Apple Scab, Cherry Healthy (preventive), Spider Mites, Strawberry, Tomato diseases",
+          "dosage": "3.0-5.0 L/ha",
+          "frequency": "Every 7-14 days"
+        },
+        {
+          "name": "Neem Seed Kernel Extract (NSKE 5%)",
+          "price": "₹145/litre",
+          "unit": "per litre",
+          "use_for": "Whitefly (TYLCV prevention), Aphids, Spider Mites",
+          "dosage": "5.0 L/ha",
+          "frequency": "Every 7 days"
+        },
+        {
+          "name": "Sulfur Dust 90%",
+          "price": "₹45/kg",
+          "unit": "per kg",
+          "use_for": "Corn Common Rust, Powdery Mildew (dust application)",
+          "dosage": "5.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Copper Octanoate (Organic Copper)",
+          "price": "₹580/litre",
+          "unit": "per litre",
+          "use_for": "Pepper Bacterial Spot, Strawberry Leaf Scorch, Tomato Bacterial Spot",
+          "dosage": "2.0-2.5 L/ha",
+          "frequency": "Every 5-10 days"
+        },
+        {
+          "name": "Trichoderma Viride (1x10^8 CFU/g)",
+          "price": "₹110/kg",
+          "unit": "per kg",
+          "use_for": "Grape Esca, Potato Early Blight, Soil-borne Fungal diseases, Tomato Early Blight",
+          "dosage": "2.0-2.5 kg/ha",
+          "frequency": "Every 7-10 days / soil application"
+        },
+        {
+          "name": "Bacillus subtilis (1x10^9 CFU/g)",
+          "price": "₹195/kg",
+          "unit": "per kg",
+          "use_for": "Corn Northern Leaf Blight, Potato Early Blight, Peach Bacterial Spot, Blueberry",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Bacillus amyloliquefaciens (1x10^9 CFU/g)",
+          "price": "₹210/kg",
+          "unit": "per kg",
+          "use_for": "Pepper Bell Healthy (preventive), Strawberry Leaf Scorch, Tomato Septoria Leaf Spot",
+          "dosage": "1.0-2.0 kg/ha",
+          "frequency": "Every 10 days"
+        },
+        {
+          "name": "Pseudomonas Fluorescens (1x10^8 CFU/g)",
+          "price": "₹88/kg",
+          "unit": "per kg",
+          "use_for": "Soil-borne diseases, Root protection, Tomato diseases (biocontrol)",
+          "dosage": "2.5 kg/ha",
+          "frequency": "Every 10 days"
+        },
+        {
+          "name": "Panchagavya (Liquid)",
+          "price": "₹50/litre",
+          "unit": "per litre",
+          "use_for": "General crop health booster, Disease resistance, Preventive for all crops",
+          "dosage": "30 ml/litre of water",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Jeevamrutha (Liquid)",
+          "price": "₹10/litre",
+          "unit": "per litre",
+          "use_for": "Soil health, Microbial enrichment, Disease suppression in all crops",
+          "dosage": "200 L/ha",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Vermicompost",
+          "price": "₹15/kg",
+          "unit": "per kg",
+          "use_for": "Soil health, General crop nutrition, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Phosphobacteria (PSB) 1x10^8 CFU/g",
+          "price": "₹72/kg",
+          "unit": "per kg",
+          "use_for": "Phosphorus solubilization, Soil health, All crops",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Soil application once"
+        },
+        {
+          "name": "Azospirillum 1x10^8 CFU/g",
+          "price": "₹72/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation, Soil health, Blueberry, Soybean, All crops",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Soil application once"
+        },
+        {
+          "name": "Rhizobium Culture 1x10^8 CFU/g",
+          "price": "₹68/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation for legumes (Soybean healthy), Gram, Tur",
+          "dosage": "200g/ha (seed treatment)",
+          "frequency": "Once (seed treatment)"
+        },
+        {
+          "name": "VAM (Mycorrhiza) Granules",
+          "price": "₹97/kg",
+          "unit": "per kg",
+          "use_for": "Root development, Nutrient uptake, All fruit & vegetable crops",
+          "dosage": "5 kg/ha",
+          "frequency": "Once at planting"
+        },
+        {
+          "name": "Lime Sulfur (Organic Grade)",
+          "price": "₹180/litre",
+          "unit": "per litre",
+          "use_for": "Cedar Apple Rust, Raspberry Healthy - dormant spray, Apple diseases",
+          "dosage": "5.0 L/ha",
+          "frequency": "Dormant season / Every 10 days"
+        },
+        {
+          "name": "Seaweed Extract Liquid",
+          "price": "₹250/litre",
+          "unit": "per litre",
+          "use_for": "Plant growth promoter, Disease resistance booster, All crops",
+          "dosage": "3.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Fish Amino Acid (FAA)",
+          "price": "₹160/litre",
+          "unit": "per litre",
+          "use_for": "Crop nutrition, Growth promotion, Disease resistance",
+          "dosage": "2.0-3.0 L/ha",
+          "frequency": "Every 14 days"
+        }
+      ]
+    },
+    {
+      "name": "Prakriti Organic Center",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "latitude": 18.5204,
+      "longitude": 73.8567,
+      "type": "organic",
+      "services": [
+        "Organic Fertilizers",
+        "Bio Pesticides",
+        "Organic Seeds"
+      ],
+      "products": [
+        {
+          "name": "Neem Cake",
+          "price": "₹25/kg",
+          "unit": "per kg",
+          "use_for": "Soil pest control, Nematodes, General soil health",
+          "dosage": "200-250 kg/ha",
+          "frequency": "Once per season (soil application)"
+        },
+        {
+          "name": "Neem Oil (Cold Pressed)",
+          "price": "₹220/litre",
+          "unit": "per litre",
+          "use_for": "Apple Scab, Cherry Healthy (preventive), Spider Mites, Strawberry, Tomato diseases",
+          "dosage": "3.0-5.0 L/ha",
+          "frequency": "Every 7-14 days"
+        },
+        {
+          "name": "Neem Seed Kernel Extract (NSKE 5%)",
+          "price": "₹145/litre",
+          "unit": "per litre",
+          "use_for": "Whitefly (TYLCV prevention), Aphids, Spider Mites",
+          "dosage": "5.0 L/ha",
+          "frequency": "Every 7 days"
+        },
+        {
+          "name": "Sulfur Dust 90%",
+          "price": "₹45/kg",
+          "unit": "per kg",
+          "use_for": "Corn Common Rust, Powdery Mildew (dust application)",
+          "dosage": "5.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Copper Octanoate (Organic Copper)",
+          "price": "₹580/litre",
+          "unit": "per litre",
+          "use_for": "Pepper Bacterial Spot, Strawberry Leaf Scorch, Tomato Bacterial Spot",
+          "dosage": "2.0-2.5 L/ha",
+          "frequency": "Every 5-10 days"
+        },
+        {
+          "name": "Trichoderma Viride (1x10^8 CFU/g)",
+          "price": "₹110/kg",
+          "unit": "per kg",
+          "use_for": "Grape Esca, Potato Early Blight, Soil-borne Fungal diseases, Tomato Early Blight",
+          "dosage": "2.0-2.5 kg/ha",
+          "frequency": "Every 7-10 days / soil application"
+        },
+        {
+          "name": "Bacillus subtilis (1x10^9 CFU/g)",
+          "price": "₹195/kg",
+          "unit": "per kg",
+          "use_for": "Corn Northern Leaf Blight, Potato Early Blight, Peach Bacterial Spot, Blueberry",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Bacillus amyloliquefaciens (1x10^9 CFU/g)",
+          "price": "₹210/kg",
+          "unit": "per kg",
+          "use_for": "Pepper Bell Healthy (preventive), Strawberry Leaf Scorch, Tomato Septoria Leaf Spot",
+          "dosage": "1.0-2.0 kg/ha",
+          "frequency": "Every 10 days"
+        },
+        {
+          "name": "Pseudomonas Fluorescens (1x10^8 CFU/g)",
+          "price": "₹88/kg",
+          "unit": "per kg",
+          "use_for": "Soil-borne diseases, Root protection, Tomato diseases (biocontrol)",
+          "dosage": "2.5 kg/ha",
+          "frequency": "Every 10 days"
+        },
+        {
+          "name": "Panchagavya (Liquid)",
+          "price": "₹50/litre",
+          "unit": "per litre",
+          "use_for": "General crop health booster, Disease resistance, Preventive for all crops",
+          "dosage": "30 ml/litre of water",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Jeevamrutha (Liquid)",
+          "price": "₹10/litre",
+          "unit": "per litre",
+          "use_for": "Soil health, Microbial enrichment, Disease suppression in all crops",
+          "dosage": "200 L/ha",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Vermicompost",
+          "price": "₹15/kg",
+          "unit": "per kg",
+          "use_for": "Soil health, General crop nutrition, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Phosphobacteria (PSB) 1x10^8 CFU/g",
+          "price": "₹72/kg",
+          "unit": "per kg",
+          "use_for": "Phosphorus solubilization, Soil health, All crops",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Soil application once"
+        },
+        {
+          "name": "Azospirillum 1x10^8 CFU/g",
+          "price": "₹72/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation, Soil health, Blueberry, Soybean, All crops",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Soil application once"
+        },
+        {
+          "name": "Rhizobium Culture 1x10^8 CFU/g",
+          "price": "₹68/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation for legumes (Soybean healthy), Gram, Tur",
+          "dosage": "200g/ha (seed treatment)",
+          "frequency": "Once (seed treatment)"
+        },
+        {
+          "name": "VAM (Mycorrhiza) Granules",
+          "price": "₹97/kg",
+          "unit": "per kg",
+          "use_for": "Root development, Nutrient uptake, All fruit & vegetable crops",
+          "dosage": "5 kg/ha",
+          "frequency": "Once at planting"
+        },
+        {
+          "name": "Lime Sulfur (Organic Grade)",
+          "price": "₹180/litre",
+          "unit": "per litre",
+          "use_for": "Cedar Apple Rust, Raspberry Healthy - dormant spray, Apple diseases",
+          "dosage": "5.0 L/ha",
+          "frequency": "Dormant season / Every 10 days"
+        },
+        {
+          "name": "Seaweed Extract Liquid",
+          "price": "₹250/litre",
+          "unit": "per litre",
+          "use_for": "Plant growth promoter, Disease resistance booster, All crops",
+          "dosage": "3.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Fish Amino Acid (FAA)",
+          "price": "₹160/litre",
+          "unit": "per litre",
+          "use_for": "Crop nutrition, Growth promotion, Disease resistance",
+          "dosage": "2.0-3.0 L/ha",
+          "frequency": "Every 14 days"
+        }
+      ]
+    },
+    {
+      "name": "Mumbai Organic Farm Store",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "latitude": 19.076,
+      "longitude": 72.8777,
+      "type": "organic",
+      "services": [
+        "Organic Fertilizers",
+        "Bio Pesticides"
+      ],
+      "products": [
+        {
+          "name": "Neem Cake",
+          "price": "₹25/kg",
+          "unit": "per kg",
+          "use_for": "Soil pest control, Nematodes, General soil health",
+          "dosage": "200-250 kg/ha",
+          "frequency": "Once per season (soil application)"
+        },
+        {
+          "name": "Neem Oil (Cold Pressed)",
+          "price": "₹220/litre",
+          "unit": "per litre",
+          "use_for": "Apple Scab, Cherry Healthy (preventive), Spider Mites, Strawberry, Tomato diseases",
+          "dosage": "3.0-5.0 L/ha",
+          "frequency": "Every 7-14 days"
+        },
+        {
+          "name": "Neem Seed Kernel Extract (NSKE 5%)",
+          "price": "₹145/litre",
+          "unit": "per litre",
+          "use_for": "Whitefly (TYLCV prevention), Aphids, Spider Mites",
+          "dosage": "5.0 L/ha",
+          "frequency": "Every 7 days"
+        },
+        {
+          "name": "Sulfur Dust 90%",
+          "price": "₹45/kg",
+          "unit": "per kg",
+          "use_for": "Corn Common Rust, Powdery Mildew (dust application)",
+          "dosage": "5.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Copper Octanoate (Organic Copper)",
+          "price": "₹580/litre",
+          "unit": "per litre",
+          "use_for": "Pepper Bacterial Spot, Strawberry Leaf Scorch, Tomato Bacterial Spot",
+          "dosage": "2.0-2.5 L/ha",
+          "frequency": "Every 5-10 days"
+        },
+        {
+          "name": "Trichoderma Viride (1x10^8 CFU/g)",
+          "price": "₹110/kg",
+          "unit": "per kg",
+          "use_for": "Grape Esca, Potato Early Blight, Soil-borne Fungal diseases, Tomato Early Blight",
+          "dosage": "2.0-2.5 kg/ha",
+          "frequency": "Every 7-10 days / soil application"
+        },
+        {
+          "name": "Bacillus subtilis (1x10^9 CFU/g)",
+          "price": "₹195/kg",
+          "unit": "per kg",
+          "use_for": "Corn Northern Leaf Blight, Potato Early Blight, Peach Bacterial Spot, Blueberry",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Bacillus amyloliquefaciens (1x10^9 CFU/g)",
+          "price": "₹210/kg",
+          "unit": "per kg",
+          "use_for": "Pepper Bell Healthy (preventive), Strawberry Leaf Scorch, Tomato Septoria Leaf Spot",
+          "dosage": "1.0-2.0 kg/ha",
+          "frequency": "Every 10 days"
+        },
+        {
+          "name": "Pseudomonas Fluorescens (1x10^8 CFU/g)",
+          "price": "₹88/kg",
+          "unit": "per kg",
+          "use_for": "Soil-borne diseases, Root protection, Tomato diseases (biocontrol)",
+          "dosage": "2.5 kg/ha",
+          "frequency": "Every 10 days"
+        },
+        {
+          "name": "Panchagavya (Liquid)",
+          "price": "₹50/litre",
+          "unit": "per litre",
+          "use_for": "General crop health booster, Disease resistance, Preventive for all crops",
+          "dosage": "30 ml/litre of water",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Jeevamrutha (Liquid)",
+          "price": "₹10/litre",
+          "unit": "per litre",
+          "use_for": "Soil health, Microbial enrichment, Disease suppression in all crops",
+          "dosage": "200 L/ha",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Vermicompost",
+          "price": "₹15/kg",
+          "unit": "per kg",
+          "use_for": "Soil health, General crop nutrition, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Horticultural Oil (Mineral Oil 97%)",
+          "price": "₹380/litre",
+          "unit": "per litre",
+          "use_for": "Cherry Healthy, Peach Healthy, Raspberry - dormant season spray",
+          "dosage": "8.0-10.0 L/ha",
+          "frequency": "Dormant season once"
+        },
+        {
+          "name": "Phosphobacteria (PSB) 1x10^8 CFU/g",
+          "price": "₹72/kg",
+          "unit": "per kg",
+          "use_for": "Phosphorus solubilization, Soil health, All crops",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Soil application once"
+        },
+        {
+          "name": "Azospirillum 1x10^8 CFU/g",
+          "price": "₹72/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation, Soil health, Blueberry, Soybean, All crops",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Soil application once"
+        },
+        {
+          "name": "Rhizobium Culture 1x10^8 CFU/g",
+          "price": "₹68/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation for legumes (Soybean healthy), Gram, Tur",
+          "dosage": "200g/ha (seed treatment)",
+          "frequency": "Once (seed treatment)"
+        },
+        {
+          "name": "VAM (Mycorrhiza) Granules",
+          "price": "₹97/kg",
+          "unit": "per kg",
+          "use_for": "Root development, Nutrient uptake, All fruit & vegetable crops",
+          "dosage": "5 kg/ha",
+          "frequency": "Once at planting"
+        },
+        {
+          "name": "Lime Sulfur (Organic Grade)",
+          "price": "₹180/litre",
+          "unit": "per litre",
+          "use_for": "Cedar Apple Rust, Raspberry Healthy - dormant spray, Apple diseases",
+          "dosage": "5.0 L/ha",
+          "frequency": "Dormant season / Every 10 days"
+        },
+        {
+          "name": "Seaweed Extract Liquid",
+          "price": "₹250/litre",
+          "unit": "per litre",
+          "use_for": "Plant growth promoter, Disease resistance booster, All crops",
+          "dosage": "3.0 L/ha",
+          "frequency": "Every 14 days"
+        }
+      ]
+    },
+    {
+      "name": "Jaipur Organic Agri Store",
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "latitude": 26.9124,
+      "longitude": 75.7873,
+      "type": "organic",
+      "services": [
+        "Organic Fertilizers",
+        "Bio Pesticides",
+        "Organic Seeds"
+      ],
+      "products": [
+        {
+          "name": "Neem Cake",
+          "price": "₹25/kg",
+          "unit": "per kg",
+          "use_for": "Soil pest control, Nematodes, General soil health",
+          "dosage": "200-250 kg/ha",
+          "frequency": "Once per season (soil application)"
+        },
+        {
+          "name": "Neem Oil (Cold Pressed)",
+          "price": "₹220/litre",
+          "unit": "per litre",
+          "use_for": "Apple Scab, Cherry Healthy (preventive), Spider Mites, Strawberry, Tomato diseases",
+          "dosage": "3.0-5.0 L/ha",
+          "frequency": "Every 7-14 days"
+        },
+        {
+          "name": "Neem Seed Kernel Extract (NSKE 5%)",
+          "price": "₹145/litre",
+          "unit": "per litre",
+          "use_for": "Whitefly (TYLCV prevention), Aphids, Spider Mites",
+          "dosage": "5.0 L/ha",
+          "frequency": "Every 7 days"
+        },
+        {
+          "name": "Sulfur 80% WG (Wettable Sulfur)",
+          "price": "₹60/kg",
+          "unit": "per kg",
+          "use_for": "Apple Scab, Corn Common Rust, Squash Powdery Mildew, Cherry Powdery Mildew",
+          "dosage": "4.0-5.0 kg/ha",
+          "frequency": "Every 7 days"
+        },
+        {
+          "name": "Sulfur Dust 90%",
+          "price": "₹45/kg",
+          "unit": "per kg",
+          "use_for": "Corn Common Rust, Powdery Mildew (dust application)",
+          "dosage": "5.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Copper Octanoate (Organic Copper)",
+          "price": "₹580/litre",
+          "unit": "per litre",
+          "use_for": "Pepper Bacterial Spot, Strawberry Leaf Scorch, Tomato Bacterial Spot",
+          "dosage": "2.0-2.5 L/ha",
+          "frequency": "Every 5-10 days"
+        },
+        {
+          "name": "Trichoderma Viride (1x10^8 CFU/g)",
+          "price": "₹110/kg",
+          "unit": "per kg",
+          "use_for": "Grape Esca, Potato Early Blight, Soil-borne Fungal diseases, Tomato Early Blight",
+          "dosage": "2.0-2.5 kg/ha",
+          "frequency": "Every 7-10 days / soil application"
+        },
+        {
+          "name": "Bacillus subtilis (1x10^9 CFU/g)",
+          "price": "₹195/kg",
+          "unit": "per kg",
+          "use_for": "Corn Northern Leaf Blight, Potato Early Blight, Peach Bacterial Spot, Blueberry",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Bacillus amyloliquefaciens (1x10^9 CFU/g)",
+          "price": "₹210/kg",
+          "unit": "per kg",
+          "use_for": "Pepper Bell Healthy (preventive), Strawberry Leaf Scorch, Tomato Septoria Leaf Spot",
+          "dosage": "1.0-2.0 kg/ha",
+          "frequency": "Every 10 days"
+        },
+        {
+          "name": "Panchagavya (Liquid)",
+          "price": "₹50/litre",
+          "unit": "per litre",
+          "use_for": "General crop health booster, Disease resistance, Preventive for all crops",
+          "dosage": "30 ml/litre of water",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Jeevamrutha (Liquid)",
+          "price": "₹10/litre",
+          "unit": "per litre",
+          "use_for": "Soil health, Microbial enrichment, Disease suppression in all crops",
+          "dosage": "200 L/ha",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Vermicompost",
+          "price": "₹15/kg",
+          "unit": "per kg",
+          "use_for": "Soil health, General crop nutrition, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Phosphobacteria (PSB) 1x10^8 CFU/g",
+          "price": "₹72/kg",
+          "unit": "per kg",
+          "use_for": "Phosphorus solubilization, Soil health, All crops",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Soil application once"
+        },
+        {
+          "name": "Azospirillum 1x10^8 CFU/g",
+          "price": "₹72/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation, Soil health, Blueberry, Soybean, All crops",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Soil application once"
+        },
+        {
+          "name": "Rhizobium Culture 1x10^8 CFU/g",
+          "price": "₹68/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation for legumes (Soybean healthy), Gram, Tur",
+          "dosage": "200g/ha (seed treatment)",
+          "frequency": "Once (seed treatment)"
+        },
+        {
+          "name": "VAM (Mycorrhiza) Granules",
+          "price": "₹97/kg",
+          "unit": "per kg",
+          "use_for": "Root development, Nutrient uptake, All fruit & vegetable crops",
+          "dosage": "5 kg/ha",
+          "frequency": "Once at planting"
+        },
+        {
+          "name": "Lime Sulfur (Organic Grade)",
+          "price": "₹180/litre",
+          "unit": "per litre",
+          "use_for": "Cedar Apple Rust, Raspberry Healthy - dormant spray, Apple diseases",
+          "dosage": "5.0 L/ha",
+          "frequency": "Dormant season / Every 10 days"
+        },
+        {
+          "name": "Seaweed Extract Liquid",
+          "price": "₹250/litre",
+          "unit": "per litre",
+          "use_for": "Plant growth promoter, Disease resistance booster, All crops",
+          "dosage": "3.0 L/ha",
+          "frequency": "Every 14 days"
+        }
+      ]
+    },
+    {
+      "name": "Delhi Organic Kisaan Store",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "latitude": 28.6139,
+      "longitude": 77.209,
+      "type": "organic",
+      "services": [
+        "Organic Fertilizers",
+        "Bio Pesticides",
+        "Soil Testing",
+        "Organic Seeds"
+      ],
+      "products": [
+        {
+          "name": "Neem Cake",
+          "price": "₹25/kg",
+          "unit": "per kg",
+          "use_for": "Soil pest control, Nematodes, General soil health",
+          "dosage": "200-250 kg/ha",
+          "frequency": "Once per season (soil application)"
+        },
+        {
+          "name": "Neem Oil (Cold Pressed)",
+          "price": "₹220/litre",
+          "unit": "per litre",
+          "use_for": "Apple Scab, Cherry Healthy (preventive), Spider Mites, Strawberry, Tomato diseases",
+          "dosage": "3.0-5.0 L/ha",
+          "frequency": "Every 7-14 days"
+        },
+        {
+          "name": "Neem Seed Kernel Extract (NSKE 5%)",
+          "price": "₹145/litre",
+          "unit": "per litre",
+          "use_for": "Whitefly (TYLCV prevention), Aphids, Spider Mites",
+          "dosage": "5.0 L/ha",
+          "frequency": "Every 7 days"
+        },
+        {
+          "name": "Sulfur Dust 90%",
+          "price": "₹45/kg",
+          "unit": "per kg",
+          "use_for": "Corn Common Rust, Powdery Mildew (dust application)",
+          "dosage": "5.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Copper Octanoate (Organic Copper)",
+          "price": "₹580/litre",
+          "unit": "per litre",
+          "use_for": "Pepper Bacterial Spot, Strawberry Leaf Scorch, Tomato Bacterial Spot",
+          "dosage": "2.0-2.5 L/ha",
+          "frequency": "Every 5-10 days"
+        },
+        {
+          "name": "Trichoderma Viride (1x10^8 CFU/g)",
+          "price": "₹110/kg",
+          "unit": "per kg",
+          "use_for": "Grape Esca, Potato Early Blight, Soil-borne Fungal diseases, Tomato Early Blight",
+          "dosage": "2.0-2.5 kg/ha",
+          "frequency": "Every 7-10 days / soil application"
+        },
+        {
+          "name": "Bacillus subtilis (1x10^9 CFU/g)",
+          "price": "₹195/kg",
+          "unit": "per kg",
+          "use_for": "Corn Northern Leaf Blight, Potato Early Blight, Peach Bacterial Spot, Blueberry",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Bacillus amyloliquefaciens (1x10^9 CFU/g)",
+          "price": "₹210/kg",
+          "unit": "per kg",
+          "use_for": "Pepper Bell Healthy (preventive), Strawberry Leaf Scorch, Tomato Septoria Leaf Spot",
+          "dosage": "1.0-2.0 kg/ha",
+          "frequency": "Every 10 days"
+        },
+        {
+          "name": "Pseudomonas Fluorescens (1x10^8 CFU/g)",
+          "price": "₹88/kg",
+          "unit": "per kg",
+          "use_for": "Soil-borne diseases, Root protection, Tomato diseases (biocontrol)",
+          "dosage": "2.5 kg/ha",
+          "frequency": "Every 10 days"
+        },
+        {
+          "name": "Panchagavya (Liquid)",
+          "price": "₹50/litre",
+          "unit": "per litre",
+          "use_for": "General crop health booster, Disease resistance, Preventive for all crops",
+          "dosage": "30 ml/litre of water",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Jeevamrutha (Liquid)",
+          "price": "₹10/litre",
+          "unit": "per litre",
+          "use_for": "Soil health, Microbial enrichment, Disease suppression in all crops",
+          "dosage": "200 L/ha",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Vermicompost",
+          "price": "₹15/kg",
+          "unit": "per kg",
+          "use_for": "Soil health, General crop nutrition, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Phosphobacteria (PSB) 1x10^8 CFU/g",
+          "price": "₹72/kg",
+          "unit": "per kg",
+          "use_for": "Phosphorus solubilization, Soil health, All crops",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Soil application once"
+        },
+        {
+          "name": "Azospirillum 1x10^8 CFU/g",
+          "price": "₹72/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation, Soil health, Blueberry, Soybean, All crops",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Soil application once"
+        },
+        {
+          "name": "Rhizobium Culture 1x10^8 CFU/g",
+          "price": "₹68/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation for legumes (Soybean healthy), Gram, Tur",
+          "dosage": "200g/ha (seed treatment)",
+          "frequency": "Once (seed treatment)"
+        },
+        {
+          "name": "VAM (Mycorrhiza) Granules",
+          "price": "₹97/kg",
+          "unit": "per kg",
+          "use_for": "Root development, Nutrient uptake, All fruit & vegetable crops",
+          "dosage": "5 kg/ha",
+          "frequency": "Once at planting"
+        },
+        {
+          "name": "Lime Sulfur (Organic Grade)",
+          "price": "₹180/litre",
+          "unit": "per litre",
+          "use_for": "Cedar Apple Rust, Raspberry Healthy - dormant spray, Apple diseases",
+          "dosage": "5.0 L/ha",
+          "frequency": "Dormant season / Every 10 days"
+        },
+        {
+          "name": "Seaweed Extract Liquid",
+          "price": "₹250/litre",
+          "unit": "per litre",
+          "use_for": "Plant growth promoter, Disease resistance booster, All crops",
+          "dosage": "3.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Fish Amino Acid (FAA)",
+          "price": "₹160/litre",
+          "unit": "per litre",
+          "use_for": "Crop nutrition, Growth promotion, Disease resistance",
+          "dosage": "2.0-3.0 L/ha",
+          "frequency": "Every 14 days"
+        }
+      ]
+    },
+    {
+      "name": "Punjab Organic Kheti Store",
+      "city": "Ludhiana",
+      "state": "Punjab",
+      "latitude": 30.901,
+      "longitude": 75.8573,
+      "type": "organic",
+      "services": [
+        "Organic Fertilizers",
+        "Bio Pesticides",
+        "Organic Seeds"
+      ],
+      "products": [
+        {
+          "name": "Neem Cake",
+          "price": "₹25/kg",
+          "unit": "per kg",
+          "use_for": "Soil pest control, Nematodes, General soil health",
+          "dosage": "200-250 kg/ha",
+          "frequency": "Once per season (soil application)"
+        },
+        {
+          "name": "Neem Oil (Cold Pressed)",
+          "price": "₹220/litre",
+          "unit": "per litre",
+          "use_for": "Apple Scab, Cherry Healthy (preventive), Spider Mites, Strawberry, Tomato diseases",
+          "dosage": "3.0-5.0 L/ha",
+          "frequency": "Every 7-14 days"
+        },
+        {
+          "name": "Neem Seed Kernel Extract (NSKE 5%)",
+          "price": "₹145/litre",
+          "unit": "per litre",
+          "use_for": "Whitefly (TYLCV prevention), Aphids, Spider Mites",
+          "dosage": "5.0 L/ha",
+          "frequency": "Every 7 days"
+        },
+        {
+          "name": "Sulfur 80% WG (Wettable Sulfur)",
+          "price": "₹60/kg",
+          "unit": "per kg",
+          "use_for": "Apple Scab, Corn Common Rust, Squash Powdery Mildew, Cherry Powdery Mildew",
+          "dosage": "4.0-5.0 kg/ha",
+          "frequency": "Every 7 days"
+        },
+        {
+          "name": "Sulfur Dust 90%",
+          "price": "₹45/kg",
+          "unit": "per kg",
+          "use_for": "Corn Common Rust, Powdery Mildew (dust application)",
+          "dosage": "5.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Trichoderma Viride (1x10^8 CFU/g)",
+          "price": "₹110/kg",
+          "unit": "per kg",
+          "use_for": "Grape Esca, Potato Early Blight, Soil-borne Fungal diseases, Tomato Early Blight",
+          "dosage": "2.0-2.5 kg/ha",
+          "frequency": "Every 7-10 days / soil application"
+        },
+        {
+          "name": "Bacillus subtilis (1x10^9 CFU/g)",
+          "price": "₹195/kg",
+          "unit": "per kg",
+          "use_for": "Corn Northern Leaf Blight, Potato Early Blight, Peach Bacterial Spot, Blueberry",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Bacillus amyloliquefaciens (1x10^9 CFU/g)",
+          "price": "₹210/kg",
+          "unit": "per kg",
+          "use_for": "Pepper Bell Healthy (preventive), Strawberry Leaf Scorch, Tomato Septoria Leaf Spot",
+          "dosage": "1.0-2.0 kg/ha",
+          "frequency": "Every 10 days"
+        },
+        {
+          "name": "Pseudomonas Fluorescens (1x10^8 CFU/g)",
+          "price": "₹88/kg",
+          "unit": "per kg",
+          "use_for": "Soil-borne diseases, Root protection, Tomato diseases (biocontrol)",
+          "dosage": "2.5 kg/ha",
+          "frequency": "Every 10 days"
+        },
+        {
+          "name": "Panchagavya (Liquid)",
+          "price": "₹50/litre",
+          "unit": "per litre",
+          "use_for": "General crop health booster, Disease resistance, Preventive for all crops",
+          "dosage": "30 ml/litre of water",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Jeevamrutha (Liquid)",
+          "price": "₹10/litre",
+          "unit": "per litre",
+          "use_for": "Soil health, Microbial enrichment, Disease suppression in all crops",
+          "dosage": "200 L/ha",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Vermicompost",
+          "price": "₹15/kg",
+          "unit": "per kg",
+          "use_for": "Soil health, General crop nutrition, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Phosphobacteria (PSB) 1x10^8 CFU/g",
+          "price": "₹72/kg",
+          "unit": "per kg",
+          "use_for": "Phosphorus solubilization, Soil health, All crops",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Soil application once"
+        },
+        {
+          "name": "Azospirillum 1x10^8 CFU/g",
+          "price": "₹72/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation, Soil health, Blueberry, Soybean, All crops",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Soil application once"
+        },
+        {
+          "name": "Rhizobium Culture 1x10^8 CFU/g",
+          "price": "₹68/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation for legumes (Soybean healthy), Gram, Tur",
+          "dosage": "200g/ha (seed treatment)",
+          "frequency": "Once (seed treatment)"
+        },
+        {
+          "name": "Lime Sulfur (Organic Grade)",
+          "price": "₹180/litre",
+          "unit": "per litre",
+          "use_for": "Cedar Apple Rust, Raspberry Healthy - dormant spray, Apple diseases",
+          "dosage": "5.0 L/ha",
+          "frequency": "Dormant season / Every 10 days"
+        },
+        {
+          "name": "Seaweed Extract Liquid",
+          "price": "₹250/litre",
+          "unit": "per litre",
+          "use_for": "Plant growth promoter, Disease resistance booster, All crops",
+          "dosage": "3.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Humic Acid Granules 70%",
+          "price": "₹180/kg",
+          "unit": "per kg",
+          "use_for": "Soil conditioner, Root health, Disease suppression",
+          "dosage": "10 kg/ha",
+          "frequency": "Once per season"
+        }
+      ]
+    },
+    {
+      "name": "Gujarat Organic Agro Center",
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "latitude": 23.0225,
+      "longitude": 72.5714,
+      "type": "organic",
+      "services": [
+        "Organic Fertilizers",
+        "Bio Pesticides",
+        "Organic Seeds"
+      ],
+      "products": [
+        {
+          "name": "Neem Cake",
+          "price": "₹25/kg",
+          "unit": "per kg",
+          "use_for": "Soil pest control, Nematodes, General soil health",
+          "dosage": "200-250 kg/ha",
+          "frequency": "Once per season (soil application)"
+        },
+        {
+          "name": "Neem Oil (Cold Pressed)",
+          "price": "₹220/litre",
+          "unit": "per litre",
+          "use_for": "Apple Scab, Cherry Healthy (preventive), Spider Mites, Strawberry, Tomato diseases",
+          "dosage": "3.0-5.0 L/ha",
+          "frequency": "Every 7-14 days"
+        },
+        {
+          "name": "Neem Seed Kernel Extract (NSKE 5%)",
+          "price": "₹145/litre",
+          "unit": "per litre",
+          "use_for": "Whitefly (TYLCV prevention), Aphids, Spider Mites",
+          "dosage": "5.0 L/ha",
+          "frequency": "Every 7 days"
+        },
+        {
+          "name": "Sulfur 80% WG (Wettable Sulfur)",
+          "price": "₹60/kg",
+          "unit": "per kg",
+          "use_for": "Apple Scab, Corn Common Rust, Squash Powdery Mildew, Cherry Powdery Mildew",
+          "dosage": "4.0-5.0 kg/ha",
+          "frequency": "Every 7 days"
+        },
+        {
+          "name": "Sulfur Dust 90%",
+          "price": "₹45/kg",
+          "unit": "per kg",
+          "use_for": "Corn Common Rust, Powdery Mildew (dust application)",
+          "dosage": "5.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Potassium Bicarbonate 85%",
+          "price": "₹340/kg",
+          "unit": "per kg",
+          "use_for": "Cherry Powdery Mildew, Squash Powdery Mildew, Grape Leaf Blight, Tomato Late Blight (organic)",
+          "dosage": "3.0-5.0 kg/ha",
+          "frequency": "Every 7 days"
+        },
+        {
+          "name": "Trichoderma Viride (1x10^8 CFU/g)",
+          "price": "₹110/kg",
+          "unit": "per kg",
+          "use_for": "Grape Esca, Potato Early Blight, Soil-borne Fungal diseases, Tomato Early Blight",
+          "dosage": "2.0-2.5 kg/ha",
+          "frequency": "Every 7-10 days / soil application"
+        },
+        {
+          "name": "Bacillus subtilis (1x10^9 CFU/g)",
+          "price": "₹195/kg",
+          "unit": "per kg",
+          "use_for": "Corn Northern Leaf Blight, Potato Early Blight, Peach Bacterial Spot, Blueberry",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Bacillus amyloliquefaciens (1x10^9 CFU/g)",
+          "price": "₹210/kg",
+          "unit": "per kg",
+          "use_for": "Pepper Bell Healthy (preventive), Strawberry Leaf Scorch, Tomato Septoria Leaf Spot",
+          "dosage": "1.0-2.0 kg/ha",
+          "frequency": "Every 10 days"
+        },
+        {
+          "name": "Panchagavya (Liquid)",
+          "price": "₹50/litre",
+          "unit": "per litre",
+          "use_for": "General crop health booster, Disease resistance, Preventive for all crops",
+          "dosage": "30 ml/litre of water",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Jeevamrutha (Liquid)",
+          "price": "₹10/litre",
+          "unit": "per litre",
+          "use_for": "Soil health, Microbial enrichment, Disease suppression in all crops",
+          "dosage": "200 L/ha",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Vermicompost",
+          "price": "₹15/kg",
+          "unit": "per kg",
+          "use_for": "Soil health, General crop nutrition, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Phosphobacteria (PSB) 1x10^8 CFU/g",
+          "price": "₹72/kg",
+          "unit": "per kg",
+          "use_for": "Phosphorus solubilization, Soil health, All crops",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Soil application once"
+        },
+        {
+          "name": "Azospirillum 1x10^8 CFU/g",
+          "price": "₹72/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation, Soil health, Blueberry, Soybean, All crops",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Soil application once"
+        },
+        {
+          "name": "Rhizobium Culture 1x10^8 CFU/g",
+          "price": "₹68/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation for legumes (Soybean healthy), Gram, Tur",
+          "dosage": "200g/ha (seed treatment)",
+          "frequency": "Once (seed treatment)"
+        },
+        {
+          "name": "VAM (Mycorrhiza) Granules",
+          "price": "₹97/kg",
+          "unit": "per kg",
+          "use_for": "Root development, Nutrient uptake, All fruit & vegetable crops",
+          "dosage": "5 kg/ha",
+          "frequency": "Once at planting"
+        },
+        {
+          "name": "Lime Sulfur (Organic Grade)",
+          "price": "₹180/litre",
+          "unit": "per litre",
+          "use_for": "Cedar Apple Rust, Raspberry Healthy - dormant spray, Apple diseases",
+          "dosage": "5.0 L/ha",
+          "frequency": "Dormant season / Every 10 days"
+        },
+        {
+          "name": "Seaweed Extract Liquid",
+          "price": "₹250/litre",
+          "unit": "per litre",
+          "use_for": "Plant growth promoter, Disease resistance booster, All crops",
+          "dosage": "3.0 L/ha",
+          "frequency": "Every 14 days"
+        }
+      ]
+    },
+    {
+      "name": "Krishi Organics Kolkata",
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "latitude": 22.5726,
+      "longitude": 88.3639,
+      "type": "organic",
+      "services": [
+        "Organic Fertilizers",
+        "Bio Pesticides",
+        "Organic Seeds",
+        "Soil Testing"
+      ],
+      "products": [
+        {
+          "name": "Neem Cake",
+          "price": "₹25/kg",
+          "unit": "per kg",
+          "use_for": "Soil pest control, Nematodes, General soil health",
+          "dosage": "200-250 kg/ha",
+          "frequency": "Once per season (soil application)"
+        },
+        {
+          "name": "Neem Oil (Cold Pressed)",
+          "price": "₹220/litre",
+          "unit": "per litre",
+          "use_for": "Apple Scab, Cherry Healthy (preventive), Spider Mites, Strawberry, Tomato diseases",
+          "dosage": "3.0-5.0 L/ha",
+          "frequency": "Every 7-14 days"
+        },
+        {
+          "name": "Neem Seed Kernel Extract (NSKE 5%)",
+          "price": "₹145/litre",
+          "unit": "per litre",
+          "use_for": "Whitefly (TYLCV prevention), Aphids, Spider Mites",
+          "dosage": "5.0 L/ha",
+          "frequency": "Every 7 days"
+        },
+        {
+          "name": "Sulfur Dust 90%",
+          "price": "₹45/kg",
+          "unit": "per kg",
+          "use_for": "Corn Common Rust, Powdery Mildew (dust application)",
+          "dosage": "5.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Copper Octanoate (Organic Copper)",
+          "price": "₹580/litre",
+          "unit": "per litre",
+          "use_for": "Pepper Bacterial Spot, Strawberry Leaf Scorch, Tomato Bacterial Spot",
+          "dosage": "2.0-2.5 L/ha",
+          "frequency": "Every 5-10 days"
+        },
+        {
+          "name": "Trichoderma Viride (1x10^8 CFU/g)",
+          "price": "₹110/kg",
+          "unit": "per kg",
+          "use_for": "Grape Esca, Potato Early Blight, Soil-borne Fungal diseases, Tomato Early Blight",
+          "dosage": "2.0-2.5 kg/ha",
+          "frequency": "Every 7-10 days / soil application"
+        },
+        {
+          "name": "Bacillus subtilis (1x10^9 CFU/g)",
+          "price": "₹195/kg",
+          "unit": "per kg",
+          "use_for": "Corn Northern Leaf Blight, Potato Early Blight, Peach Bacterial Spot, Blueberry",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Bacillus amyloliquefaciens (1x10^9 CFU/g)",
+          "price": "₹210/kg",
+          "unit": "per kg",
+          "use_for": "Pepper Bell Healthy (preventive), Strawberry Leaf Scorch, Tomato Septoria Leaf Spot",
+          "dosage": "1.0-2.0 kg/ha",
+          "frequency": "Every 10 days"
+        },
+        {
+          "name": "Pseudomonas Fluorescens (1x10^8 CFU/g)",
+          "price": "₹88/kg",
+          "unit": "per kg",
+          "use_for": "Soil-borne diseases, Root protection, Tomato diseases (biocontrol)",
+          "dosage": "2.5 kg/ha",
+          "frequency": "Every 10 days"
+        },
+        {
+          "name": "Panchagavya (Liquid)",
+          "price": "₹50/litre",
+          "unit": "per litre",
+          "use_for": "General crop health booster, Disease resistance, Preventive for all crops",
+          "dosage": "30 ml/litre of water",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Jeevamrutha (Liquid)",
+          "price": "₹10/litre",
+          "unit": "per litre",
+          "use_for": "Soil health, Microbial enrichment, Disease suppression in all crops",
+          "dosage": "200 L/ha",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Vermicompost",
+          "price": "₹15/kg",
+          "unit": "per kg",
+          "use_for": "Soil health, General crop nutrition, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Phosphobacteria (PSB) 1x10^8 CFU/g",
+          "price": "₹72/kg",
+          "unit": "per kg",
+          "use_for": "Phosphorus solubilization, Soil health, All crops",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Soil application once"
+        },
+        {
+          "name": "Azospirillum 1x10^8 CFU/g",
+          "price": "₹72/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation, Soil health, Blueberry, Soybean, All crops",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Soil application once"
+        },
+        {
+          "name": "Rhizobium Culture 1x10^8 CFU/g",
+          "price": "₹68/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation for legumes (Soybean healthy), Gram, Tur",
+          "dosage": "200g/ha (seed treatment)",
+          "frequency": "Once (seed treatment)"
+        },
+        {
+          "name": "VAM (Mycorrhiza) Granules",
+          "price": "₹97/kg",
+          "unit": "per kg",
+          "use_for": "Root development, Nutrient uptake, All fruit & vegetable crops",
+          "dosage": "5 kg/ha",
+          "frequency": "Once at planting"
+        },
+        {
+          "name": "Lime Sulfur (Organic Grade)",
+          "price": "₹180/litre",
+          "unit": "per litre",
+          "use_for": "Cedar Apple Rust, Raspberry Healthy - dormant spray, Apple diseases",
+          "dosage": "5.0 L/ha",
+          "frequency": "Dormant season / Every 10 days"
+        },
+        {
+          "name": "Seaweed Extract Liquid",
+          "price": "₹250/litre",
+          "unit": "per litre",
+          "use_for": "Plant growth promoter, Disease resistance booster, All crops",
+          "dosage": "3.0 L/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Fish Amino Acid (FAA)",
+          "price": "₹160/litre",
+          "unit": "per litre",
+          "use_for": "Crop nutrition, Growth promotion, Disease resistance",
+          "dosage": "2.0-3.0 L/ha",
+          "frequency": "Every 14 days"
+        }
+      ]
+    },
+    {
+      "name": "Bhubaneswar Organic Farm Hub",
+      "city": "Bhubaneswar",
+      "state": "Odisha",
+      "latitude": 20.2961,
+      "longitude": 85.8245,
+      "type": "organic",
+      "services": [
+        "Organic Fertilizers",
+        "Bio Pesticides"
+      ],
+      "products": [
+        {
+          "name": "Neem Oil (Cold Pressed)",
+          "price": "₹220/litre",
+          "unit": "per litre",
+          "use_for": "Apple Scab, Cherry Healthy (preventive), Spider Mites, Strawberry, Tomato diseases",
+          "dosage": "3.0-5.0 L/ha",
+          "frequency": "Every 7-14 days"
+        },
+        {
+          "name": "Sulfur 80% WG (Wettable Sulfur)",
+          "price": "₹60/kg",
+          "unit": "per kg",
+          "use_for": "Apple Scab, Corn Common Rust, Squash Powdery Mildew, Cherry Powdery Mildew",
+          "dosage": "4.0-5.0 kg/ha",
+          "frequency": "Every 7 days"
+        },
+        {
+          "name": "Copper Octanoate (Organic Copper)",
+          "price": "₹580/litre",
+          "unit": "per litre",
+          "use_for": "Pepper Bacterial Spot, Strawberry Leaf Scorch, Tomato Bacterial Spot",
+          "dosage": "2.0-2.5 L/ha",
+          "frequency": "Every 5-10 days"
+        },
+        {
+          "name": "Potassium Bicarbonate 85%",
+          "price": "₹340/kg",
+          "unit": "per kg",
+          "use_for": "Cherry Powdery Mildew, Squash Powdery Mildew, Grape Leaf Blight, Tomato Late Blight (organic)",
+          "dosage": "3.0-5.0 kg/ha",
+          "frequency": "Every 7 days"
+        },
+        {
+          "name": "Trichoderma Viride (1x10^8 CFU/g)",
+          "price": "₹110/kg",
+          "unit": "per kg",
+          "use_for": "Grape Esca, Potato Early Blight, Soil-borne Fungal diseases, Tomato Early Blight",
+          "dosage": "2.0-2.5 kg/ha",
+          "frequency": "Every 7-10 days / soil application"
+        },
+        {
+          "name": "Trichoderma Harzianum (1x10^8 CFU/g)",
+          "price": "₹118/kg",
+          "unit": "per kg",
+          "use_for": "Grape Esca wound protection, Tomato Early Blight, Root rot diseases",
+          "dosage": "2.0 kg/ha",
+          "frequency": "After pruning / soil drench"
+        },
+        {
+          "name": "Bacillus subtilis (1x10^9 CFU/g)",
+          "price": "₹195/kg",
+          "unit": "per kg",
+          "use_for": "Corn Northern Leaf Blight, Potato Early Blight, Peach Bacterial Spot, Blueberry",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Beauveria Bassiana 1.15% WP",
+          "price": "₹130/kg",
+          "unit": "per kg",
+          "use_for": "Whitefly (TYLCV prevention), Spider Mites, Aphids, Thrips",
+          "dosage": "2.0-2.5 kg/ha",
+          "frequency": "Every 7 days"
+        },
+        {
+          "name": "Kaolin Clay 95%",
+          "price": "₹120/kg",
+          "unit": "per kg",
+          "use_for": "Citrus Greening (psyllid repellent), Insect pest deterrent",
+          "dosage": "5.0 kg/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Panchagavya (Liquid)",
+          "price": "₹50/litre",
+          "unit": "per litre",
+          "use_for": "General crop health booster, Disease resistance, Preventive for all crops",
+          "dosage": "30 ml/litre of water",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Vermicompost",
+          "price": "₹15/kg",
+          "unit": "per kg",
+          "use_for": "Soil health, General crop nutrition, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Horticultural Oil (Mineral Oil 97%)",
+          "price": "₹380/litre",
+          "unit": "per litre",
+          "use_for": "Cherry Healthy, Peach Healthy, Raspberry - dormant season spray",
+          "dosage": "8.0-10.0 L/ha",
+          "frequency": "Dormant season once"
+        },
+        {
+          "name": "Phosphobacteria (PSB) 1x10^8 CFU/g",
+          "price": "₹72/kg",
+          "unit": "per kg",
+          "use_for": "Phosphorus solubilization, Soil health, All crops",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Soil application once"
+        },
+        {
+          "name": "Azospirillum 1x10^8 CFU/g",
+          "price": "₹72/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation, Soil health, Blueberry, Soybean, All crops",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Soil application once"
+        },
+        {
+          "name": "Rhizobium Culture 1x10^8 CFU/g",
+          "price": "₹68/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation for legumes (Soybean healthy), Gram, Tur",
+          "dosage": "200g/ha (seed treatment)",
+          "frequency": "Once (seed treatment)"
+        },
+        {
+          "name": "VAM (Mycorrhiza) Granules",
+          "price": "₹97/kg",
+          "unit": "per kg",
+          "use_for": "Root development, Nutrient uptake, All fruit & vegetable crops",
+          "dosage": "5 kg/ha",
+          "frequency": "Once at planting"
+        },
+        {
+          "name": "Lime Sulfur (Organic Grade)",
+          "price": "₹180/litre",
+          "unit": "per litre",
+          "use_for": "Cedar Apple Rust, Raspberry Healthy - dormant spray, Apple diseases",
+          "dosage": "5.0 L/ha",
+          "frequency": "Dormant season / Every 10 days"
+        },
+        {
+          "name": "Fish Amino Acid (FAA)",
+          "price": "₹160/litre",
+          "unit": "per litre",
+          "use_for": "Crop nutrition, Growth promotion, Disease resistance",
+          "dosage": "2.0-3.0 L/ha",
+          "frequency": "Every 14 days"
+        }
+      ]
+    },
+    {
+      "name": "Amrit Bhoomi Organic Center",
+      "city": "Lucknow",
+      "state": "Uttar Pradesh",
+      "latitude": 26.8467,
+      "longitude": 80.9462,
+      "type": "organic",
+      "services": [
+        "Organic Fertilizers",
+        "Bio Pesticides",
+        "Organic Seeds"
+      ],
+      "products": [
+        {
+          "name": "Neem Cake",
+          "price": "₹25/kg",
+          "unit": "per kg",
+          "use_for": "Soil pest control, Nematodes, General soil health",
+          "dosage": "200-250 kg/ha",
+          "frequency": "Once per season (soil application)"
+        },
+        {
+          "name": "Neem Oil (Cold Pressed)",
+          "price": "₹220/litre",
+          "unit": "per litre",
+          "use_for": "Apple Scab, Cherry Healthy (preventive), Spider Mites, Strawberry, Tomato diseases",
+          "dosage": "3.0-5.0 L/ha",
+          "frequency": "Every 7-14 days"
+        },
+        {
+          "name": "Neem Seed Kernel Extract (NSKE 5%)",
+          "price": "₹145/litre",
+          "unit": "per litre",
+          "use_for": "Whitefly (TYLCV prevention), Aphids, Spider Mites",
+          "dosage": "5.0 L/ha",
+          "frequency": "Every 7 days"
+        },
+        {
+          "name": "Sulfur Dust 90%",
+          "price": "₹45/kg",
+          "unit": "per kg",
+          "use_for": "Corn Common Rust, Powdery Mildew (dust application)",
+          "dosage": "5.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Copper Octanoate (Organic Copper)",
+          "price": "₹580/litre",
+          "unit": "per litre",
+          "use_for": "Pepper Bacterial Spot, Strawberry Leaf Scorch, Tomato Bacterial Spot",
+          "dosage": "2.0-2.5 L/ha",
+          "frequency": "Every 5-10 days"
+        },
+        {
+          "name": "Trichoderma Viride (1x10^8 CFU/g)",
+          "price": "₹110/kg",
+          "unit": "per kg",
+          "use_for": "Grape Esca, Potato Early Blight, Soil-borne Fungal diseases, Tomato Early Blight",
+          "dosage": "2.0-2.5 kg/ha",
+          "frequency": "Every 7-10 days / soil application"
+        },
+        {
+          "name": "Bacillus subtilis (1x10^9 CFU/g)",
+          "price": "₹195/kg",
+          "unit": "per kg",
+          "use_for": "Corn Northern Leaf Blight, Potato Early Blight, Peach Bacterial Spot, Blueberry",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Bacillus amyloliquefaciens (1x10^9 CFU/g)",
+          "price": "₹210/kg",
+          "unit": "per kg",
+          "use_for": "Pepper Bell Healthy (preventive), Strawberry Leaf Scorch, Tomato Septoria Leaf Spot",
+          "dosage": "1.0-2.0 kg/ha",
+          "frequency": "Every 10 days"
+        },
+        {
+          "name": "Pseudomonas Fluorescens (1x10^8 CFU/g)",
+          "price": "₹88/kg",
+          "unit": "per kg",
+          "use_for": "Soil-borne diseases, Root protection, Tomato diseases (biocontrol)",
+          "dosage": "2.5 kg/ha",
+          "frequency": "Every 10 days"
+        },
+        {
+          "name": "Panchagavya (Liquid)",
+          "price": "₹50/litre",
+          "unit": "per litre",
+          "use_for": "General crop health booster, Disease resistance, Preventive for all crops",
+          "dosage": "30 ml/litre of water",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Jeevamrutha (Liquid)",
+          "price": "₹10/litre",
+          "unit": "per litre",
+          "use_for": "Soil health, Microbial enrichment, Disease suppression in all crops",
+          "dosage": "200 L/ha",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Vermicompost",
+          "price": "₹15/kg",
+          "unit": "per kg",
+          "use_for": "Soil health, General crop nutrition, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Phosphobacteria (PSB) 1x10^8 CFU/g",
+          "price": "₹72/kg",
+          "unit": "per kg",
+          "use_for": "Phosphorus solubilization, Soil health, All crops",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Soil application once"
+        },
+        {
+          "name": "Azospirillum 1x10^8 CFU/g",
+          "price": "₹72/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation, Soil health, Blueberry, Soybean, All crops",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Soil application once"
+        },
+        {
+          "name": "Rhizobium Culture 1x10^8 CFU/g",
+          "price": "₹68/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation for legumes (Soybean healthy), Gram, Tur",
+          "dosage": "200g/ha (seed treatment)",
+          "frequency": "Once (seed treatment)"
+        },
+        {
+          "name": "VAM (Mycorrhiza) Granules",
+          "price": "₹97/kg",
+          "unit": "per kg",
+          "use_for": "Root development, Nutrient uptake, All fruit & vegetable crops",
+          "dosage": "5 kg/ha",
+          "frequency": "Once at planting"
+        },
+        {
+          "name": "Lime Sulfur (Organic Grade)",
+          "price": "₹180/litre",
+          "unit": "per litre",
+          "use_for": "Cedar Apple Rust, Raspberry Healthy - dormant spray, Apple diseases",
+          "dosage": "5.0 L/ha",
+          "frequency": "Dormant season / Every 10 days"
+        },
+        {
+          "name": "Seaweed Extract Liquid",
+          "price": "₹250/litre",
+          "unit": "per litre",
+          "use_for": "Plant growth promoter, Disease resistance booster, All crops",
+          "dosage": "3.0 L/ha",
+          "frequency": "Every 14 days"
+        }
+      ]
+    },
+    {
+      "name": "Bhopal Organic Agri Store",
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "latitude": 23.2599,
+      "longitude": 77.4126,
+      "type": "organic",
+      "services": [
+        "Organic Fertilizers",
+        "Bio Pesticides"
+      ],
+      "products": [
+        {
+          "name": "Neem Cake",
+          "price": "₹25/kg",
+          "unit": "per kg",
+          "use_for": "Soil pest control, Nematodes, General soil health",
+          "dosage": "200-250 kg/ha",
+          "frequency": "Once per season (soil application)"
+        },
+        {
+          "name": "Neem Oil (Cold Pressed)",
+          "price": "₹220/litre",
+          "unit": "per litre",
+          "use_for": "Apple Scab, Cherry Healthy (preventive), Spider Mites, Strawberry, Tomato diseases",
+          "dosage": "3.0-5.0 L/ha",
+          "frequency": "Every 7-14 days"
+        },
+        {
+          "name": "Neem Seed Kernel Extract (NSKE 5%)",
+          "price": "₹145/litre",
+          "unit": "per litre",
+          "use_for": "Whitefly (TYLCV prevention), Aphids, Spider Mites",
+          "dosage": "5.0 L/ha",
+          "frequency": "Every 7 days"
+        },
+        {
+          "name": "Sulfur 80% WG (Wettable Sulfur)",
+          "price": "₹60/kg",
+          "unit": "per kg",
+          "use_for": "Apple Scab, Corn Common Rust, Squash Powdery Mildew, Cherry Powdery Mildew",
+          "dosage": "4.0-5.0 kg/ha",
+          "frequency": "Every 7 days"
+        },
+        {
+          "name": "Sulfur Dust 90%",
+          "price": "₹45/kg",
+          "unit": "per kg",
+          "use_for": "Corn Common Rust, Powdery Mildew (dust application)",
+          "dosage": "5.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Copper Octanoate (Organic Copper)",
+          "price": "₹580/litre",
+          "unit": "per litre",
+          "use_for": "Pepper Bacterial Spot, Strawberry Leaf Scorch, Tomato Bacterial Spot",
+          "dosage": "2.0-2.5 L/ha",
+          "frequency": "Every 5-10 days"
+        },
+        {
+          "name": "Trichoderma Viride (1x10^8 CFU/g)",
+          "price": "₹110/kg",
+          "unit": "per kg",
+          "use_for": "Grape Esca, Potato Early Blight, Soil-borne Fungal diseases, Tomato Early Blight",
+          "dosage": "2.0-2.5 kg/ha",
+          "frequency": "Every 7-10 days / soil application"
+        },
+        {
+          "name": "Bacillus subtilis (1x10^9 CFU/g)",
+          "price": "₹195/kg",
+          "unit": "per kg",
+          "use_for": "Corn Northern Leaf Blight, Potato Early Blight, Peach Bacterial Spot, Blueberry",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Bacillus amyloliquefaciens (1x10^9 CFU/g)",
+          "price": "₹210/kg",
+          "unit": "per kg",
+          "use_for": "Pepper Bell Healthy (preventive), Strawberry Leaf Scorch, Tomato Septoria Leaf Spot",
+          "dosage": "1.0-2.0 kg/ha",
+          "frequency": "Every 10 days"
+        },
+        {
+          "name": "Panchagavya (Liquid)",
+          "price": "₹50/litre",
+          "unit": "per litre",
+          "use_for": "General crop health booster, Disease resistance, Preventive for all crops",
+          "dosage": "30 ml/litre of water",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Jeevamrutha (Liquid)",
+          "price": "₹10/litre",
+          "unit": "per litre",
+          "use_for": "Soil health, Microbial enrichment, Disease suppression in all crops",
+          "dosage": "200 L/ha",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Vermicompost",
+          "price": "₹15/kg",
+          "unit": "per kg",
+          "use_for": "Soil health, General crop nutrition, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Phosphobacteria (PSB) 1x10^8 CFU/g",
+          "price": "₹72/kg",
+          "unit": "per kg",
+          "use_for": "Phosphorus solubilization, Soil health, All crops",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Soil application once"
+        },
+        {
+          "name": "Azospirillum 1x10^8 CFU/g",
+          "price": "₹72/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation, Soil health, Blueberry, Soybean, All crops",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Soil application once"
+        },
+        {
+          "name": "Rhizobium Culture 1x10^8 CFU/g",
+          "price": "₹68/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation for legumes (Soybean healthy), Gram, Tur",
+          "dosage": "200g/ha (seed treatment)",
+          "frequency": "Once (seed treatment)"
+        },
+        {
+          "name": "VAM (Mycorrhiza) Granules",
+          "price": "₹97/kg",
+          "unit": "per kg",
+          "use_for": "Root development, Nutrient uptake, All fruit & vegetable crops",
+          "dosage": "5 kg/ha",
+          "frequency": "Once at planting"
+        },
+        {
+          "name": "Lime Sulfur (Organic Grade)",
+          "price": "₹180/litre",
+          "unit": "per litre",
+          "use_for": "Cedar Apple Rust, Raspberry Healthy - dormant spray, Apple diseases",
+          "dosage": "5.0 L/ha",
+          "frequency": "Dormant season / Every 10 days"
+        },
+        {
+          "name": "Seaweed Extract Liquid",
+          "price": "₹250/litre",
+          "unit": "per litre",
+          "use_for": "Plant growth promoter, Disease resistance booster, All crops",
+          "dosage": "3.0 L/ha",
+          "frequency": "Every 14 days"
+        }
+      ]
+    },
+    {
+      "name": "Kochi Organic Farm Store",
+      "city": "Kochi",
+      "state": "Kerala",
+      "latitude": 9.9312,
+      "longitude": 76.2673,
+      "type": "organic",
+      "services": [
+        "Organic Fertilizers",
+        "Bio Pesticides",
+        "Coconut Products"
+      ],
+      "products": [
+        {
+          "name": "Neem Oil (Cold Pressed)",
+          "price": "₹220/litre",
+          "unit": "per litre",
+          "use_for": "Apple Scab, Cherry Healthy (preventive), Spider Mites, Strawberry, Tomato diseases",
+          "dosage": "3.0-5.0 L/ha",
+          "frequency": "Every 7-14 days"
+        },
+        {
+          "name": "Sulfur 80% WG (Wettable Sulfur)",
+          "price": "₹60/kg",
+          "unit": "per kg",
+          "use_for": "Apple Scab, Corn Common Rust, Squash Powdery Mildew, Cherry Powdery Mildew",
+          "dosage": "4.0-5.0 kg/ha",
+          "frequency": "Every 7 days"
+        },
+        {
+          "name": "Copper Octanoate (Organic Copper)",
+          "price": "₹580/litre",
+          "unit": "per litre",
+          "use_for": "Pepper Bacterial Spot, Strawberry Leaf Scorch, Tomato Bacterial Spot",
+          "dosage": "2.0-2.5 L/ha",
+          "frequency": "Every 5-10 days"
+        },
+        {
+          "name": "Potassium Bicarbonate 85%",
+          "price": "₹340/kg",
+          "unit": "per kg",
+          "use_for": "Cherry Powdery Mildew, Squash Powdery Mildew, Grape Leaf Blight, Tomato Late Blight (organic)",
+          "dosage": "3.0-5.0 kg/ha",
+          "frequency": "Every 7 days"
+        },
+        {
+          "name": "Trichoderma Viride (1x10^8 CFU/g)",
+          "price": "₹110/kg",
+          "unit": "per kg",
+          "use_for": "Grape Esca, Potato Early Blight, Soil-borne Fungal diseases, Tomato Early Blight",
+          "dosage": "2.0-2.5 kg/ha",
+          "frequency": "Every 7-10 days / soil application"
+        },
+        {
+          "name": "Trichoderma Harzianum (1x10^8 CFU/g)",
+          "price": "₹118/kg",
+          "unit": "per kg",
+          "use_for": "Grape Esca wound protection, Tomato Early Blight, Root rot diseases",
+          "dosage": "2.0 kg/ha",
+          "frequency": "After pruning / soil drench"
+        },
+        {
+          "name": "Bacillus subtilis (1x10^9 CFU/g)",
+          "price": "₹195/kg",
+          "unit": "per kg",
+          "use_for": "Corn Northern Leaf Blight, Potato Early Blight, Peach Bacterial Spot, Blueberry",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Beauveria Bassiana 1.15% WP",
+          "price": "₹130/kg",
+          "unit": "per kg",
+          "use_for": "Whitefly (TYLCV prevention), Spider Mites, Aphids, Thrips",
+          "dosage": "2.0-2.5 kg/ha",
+          "frequency": "Every 7 days"
+        },
+        {
+          "name": "Kaolin Clay 95%",
+          "price": "₹120/kg",
+          "unit": "per kg",
+          "use_for": "Citrus Greening (psyllid repellent), Insect pest deterrent",
+          "dosage": "5.0 kg/ha",
+          "frequency": "Every 14 days"
+        },
+        {
+          "name": "Panchagavya (Liquid)",
+          "price": "₹50/litre",
+          "unit": "per litre",
+          "use_for": "General crop health booster, Disease resistance, Preventive for all crops",
+          "dosage": "30 ml/litre of water",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Vermicompost",
+          "price": "₹15/kg",
+          "unit": "per kg",
+          "use_for": "Soil health, General crop nutrition, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Horticultural Oil (Mineral Oil 97%)",
+          "price": "₹380/litre",
+          "unit": "per litre",
+          "use_for": "Cherry Healthy, Peach Healthy, Raspberry - dormant season spray",
+          "dosage": "8.0-10.0 L/ha",
+          "frequency": "Dormant season once"
+        },
+        {
+          "name": "Phosphobacteria (PSB) 1x10^8 CFU/g",
+          "price": "₹72/kg",
+          "unit": "per kg",
+          "use_for": "Phosphorus solubilization, Soil health, All crops",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Soil application once"
+        },
+        {
+          "name": "Azospirillum 1x10^8 CFU/g",
+          "price": "₹72/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation, Soil health, Blueberry, Soybean, All crops",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Soil application once"
+        },
+        {
+          "name": "Rhizobium Culture 1x10^8 CFU/g",
+          "price": "₹68/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation for legumes (Soybean healthy), Gram, Tur",
+          "dosage": "200g/ha (seed treatment)",
+          "frequency": "Once (seed treatment)"
+        },
+        {
+          "name": "VAM (Mycorrhiza) Granules",
+          "price": "₹97/kg",
+          "unit": "per kg",
+          "use_for": "Root development, Nutrient uptake, All fruit & vegetable crops",
+          "dosage": "5 kg/ha",
+          "frequency": "Once at planting"
+        },
+        {
+          "name": "Lime Sulfur (Organic Grade)",
+          "price": "₹180/litre",
+          "unit": "per litre",
+          "use_for": "Cedar Apple Rust, Raspberry Healthy - dormant spray, Apple diseases",
+          "dosage": "5.0 L/ha",
+          "frequency": "Dormant season / Every 10 days"
+        },
+        {
+          "name": "Fish Amino Acid (FAA)",
+          "price": "₹160/litre",
+          "unit": "per litre",
+          "use_for": "Crop nutrition, Growth promotion, Disease resistance",
+          "dosage": "2.0-3.0 L/ha",
+          "frequency": "Every 14 days"
+        }
+      ]
+    },
+    {
+      "name": "Patna Organic Krishi Store",
+      "city": "Patna",
+      "state": "Bihar",
+      "latitude": 25.5941,
+      "longitude": 85.1376,
+      "type": "organic",
+      "services": [
+        "Organic Fertilizers",
+        "Bio Pesticides",
+        "Organic Seeds"
+      ],
+      "products": [
+        {
+          "name": "Neem Cake",
+          "price": "₹25/kg",
+          "unit": "per kg",
+          "use_for": "Soil pest control, Nematodes, General soil health",
+          "dosage": "200-250 kg/ha",
+          "frequency": "Once per season (soil application)"
+        },
+        {
+          "name": "Neem Oil (Cold Pressed)",
+          "price": "₹220/litre",
+          "unit": "per litre",
+          "use_for": "Apple Scab, Cherry Healthy (preventive), Spider Mites, Strawberry, Tomato diseases",
+          "dosage": "3.0-5.0 L/ha",
+          "frequency": "Every 7-14 days"
+        },
+        {
+          "name": "Neem Seed Kernel Extract (NSKE 5%)",
+          "price": "₹145/litre",
+          "unit": "per litre",
+          "use_for": "Whitefly (TYLCV prevention), Aphids, Spider Mites",
+          "dosage": "5.0 L/ha",
+          "frequency": "Every 7 days"
+        },
+        {
+          "name": "Sulfur 80% WG (Wettable Sulfur)",
+          "price": "₹60/kg",
+          "unit": "per kg",
+          "use_for": "Apple Scab, Corn Common Rust, Squash Powdery Mildew, Cherry Powdery Mildew",
+          "dosage": "4.0-5.0 kg/ha",
+          "frequency": "Every 7 days"
+        },
+        {
+          "name": "Sulfur Dust 90%",
+          "price": "₹45/kg",
+          "unit": "per kg",
+          "use_for": "Corn Common Rust, Powdery Mildew (dust application)",
+          "dosage": "5.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Copper Octanoate (Organic Copper)",
+          "price": "₹580/litre",
+          "unit": "per litre",
+          "use_for": "Pepper Bacterial Spot, Strawberry Leaf Scorch, Tomato Bacterial Spot",
+          "dosage": "2.0-2.5 L/ha",
+          "frequency": "Every 5-10 days"
+        },
+        {
+          "name": "Trichoderma Viride (1x10^8 CFU/g)",
+          "price": "₹110/kg",
+          "unit": "per kg",
+          "use_for": "Grape Esca, Potato Early Blight, Soil-borne Fungal diseases, Tomato Early Blight",
+          "dosage": "2.0-2.5 kg/ha",
+          "frequency": "Every 7-10 days / soil application"
+        },
+        {
+          "name": "Bacillus subtilis (1x10^9 CFU/g)",
+          "price": "₹195/kg",
+          "unit": "per kg",
+          "use_for": "Corn Northern Leaf Blight, Potato Early Blight, Peach Bacterial Spot, Blueberry",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Every 7-10 days"
+        },
+        {
+          "name": "Bacillus amyloliquefaciens (1x10^9 CFU/g)",
+          "price": "₹210/kg",
+          "unit": "per kg",
+          "use_for": "Pepper Bell Healthy (preventive), Strawberry Leaf Scorch, Tomato Septoria Leaf Spot",
+          "dosage": "1.0-2.0 kg/ha",
+          "frequency": "Every 10 days"
+        },
+        {
+          "name": "Pseudomonas Fluorescens (1x10^8 CFU/g)",
+          "price": "₹88/kg",
+          "unit": "per kg",
+          "use_for": "Soil-borne diseases, Root protection, Tomato diseases (biocontrol)",
+          "dosage": "2.5 kg/ha",
+          "frequency": "Every 10 days"
+        },
+        {
+          "name": "Panchagavya (Liquid)",
+          "price": "₹50/litre",
+          "unit": "per litre",
+          "use_for": "General crop health booster, Disease resistance, Preventive for all crops",
+          "dosage": "30 ml/litre of water",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Jeevamrutha (Liquid)",
+          "price": "₹10/litre",
+          "unit": "per litre",
+          "use_for": "Soil health, Microbial enrichment, Disease suppression in all crops",
+          "dosage": "200 L/ha",
+          "frequency": "Every 15 days"
+        },
+        {
+          "name": "Vermicompost",
+          "price": "₹15/kg",
+          "unit": "per kg",
+          "use_for": "Soil health, General crop nutrition, Disease suppression",
+          "dosage": "5 tonnes/ha",
+          "frequency": "Once per season"
+        },
+        {
+          "name": "Phosphobacteria (PSB) 1x10^8 CFU/g",
+          "price": "₹72/kg",
+          "unit": "per kg",
+          "use_for": "Phosphorus solubilization, Soil health, All crops",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Soil application once"
+        },
+        {
+          "name": "Azospirillum 1x10^8 CFU/g",
+          "price": "₹72/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation, Soil health, Blueberry, Soybean, All crops",
+          "dosage": "2.0 kg/ha",
+          "frequency": "Soil application once"
+        },
+        {
+          "name": "Rhizobium Culture 1x10^8 CFU/g",
+          "price": "₹68/kg",
+          "unit": "per kg",
+          "use_for": "Nitrogen fixation for legumes (Soybean healthy), Gram, Tur",
+          "dosage": "200g/ha (seed treatment)",
+          "frequency": "Once (seed treatment)"
+        },
+        {
+          "name": "VAM (Mycorrhiza) Granules",
+          "price": "₹97/kg",
+          "unit": "per kg",
+          "use_for": "Root development, Nutrient uptake, All fruit & vegetable crops",
+          "dosage": "5 kg/ha",
+          "frequency": "Once at planting"
+        },
+        {
+          "name": "Lime Sulfur (Organic Grade)",
+          "price": "₹180/litre",
+          "unit": "per litre",
+          "use_for": "Cedar Apple Rust, Raspberry Healthy - dormant spray, Apple diseases",
+          "dosage": "5.0 L/ha",
+          "frequency": "Dormant season / Every 10 days"
+        },
+        {
+          "name": "Seaweed Extract Liquid",
+          "price": "₹250/litre",
+          "unit": "per litre",
+          "use_for": "Plant growth promoter, Disease resistance booster, All crops",
+          "dosage": "3.0 L/ha",
+          "frequency": "Every 14 days"
+        }
+      ]
+    }
+  ]
+}

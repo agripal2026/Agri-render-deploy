@@ -38,3 +38,4 @@ python-dotenv==1.0.0
 
 # Performance (Optional but recommended)
 flask-compress==1.14
+python-dotenv

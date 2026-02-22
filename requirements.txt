@@ -1,7 +1,7 @@
 Flask==3.0.0
 Flask-Cors==4.0.0
 numpy==1.26.4
-Werkzeug==3.0.0
+
 
 
 # Core Flask Framework
@@ -14,7 +14,7 @@ SQLAlchemy==2.0.23
 psycopg2-binary==2.9.9
 
 # Security & Authentication
-werkzeug==3.0.1
+werkzeug==3.0.0
 
 # Machine Learning & AI
 # ✅ FIXED: tensorflow 2.15.0 does NOT exist for Python 3.11
